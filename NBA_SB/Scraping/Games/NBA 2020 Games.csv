@@ -1,0 +1,1222 @@
+Date,Home Odds,Vis Odds,Home,Visitor,Home PTS,Vis PTS,Home Points Dif,Home Win
+2021-07-20,1.55,2.6,Milwaukee Bucks,Phoenix Suns,105.0,98.0,7.0,True
+2021-07-17,1.59,2.48,Phoenix Suns,Milwaukee Bucks,119.0,123.0,-4.0,False
+2021-07-14,1.51,2.7,Milwaukee Bucks,Phoenix Suns,109.0,103.0,6.0,True
+2021-07-11,1.51,2.69,Milwaukee Bucks,Phoenix Suns,120.0,100.0,20.0,True
+2021-07-08,1.53,2.62,Phoenix Suns,Milwaukee Bucks,118.0,108.0,10.0,True
+2021-07-06,1.51,2.71,Phoenix Suns,Milwaukee Bucks,118.0,105.0,13.0,True
+2021-07-03,1.63,2.38,Atlanta Hawks,Milwaukee Bucks,107.0,118.0,-11.0,False
+2021-07-01,1.54,2.61,Milwaukee Bucks,Atlanta Hawks,123.0,112.0,11.0,True
+2021-06-30,1.98,1.88,Los Angeles Clippers,Phoenix Suns,103.0,130.0,-27.0,False
+2021-06-29,4.22,1.26,Atlanta Hawks,Milwaukee Bucks,110.0,88.0,22.0,True
+2021-06-28,1.36,3.34,Phoenix Suns,Los Angeles Clippers,102.0,116.0,-14.0,False
+2021-06-27,2.66,1.53,Atlanta Hawks,Milwaukee Bucks,102.0,113.0,-11.0,False
+2021-06-26,1.91,1.94,Los Angeles Clippers,Phoenix Suns,80.0,84.0,-4.0,False
+2021-06-25,1.28,3.86,Milwaukee Bucks,Atlanta Hawks,125.0,91.0,34.0,True
+2021-06-24,1.98,1.88,Los Angeles Clippers,Phoenix Suns,106.0,92.0,14.0,True
+2021-06-23,1.28,3.87,Milwaukee Bucks,Atlanta Hawks,113.0,116.0,-3.0,False
+2021-06-22,1.51,2.72,Phoenix Suns,Los Angeles Clippers,104.0,103.0,1.0,True
+2021-06-20,1.37,3.3,Philadelphia 76ers,Atlanta Hawks,96.0,103.0,-7.0,False
+2021-06-20,1.59,2.46,Phoenix Suns,Los Angeles Clippers,120.0,114.0,6.0,True
+2021-06-19,1.78,2.13,Brooklyn Nets,Milwaukee Bucks,111.0,115.0,-4.0,False
+2021-06-18,2.23,1.74,Los Angeles Clippers,Utah Jazz,131.0,119.0,12.0,True
+2021-06-18,2.26,1.72,Atlanta Hawks,Philadelphia 76ers,99.0,104.0,-5.0,False
+2021-06-17,1.52,2.66,Milwaukee Bucks,Brooklyn Nets,104.0,89.0,15.0,True
+2021-06-16,1.27,4.07,Utah Jazz,Los Angeles Clippers,111.0,119.0,-8.0,False
+2021-06-16,1.34,3.45,Philadelphia 76ers,Atlanta Hawks,106.0,109.0,-3.0,False
+2021-06-15,2.03,1.85,Brooklyn Nets,Milwaukee Bucks,114.0,108.0,6.0,True
+2021-06-14,1.48,2.8,Los Angeles Clippers,Utah Jazz,118.0,104.0,14.0,True
+2021-06-14,2.22,1.71,Atlanta Hawks,Philadelphia 76ers,103.0,100.0,3.0,True
+2021-06-13,2.27,1.68,Denver Nuggets,Phoenix Suns,118.0,125.0,-7.0,False
+2021-06-13,2.13,1.76,Milwaukee Bucks,Brooklyn Nets,107.0,96.0,11.0,True
+2021-06-12,1.51,2.68,Los Angeles Clippers,Utah Jazz,132.0,106.0,26.0,True
+2021-06-11,1.79,2.09,Denver Nuggets,Phoenix Suns,102.0,116.0,-14.0,False
+2021-06-11,2.16,1.76,Atlanta Hawks,Philadelphia 76ers,111.0,127.0,-16.0,False
+2021-06-10,1.7,2.23,Utah Jazz,Los Angeles Clippers,117.0,111.0,6.0,True
+2021-06-10,1.65,2.34,Milwaukee Bucks,Brooklyn Nets,86.0,83.0,3.0,True
+2021-06-09,1.43,2.98,Phoenix Suns,Denver Nuggets,123.0,98.0,25.0,True
+2021-06-08,1.68,2.27,Utah Jazz,Los Angeles Clippers,112.0,109.0,3.0,True
+2021-06-08,1.4,3.13,Philadelphia 76ers,Atlanta Hawks,118.0,102.0,16.0,True
+2021-06-07,1.45,2.87,Phoenix Suns,Denver Nuggets,122.0,105.0,17.0,True
+2021-06-07,2.02,1.89,Brooklyn Nets,Milwaukee Bucks,125.0,86.0,39.0,True
+2021-06-06,1.4,3.09,Los Angeles Clippers,Dallas Mavericks,126.0,111.0,15.0,True
+2021-06-06,1.52,2.67,Philadelphia 76ers,Atlanta Hawks,124.0,128.0,-4.0,False
+2021-06-05,1.58,2.48,Brooklyn Nets,Milwaukee Bucks,115.0,107.0,8.0,True
+2021-06-04,2.26,1.71,Dallas Mavericks,Los Angeles Clippers,97.0,104.0,-7.0,False
+2021-06-03,1.67,2.29,Los Angeles Lakers,Phoenix Suns,100.0,113.0,-13.0,False
+2021-06-03,1.5,2.71,Portland Trail Blazers,Denver Nuggets,115.0,126.0,-11.0,False
+2021-06-02,1.3,3.76,Los Angeles Clippers,Dallas Mavericks,100.0,105.0,-5.0,False
+2021-06-02,1.22,4.64,Utah Jazz,Memphis Grizzlies,126.0,110.0,16.0,True
+2021-06-02,2.33,1.93,New York Knicks,Atlanta Hawks,89.0,103.0,-14.0,False
+2021-06-02,1.42,2.99,Philadelphia 76ers,Washington Wizards,129.0,112.0,17.0,True
+2021-06-01,1.56,2.58,Phoenix Suns,Los Angeles Lakers,115.0,85.0,30.0,True
+2021-06-01,1.81,2.07,Denver Nuggets,Portland Trail Blazers,147.0,140.0,7.0,True
+2021-06-01,1.11,7.44,Brooklyn Nets,Boston Celtics,123.0,109.0,14.0,True
+2021-05-31,2.89,1.45,Memphis Grizzlies,Utah Jazz,113.0,120.0,-7.0,False
+2021-05-31,4.04,1.27,Washington Wizards,Philadelphia 76ers,122.0,114.0,8.0,True
+2021-05-30,2.42,1.61,Dallas Mavericks,Los Angeles Clippers,81.0,106.0,-25.0,False
+2021-05-30,4.32,1.24,Boston Celtics,Brooklyn Nets,126.0,141.0,-15.0,False
+2021-05-30,1.36,3.33,Los Angeles Lakers,Phoenix Suns,92.0,100.0,-8.0,False
+2021-05-30,1.5,2.71,Atlanta Hawks,New York Knicks,113.0,96.0,17.0,True
+2021-05-29,2.81,1.47,Memphis Grizzlies,Utah Jazz,111.0,121.0,-10.0,False
+2021-05-29,2.85,1.45,Washington Wizards,Philadelphia 76ers,103.0,132.0,-29.0,False
+2021-05-29,1.5,2.7,Portland Trail Blazers,Denver Nuggets,115.0,95.0,20.0,True
+2021-05-29,2.6,1.54,Miami Heat,Milwaukee Bucks,103.0,120.0,-17.0,False
+2021-05-28,2.27,1.68,Dallas Mavericks,Los Angeles Clippers,108.0,118.0,-10.0,False
+2021-05-28,3.62,1.32,Boston Celtics,Brooklyn Nets,125.0,119.0,6.0,True
+2021-05-28,1.53,2.63,Atlanta Hawks,New York Knicks,105.0,94.0,11.0,True
+2021-05-27,1.6,2.45,Portland Trail Blazers,Denver Nuggets,115.0,120.0,-5.0,False
+2021-05-27,1.36,3.3,Los Angeles Lakers,Phoenix Suns,109.0,95.0,14.0,True
+2021-05-27,2.01,1.85,Miami Heat,Milwaukee Bucks,84.0,113.0,-29.0,False
+2021-05-26,1.19,4.95,Utah Jazz,Memphis Grizzlies,141.0,129.0,12.0,True
+2021-05-26,1.76,2.14,New York Knicks,Atlanta Hawks,101.0,92.0,9.0,True
+2021-05-26,1.25,4.13,Philadelphia 76ers,Washington Wizards,120.0,95.0,25.0,True
+2021-05-25,1.33,3.53,Los Angeles Clippers,Dallas Mavericks,121.0,127.0,-6.0,False
+2021-05-25,2.1,1.77,Phoenix Suns,Los Angeles Lakers,102.0,109.0,-7.0,False
+2021-05-25,1.22,4.64,Brooklyn Nets,Boston Celtics,130.0,108.0,22.0,True
+2021-05-24,1.76,2.13,Denver Nuggets,Portland Trail Blazers,128.0,109.0,19.0,True
+2021-05-24,1.51,2.7,Milwaukee Bucks,Miami Heat,132.0,98.0,34.0,True
+2021-05-23,1.29,3.86,Utah Jazz,Memphis Grizzlies,109.0,112.0,-3.0,False
+2021-05-23,1.85,2.0,New York Knicks,Atlanta Hawks,105.0,107.0,-2.0,False
+2021-05-23,1.76,2.15,Phoenix Suns,Los Angeles Lakers,99.0,90.0,9.0,True
+2021-05-23,1.29,3.77,Philadelphia 76ers,Washington Wizards,125.0,118.0,7.0,True
+2021-05-22,1.88,1.97,Denver Nuggets,Portland Trail Blazers,109.0,123.0,-14.0,False
+2021-05-22,1.26,4.1,Brooklyn Nets,Boston Celtics,104.0,93.0,11.0,True
+2021-05-22,1.41,3.07,Los Angeles Clippers,Dallas Mavericks,103.0,113.0,-10.0,False
+2021-05-22,1.45,2.88,Milwaukee Bucks,Miami Heat,109.0,107.0,2.0,True
+2021-05-21,1.5,2.73,Golden State Warriors,Memphis Grizzlies,112.0,117.0,-5.0,False
+2021-05-20,1.63,2.38,Washington Wizards,Indiana Pacers,142.0,115.0,27.0,True
+2021-05-19,1.41,3.06,Los Angeles Lakers,Golden State Warriors,103.0,100.0,3.0,True
+2021-05-19,1.54,2.6,Memphis Grizzlies,San Antonio Spurs,100.0,96.0,4.0,True
+2021-05-18,1.77,2.12,Boston Celtics,Washington Wizards,118.0,100.0,18.0,True
+2021-05-18,1.82,2.06,Indiana Pacers,Charlotte Hornets,144.0,117.0,27.0,True
+2021-05-16,3.31,1.36,Chicago Bulls,Milwaukee Bucks,118.0,112.0,6.0,True
+2021-05-16,3.25,1.37,Minnesota Timberwolves,Dallas Mavericks,136.0,121.0,15.0,True
+2021-05-16,4.59,1.22,New Orleans Pelicans,Los Angeles Lakers,98.0,110.0,-12.0,False
+2021-05-16,3.75,1.29,Oklahoma City Thunder,Los Angeles Clippers,117.0,112.0,5.0,True
+2021-05-16,1.26,4.08,Portland Trail Blazers,Denver Nuggets,132.0,116.0,16.0,True
+2021-05-16,6.54,1.13,Sacramento Kings,Utah Jazz,99.0,121.0,-22.0,False
+2021-05-16,2.33,1.65,Detroit Pistons,Miami Heat,107.0,120.0,-13.0,False
+2021-05-16,1.33,3.49,Atlanta Hawks,Houston Rockets,124.0,95.0,29.0,True
+2021-05-16,1.09,8.1,Brooklyn Nets,Cleveland Cavaliers,123.0,109.0,14.0,True
+2021-05-16,1.4,3.09,Philadelphia 76ers,Orlando Magic,128.0,117.0,11.0,True
+2021-05-16,1.62,2.4,Golden State Warriors,Memphis Grizzlies,113.0,101.0,12.0,True
+2021-05-16,2.19,1.73,San Antonio Spurs,Phoenix Suns,121.0,123.0,-2.0,False
+2021-05-16,1.12,7.05,New York Knicks,Boston Celtics,96.0,92.0,4.0,True
+2021-05-16,2.98,1.42,Toronto Raptors,Indiana Pacers,113.0,125.0,-12.0,False
+2021-05-16,1.37,3.27,Washington Wizards,Charlotte Hornets,115.0,110.0,5.0,True
+2021-05-15,1.65,2.42,Milwaukee Bucks,Miami Heat,122.0,108.0,14.0,True
+2021-05-15,1.51,2.68,Minnesota Timberwolves,Boston Celtics,108.0,124.0,-16.0,False
+2021-05-15,5.73,1.16,San Antonio Spurs,Phoenix Suns,103.0,140.0,-37.0,False
+2021-05-15,1.14,6.2,Brooklyn Nets,Chicago Bulls,105.0,91.0,14.0,True
+2021-05-15,4.08,1.26,Indiana Pacers,Los Angeles Lakers,115.0,122.0,-7.0,False
+2021-05-15,1.44,2.93,New York Knicks,Charlotte Hornets,118.0,109.0,9.0,True
+2021-05-14,1.88,1.98,Golden State Warriors,New Orleans Pelicans,125.0,122.0,3.0,True
+2021-05-14,1.07,10.23,Dallas Mavericks,Toronto Raptors,114.0,110.0,4.0,True
+2021-05-14,3.58,1.32,Houston Rockets,Los Angeles Clippers,122.0,115.0,7.0,True
+2021-05-14,1.63,2.38,Memphis Grizzlies,Sacramento Kings,107.0,106.0,1.0,True
+2021-05-14,4.09,1.26,Detroit Pistons,Denver Nuggets,91.0,104.0,-13.0,False
+2021-05-14,10.47,1.06,Oklahoma City Thunder,Utah Jazz,93.0,109.0,-16.0,False
+2021-05-14,1.07,9.76,Philadelphia 76ers,Orlando Magic,122.0,97.0,25.0,True
+2021-05-14,1.23,4.42,Washington Wizards,Cleveland Cavaliers,120.0,105.0,15.0,True
+2021-05-13,1.76,2.15,Phoenix Suns,Portland Trail Blazers,118.0,117.0,1.0,True
+2021-05-13,1.19,5.07,Chicago Bulls,Toronto Raptors,114.0,102.0,12.0,True
+2021-05-13,1.27,4.02,Memphis Grizzlies,Sacramento Kings,116.0,110.0,6.0,True
+2021-05-13,2.12,1.77,Minnesota Timberwolves,Denver Nuggets,103.0,114.0,-11.0,False
+2021-05-13,1.11,7.36,Atlanta Hawks,Orlando Magic,116.0,93.0,23.0,True
+2021-05-13,1.87,1.99,Miami Heat,Philadelphia 76ers,106.0,94.0,12.0,True
+2021-05-13,1.51,2.67,New York Knicks,San Antonio Spurs,102.0,98.0,4.0,True
+2021-05-13,4.1,1.26,Charlotte Hornets,Los Angeles Clippers,90.0,113.0,-23.0,False
+2021-05-13,4.56,1.22,Indiana Pacers,Milwaukee Bucks,133.0,142.0,-9.0,False
+2021-05-12,1.21,4.77,Los Angeles Lakers,Houston Rockets,124.0,122.0,2.0,True
+2021-05-12,1.91,1.96,Utah Jazz,Portland Trail Blazers,98.0,105.0,-7.0,False
+2021-05-12,1.21,4.7,Dallas Mavericks,New Orleans Pelicans,125.0,107.0,18.0,True
+2021-05-12,1.51,2.68,Brooklyn Nets,San Antonio Spurs,128.0,116.0,12.0,True
+2021-05-12,3.0,1.42,Cleveland Cavaliers,Boston Celtics,102.0,94.0,8.0,True
+2021-05-12,1.36,3.27,Atlanta Hawks,Washington Wizards,120.0,116.0,4.0,True
+2021-05-11,2.62,1.53,Golden State Warriors,Phoenix Suns,122.0,116.0,6.0,True
+2021-05-11,1.72,2.2,Los Angeles Lakers,New York Knicks,101.0,99.0,2.0,True
+2021-05-11,1.23,4.49,Sacramento Kings,Oklahoma City Thunder,122.0,106.0,16.0,True
+2021-05-11,1.06,10.71,Milwaukee Bucks,Orlando Magic,114.0,102.0,12.0,True
+2021-05-11,2.63,1.53,Chicago Bulls,Brooklyn Nets,107.0,115.0,-8.0,False
+2021-05-11,2.77,1.48,Indiana Pacers,Philadelphia 76ers,103.0,94.0,9.0,True
+2021-05-11,2.32,1.66,Memphis Grizzlies,Dallas Mavericks,133.0,104.0,29.0,True
+2021-05-11,2.03,1.84,Boston Celtics,Miami Heat,121.0,129.0,-8.0,False
+2021-05-11,8.08,1.09,Toronto Raptors,Los Angeles Clippers,96.0,115.0,-19.0,False
+2021-05-11,3.0,1.42,Charlotte Hornets,Denver Nuggets,112.0,117.0,-5.0,False
+2021-05-11,3.46,1.34,Detroit Pistons,Minnesota Timberwolves,100.0,119.0,-19.0,False
+2021-05-10,2.09,1.8,Golden State Warriors,Utah Jazz,119.0,116.0,3.0,True
+2021-05-10,1.07,10.41,Portland Trail Blazers,Houston Rockets,140.0,129.0,11.0,True
+2021-05-10,3.42,1.34,San Antonio Spurs,Milwaukee Bucks,146.0,125.0,21.0,True
+2021-05-10,1.21,4.68,Memphis Grizzlies,New Orleans Pelicans,115.0,110.0,5.0,True
+2021-05-10,1.28,3.86,Atlanta Hawks,Washington Wizards,125.0,124.0,1.0,True
+2021-05-10,4.55,1.23,Cleveland Cavaliers,Indiana Pacers,102.0,111.0,-9.0,False
+2021-05-09,3.24,1.38,Los Angeles Lakers,Phoenix Suns,123.0,110.0,13.0,True
+2021-05-09,1.23,4.5,Sacramento Kings,Oklahoma City Thunder,126.0,98.0,28.0,True
+2021-05-09,4.54,1.23,Detroit Pistons,Chicago Bulls,96.0,108.0,-12.0,False
+2021-05-09,1.66,2.31,Charlotte Hornets,New Orleans Pelicans,110.0,112.0,-2.0,False
+2021-05-09,5.17,1.18,Cleveland Cavaliers,Dallas Mavericks,97.0,124.0,-27.0,False
+2021-05-09,3.57,1.32,Orlando Magic,Minnesota Timberwolves,96.0,128.0,-32.0,False
+2021-05-09,1.3,3.71,Los Angeles Clippers,New York Knicks,100.0,106.0,-6.0,False
+2021-05-09,1.89,1.97,Boston Celtics,Miami Heat,124.0,130.0,-6.0,False
+2021-05-08,2.37,1.63,Denver Nuggets,Brooklyn Nets,119.0,125.0,-6.0,False
+2021-05-08,1.09,8.35,Golden State Warriors,Oklahoma City Thunder,136.0,97.0,39.0,True
+2021-05-08,1.42,2.99,Portland Trail Blazers,San Antonio Spurs,124.0,102.0,22.0,True
+2021-05-08,1.05,11.44,Utah Jazz,Houston Rockets,124.0,116.0,8.0,True
+2021-05-08,3.1,1.4,Toronto Raptors,Memphis Grizzlies,99.0,109.0,-10.0,False
+2021-05-08,2.54,1.56,Indiana Pacers,Washington Wizards,132.0,133.0,-1.0,False
+2021-05-08,1.23,4.47,Philadelphia 76ers,Detroit Pistons,118.0,104.0,14.0,True
+2021-05-07,1.37,3.25,Phoenix Suns,New York Knicks,128.0,105.0,23.0,True
+2021-05-07,1.3,3.73,Portland Trail Blazers,Los Angeles Lakers,106.0,101.0,5.0,True
+2021-05-07,2.6,1.54,Sacramento Kings,San Antonio Spurs,104.0,113.0,-9.0,False
+2021-05-07,1.57,2.52,Utah Jazz,Denver Nuggets,127.0,120.0,7.0,True
+2021-05-07,1.17,5.42,Dallas Mavericks,Cleveland Cavaliers,110.0,90.0,20.0,True
+2021-05-07,1.31,3.62,Charlotte Hornets,Orlando Magic,122.0,112.0,10.0,True
+2021-05-07,1.31,3.71,Miami Heat,Minnesota Timberwolves,121.0,112.0,9.0,True
+2021-05-07,1.04,13.12,Milwaukee Bucks,Houston Rockets,141.0,133.0,8.0,True
+2021-05-07,2.51,1.57,Chicago Bulls,Boston Celtics,121.0,99.0,22.0,True
+2021-05-07,1.15,6.25,Philadelphia 76ers,New Orleans Pelicans,109.0,107.0,2.0,True
+2021-05-06,1.09,8.2,Golden State Warriors,Oklahoma City Thunder,118.0,97.0,21.0,True
+2021-05-06,1.27,4.05,Los Angeles Clippers,Los Angeles Lakers,118.0,94.0,24.0,True
+2021-05-06,4.51,1.23,Detroit Pistons,Memphis Grizzlies,111.0,97.0,14.0,True
+2021-05-06,3.05,1.41,Indiana Pacers,Atlanta Hawks,133.0,126.0,7.0,True
+2021-05-06,2.26,1.69,Dallas Mavericks,Brooklyn Nets,113.0,109.0,4.0,True
+2021-05-06,2.11,1.78,Toronto Raptors,Washington Wizards,129.0,131.0,-2.0,False
+2021-05-06,2.55,1.56,Charlotte Hornets,Chicago Bulls,99.0,120.0,-21.0,False
+2021-05-05,1.62,2.4,Denver Nuggets,New York Knicks,113.0,97.0,16.0,True
+2021-05-05,1.38,3.23,Utah Jazz,San Antonio Spurs,126.0,94.0,32.0,True
+2021-05-05,1.95,1.91,Atlanta Hawks,Phoenix Suns,135.0,103.0,32.0,True
+2021-05-05,9.42,1.07,Houston Rockets,Philadelphia 76ers,115.0,135.0,-20.0,False
+2021-05-05,1.4,3.07,Indiana Pacers,Sacramento Kings,93.0,104.0,-11.0,False
+2021-05-05,1.58,2.48,Milwaukee Bucks,Washington Wizards,135.0,134.0,1.0,True
+2021-05-05,2.39,1.62,Minnesota Timberwolves,Memphis Grizzlies,135.0,139.0,-4.0,False
+2021-05-05,6.53,1.13,Cleveland Cavaliers,Portland Trail Blazers,105.0,141.0,-36.0,False
+2021-05-05,6.97,1.12,Orlando Magic,Boston Celtics,96.0,132.0,-36.0,False
+2021-05-04,1.15,5.97,Los Angeles Clippers,Toronto Raptors,105.0,100.0,5.0,True
+2021-05-04,1.93,1.92,Miami Heat,Dallas Mavericks,113.0,127.0,-14.0,False
+2021-05-04,1.81,2.07,New Orleans Pelicans,Golden State Warriors,108.0,103.0,5.0,True
+2021-05-04,2.78,1.48,Oklahoma City Thunder,Sacramento Kings,99.0,103.0,-4.0,False
+2021-05-04,1.78,2.12,Milwaukee Bucks,Brooklyn Nets,124.0,118.0,6.0,True
+2021-05-04,6.98,1.12,Cleveland Cavaliers,Phoenix Suns,118.0,134.0,-16.0,False
+2021-05-04,2.57,1.55,Detroit Pistons,Charlotte Hornets,99.0,102.0,-3.0,False
+2021-05-03,2.51,1.58,Los Angeles Lakers,Denver Nuggets,93.0,89.0,4.0,True
+2021-05-03,1.31,3.61,Utah Jazz,San Antonio Spurs,110.0,99.0,11.0,True
+2021-05-03,3.62,1.32,Chicago Bulls,Philadelphia 76ers,94.0,106.0,-12.0,False
+2021-05-03,1.58,2.5,Memphis Grizzlies,New York Knicks,104.0,118.0,-14.0,False
+2021-05-03,1.74,2.17,Atlanta Hawks,Portland Trail Blazers,123.0,114.0,9.0,True
+2021-05-03,1.81,2.07,New Orleans Pelicans,Golden State Warriors,108.0,123.0,-15.0,False
+2021-05-03,1.81,2.06,Detroit Pistons,Orlando Magic,112.0,119.0,-7.0,False
+2021-05-03,1.54,2.6,Washington Wizards,Indiana Pacers,154.0,141.0,13.0,True
+2021-05-02,1.21,4.8,Los Angeles Lakers,Toronto Raptors,114.0,121.0,-7.0,False
+2021-05-02,2.82,1.47,Charlotte Hornets,Miami Heat,111.0,121.0,-10.0,False
+2021-05-02,1.36,3.32,Dallas Mavericks,Sacramento Kings,99.0,111.0,-12.0,False
+2021-05-02,5.36,1.18,Houston Rockets,New York Knicks,97.0,122.0,-25.0,False
+2021-05-02,9.67,1.07,Oklahoma City Thunder,Phoenix Suns,120.0,123.0,-3.0,False
+2021-05-02,5.15,1.19,San Antonio Spurs,Philadelphia 76ers,111.0,113.0,-2.0,False
+2021-05-02,1.98,1.89,Boston Celtics,Portland Trail Blazers,119.0,129.0,-10.0,False
+2021-05-02,1.73,2.19,Milwaukee Bucks,Brooklyn Nets,117.0,114.0,3.0,True
+2021-05-01,1.46,2.85,Los Angeles Clippers,Denver Nuggets,104.0,110.0,-6.0,False
+2021-05-01,1.37,3.29,Utah Jazz,Toronto Raptors,106.0,102.0,4.0,True
+2021-05-01,1.53,2.62,Dallas Mavericks,Washington Wizards,125.0,124.0,1.0,True
+2021-05-01,1.28,3.9,Atlanta Hawks,Chicago Bulls,108.0,97.0,11.0,True
+2021-05-01,6.25,1.14,Cleveland Cavaliers,Miami Heat,107.0,124.0,-17.0,False
+2021-05-01,2.39,1.62,Minnesota Timberwolves,New Orleans Pelicans,136.0,140.0,-4.0,False
+2021-05-01,3.74,1.3,Oklahoma City Thunder,Indiana Pacers,95.0,152.0,-57.0,False
+2021-05-01,6.38,1.14,Orlando Magic,Memphis Grizzlies,112.0,111.0,1.0,True
+2021-05-01,4.14,1.26,Houston Rockets,Golden State Warriors,87.0,113.0,-26.0,False
+2021-05-01,1.3,3.75,Charlotte Hornets,Detroit Pistons,107.0,94.0,13.0,True
+2021-04-30,1.15,6.05,Los Angeles Lakers,Sacramento Kings,106.0,110.0,-4.0,False
+2021-04-30,1.6,2.46,Phoenix Suns,Utah Jazz,121.0,100.0,21.0,True
+2021-04-30,2.07,1.81,Chicago Bulls,Milwaukee Bucks,98.0,108.0,-10.0,False
+2021-04-30,2.3,1.67,Brooklyn Nets,Portland Trail Blazers,109.0,128.0,-19.0,False
+2021-04-30,1.11,7.5,Memphis Grizzlies,Orlando Magic,92.0,75.0,17.0,True
+2021-04-30,1.52,2.65,Boston Celtics,San Antonio Spurs,143.0,140.0,3.0,True
+2021-04-30,3.18,1.38,Cleveland Cavaliers,Washington Wizards,93.0,122.0,-29.0,False
+2021-04-30,1.32,3.56,Philadelphia 76ers,Atlanta Hawks,126.0,104.0,22.0,True
+2021-04-29,1.53,2.63,Denver Nuggets,Toronto Raptors,121.0,111.0,10.0,True
+2021-04-29,4.52,1.23,Oklahoma City Thunder,New Orleans Pelicans,95.0,109.0,-14.0,False
+2021-04-29,8.31,1.09,Houston Rockets,Milwaukee Bucks,143.0,136.0,7.0,True
+2021-04-29,2.53,1.56,Minnesota Timberwolves,Golden State Warriors,126.0,114.0,12.0,True
+2021-04-29,3.55,1.32,Detroit Pistons,Dallas Mavericks,105.0,115.0,-10.0,False
+2021-04-29,2.81,1.47,Indiana Pacers,Brooklyn Nets,113.0,130.0,-17.0,False
+2021-04-28,1.55,2.59,Phoenix Suns,Los Angeles Clippers,109.0,101.0,8.0,True
+2021-04-28,4.2,1.25,Sacramento Kings,Utah Jazz,105.0,154.0,-49.0,False
+2021-04-28,1.59,2.45,Denver Nuggets,New Orleans Pelicans,114.0,112.0,2.0,True
+2021-04-28,1.82,2.06,Memphis Grizzlies,Portland Trail Blazers,109.0,130.0,-21.0,False
+2021-04-28,1.51,2.67,Miami Heat,San Antonio Spurs,116.0,111.0,5.0,True
+2021-04-28,1.41,3.07,Boston Celtics,Charlotte Hornets,120.0,111.0,9.0,True
+2021-04-28,1.57,2.5,New York Knicks,Chicago Bulls,113.0,94.0,19.0,True
+2021-04-28,1.97,1.89,Washington Wizards,Los Angeles Lakers,116.0,107.0,9.0,True
+2021-04-28,1.6,2.44,Cleveland Cavaliers,Orlando Magic,104.0,109.0,-5.0,False
+2021-04-28,1.2,4.87,Philadelphia 76ers,Atlanta Hawks,127.0,83.0,44.0,True
+2021-04-27,1.59,2.46,Golden State Warriors,Dallas Mavericks,103.0,133.0,-30.0,False
+2021-04-27,2.16,1.74,Houston Rockets,Minnesota Timberwolves,107.0,114.0,-7.0,False
+2021-04-27,2.68,1.51,Toronto Raptors,Brooklyn Nets,103.0,116.0,-13.0,False
+2021-04-27,1.14,6.19,Boston Celtics,Oklahoma City Thunder,115.0,119.0,-4.0,False
+2021-04-27,4.4,1.24,Charlotte Hornets,Milwaukee Bucks,104.0,114.0,-10.0,False
+2021-04-27,2.9,1.45,Indiana Pacers,Portland Trail Blazers,112.0,133.0,-21.0,False
+2021-04-26,3.14,1.39,Sacramento Kings,Dallas Mavericks,113.0,106.0,7.0,True
+2021-04-26,1.6,2.44,Denver Nuggets,Memphis Grizzlies,120.0,96.0,24.0,True
+2021-04-26,1.44,2.96,Miami Heat,Chicago Bulls,102.0,110.0,-8.0,False
+2021-04-26,4.97,1.19,Minnesota Timberwolves,Utah Jazz,105.0,104.0,1.0,True
+2021-04-26,2.13,1.77,New Orleans Pelicans,Los Angeles Clippers,120.0,103.0,17.0,True
+2021-04-26,2.22,1.7,New York Knicks,Phoenix Suns,110.0,118.0,-8.0,False
+2021-04-26,1.14,6.29,Toronto Raptors,Cleveland Cavaliers,112.0,96.0,16.0,True
+2021-04-26,2.51,1.57,Detroit Pistons,Atlanta Hawks,100.0,86.0,14.0,True
+2021-04-26,6.24,1.14,Orlando Magic,Los Angeles Lakers,103.0,114.0,-11.0,False
+2021-04-26,1.06,10.82,Philadelphia 76ers,Oklahoma City Thunder,121.0,90.0,31.0,True
+2021-04-26,2.15,1.75,Washington Wizards,San Antonio Spurs,143.0,146.0,-3.0,False
+2021-04-25,1.31,3.62,Golden State Warriors,Sacramento Kings,117.0,113.0,4.0,True
+2021-04-25,2.92,1.44,Orlando Magic,Indiana Pacers,112.0,131.0,-19.0,False
+2021-04-25,2.89,1.45,Atlanta Hawks,Milwaukee Bucks,111.0,104.0,7.0,True
+2021-04-25,1.34,3.4,Washington Wizards,Cleveland Cavaliers,119.0,110.0,9.0,True
+2021-04-25,1.63,2.37,Portland Trail Blazers,Memphis Grizzlies,113.0,120.0,-7.0,False
+2021-04-25,1.87,1.99,Brooklyn Nets,Phoenix Suns,128.0,119.0,9.0,True
+2021-04-25,3.77,1.29,Charlotte Hornets,Boston Celtics,125.0,104.0,21.0,True
+2021-04-24,1.08,9.24,Denver Nuggets,Houston Rockets,129.0,116.0,13.0,True
+2021-04-24,1.11,7.05,Utah Jazz,Minnesota Timberwolves,96.0,101.0,-5.0,False
+2021-04-24,1.79,2.1,Dallas Mavericks,Los Angeles Lakers,108.0,93.0,15.0,True
+2021-04-24,1.52,2.65,Miami Heat,Chicago Bulls,106.0,101.0,5.0,True
+2021-04-24,1.66,2.31,New Orleans Pelicans,San Antonio Spurs,108.0,110.0,-2.0,False
+2021-04-24,1.55,2.58,Indiana Pacers,Detroit Pistons,115.0,109.0,6.0,True
+2021-04-24,1.26,4.21,Milwaukee Bucks,Philadelphia 76ers,132.0,94.0,38.0,True
+2021-04-24,1.96,1.9,New York Knicks,Toronto Raptors,120.0,103.0,17.0,True
+2021-04-23,2.19,1.73,Golden State Warriors,Denver Nuggets,118.0,97.0,21.0,True
+2021-04-23,1.56,2.53,Portland Trail Blazers,Memphis Grizzlies,128.0,130.0,-2.0,False
+2021-04-23,1.83,2.04,Charlotte Hornets,Cleveland Cavaliers,108.0,102.0,6.0,True
+2021-04-23,4.75,1.21,Houston Rockets,Los Angeles Clippers,104.0,109.0,-5.0,False
+2021-04-23,4.6,1.22,Oklahoma City Thunder,Washington Wizards,109.0,129.0,-20.0,False
+2021-04-23,3.24,1.37,Atlanta Hawks,Miami Heat,118.0,103.0,15.0,True
+2021-04-23,1.63,2.39,Brooklyn Nets,Boston Celtics,109.0,104.0,5.0,True
+2021-04-22,1.65,2.34,Dallas Mavericks,Los Angeles Lakers,115.0,110.0,5.0,True
+2021-04-22,1.87,1.99,Chicago Bulls,Charlotte Hornets,108.0,91.0,17.0,True
+2021-04-22,1.33,3.54,San Antonio Spurs,Detroit Pistons,106.0,91.0,15.0,True
+2021-04-22,2.08,1.8,Boston Celtics,Phoenix Suns,99.0,86.0,13.0,True
+2021-04-22,1.37,3.23,Milwaukee Bucks,Philadelphia 76ers,124.0,117.0,7.0,True
+2021-04-22,4.96,1.2,Orlando Magic,New Orleans Pelicans,100.0,135.0,-35.0,False
+2021-04-21,2.54,1.55,Los Angeles Clippers,Memphis Grizzlies,117.0,105.0,12.0,True
+2021-04-21,2.07,1.82,Portland Trail Blazers,Denver Nuggets,105.0,106.0,-1.0,False
+2021-04-21,1.68,2.27,Sacramento Kings,Minnesota Timberwolves,128.0,125.0,3.0,True
+2021-04-21,1.16,5.64,Dallas Mavericks,Detroit Pistons,127.0,117.0,10.0,True
+2021-04-21,2.05,1.83,San Antonio Spurs,Miami Heat,87.0,107.0,-20.0,False
+2021-04-21,5.98,1.15,Houston Rockets,Utah Jazz,89.0,112.0,-23.0,False
+2021-04-21,2.04,1.83,New York Knicks,Atlanta Hawks,137.0,127.0,10.0,True
+2021-04-21,2.12,1.77,Cleveland Cavaliers,Chicago Bulls,121.0,105.0,16.0,True
+2021-04-21,1.26,4.11,Indiana Pacers,Oklahoma City Thunder,122.0,116.0,6.0,True
+2021-04-21,2.25,1.69,Philadelphia 76ers,Phoenix Suns,113.0,116.0,-3.0,False
+2021-04-21,1.56,2.55,Toronto Raptors,Brooklyn Nets,114.0,103.0,11.0,True
+2021-04-21,2.1,1.79,Washington Wizards,Golden State Warriors,118.0,114.0,4.0,True
+2021-04-20,2.75,1.49,Portland Trail Blazers,Los Angeles Clippers,112.0,113.0,-1.0,False
+2021-04-20,1.64,2.36,Sacramento Kings,Minnesota Timberwolves,120.0,134.0,-14.0,False
+2021-04-20,1.12,6.91,Atlanta Hawks,Orlando Magic,112.0,96.0,16.0,True
+2021-04-20,1.69,2.25,New Orleans Pelicans,Brooklyn Nets,129.0,134.0,-5.0,False
+2021-04-20,1.5,2.71,New York Knicks,Charlotte Hornets,109.0,97.0,12.0,True
+2021-04-19,3.19,1.39,Los Angeles Lakers,Utah Jazz,97.0,111.0,-14.0,False
+2021-04-19,1.31,3.63,Denver Nuggets,Memphis Grizzlies,139.0,137.0,2.0,True
+2021-04-19,2.37,1.63,Indiana Pacers,San Antonio Spurs,94.0,109.0,-15.0,False
+2021-04-19,1.5,2.71,Miami Heat,Houston Rockets,113.0,91.0,22.0,True
+2021-04-19,1.7,2.24,Milwaukee Bucks,Phoenix Suns,127.0,128.0,-1.0,False
+2021-04-19,1.12,7.03,Washington Wizards,Oklahoma City Thunder,119.0,107.0,12.0,True
+2021-04-19,1.53,2.64,Boston Celtics,Chicago Bulls,96.0,102.0,-6.0,False
+2021-04-19,1.5,2.7,Philadelphia 76ers,Golden State Warriors,96.0,107.0,-11.0,False
+2021-04-19,2.35,1.64,Detroit Pistons,Cleveland Cavaliers,109.0,105.0,4.0,True
+2021-04-18,1.14,6.37,Los Angeles Clippers,Minnesota Timberwolves,124.0,105.0,19.0,True
+2021-04-18,1.27,3.98,Dallas Mavericks,Sacramento Kings,107.0,121.0,-14.0,False
+2021-04-18,2.57,1.55,Charlotte Hornets,Portland Trail Blazers,109.0,101.0,8.0,True
+2021-04-18,1.97,1.89,Orlando Magic,Houston Rockets,110.0,114.0,-4.0,False
+2021-04-18,1.46,2.85,Toronto Raptors,Oklahoma City Thunder,112.0,106.0,6.0,True
+2021-04-18,2.74,1.49,Miami Heat,Brooklyn Nets,109.0,107.0,2.0,True
+2021-04-18,1.78,2.12,Atlanta Hawks,Indiana Pacers,129.0,117.0,12.0,True
+2021-04-18,2.03,1.84,New York Knicks,New Orleans Pelicans,122.0,112.0,10.0,True
+2021-04-17,1.13,6.55,Phoenix Suns,San Antonio Spurs,85.0,111.0,-26.0,False
+2021-04-17,1.27,3.99,Milwaukee Bucks,Memphis Grizzlies,115.0,128.0,-13.0,False
+2021-04-17,1.68,2.27,Boston Celtics,Golden State Warriors,119.0,114.0,5.0,True
+2021-04-17,1.68,2.28,Chicago Bulls,Cleveland Cavaliers,106.0,96.0,10.0,True
+2021-04-17,1.54,2.6,Washington Wizards,Detroit Pistons,121.0,100.0,21.0,True
+2021-04-17,1.85,2.02,Los Angeles Lakers,Utah Jazz,127.0,115.0,12.0,True
+2021-04-16,1.38,3.18,Dallas Mavericks,New York Knicks,109.0,117.0,-8.0,False
+2021-04-16,1.84,2.02,San Antonio Spurs,Portland Trail Blazers,106.0,107.0,-1.0,False
+2021-04-16,2.44,1.6,Chicago Bulls,Memphis Grizzlies,115.0,126.0,-11.0,False
+2021-04-16,4.25,1.25,Houston Rockets,Denver Nuggets,99.0,128.0,-29.0,False
+2021-04-16,3.2,1.38,Minnesota Timberwolves,Miami Heat,119.0,111.0,8.0,True
+2021-04-16,1.12,6.76,Brooklyn Nets,Charlotte Hornets,130.0,115.0,15.0,True
+2021-04-16,1.66,2.32,Toronto Raptors,Orlando Magic,113.0,102.0,11.0,True
+2021-04-16,1.7,2.23,Detroit Pistons,Oklahoma City Thunder,110.0,104.0,6.0,True
+2021-04-16,1.55,2.6,Philadelphia 76ers,Los Angeles Clippers,106.0,103.0,3.0,True
+2021-04-16,2.28,1.67,Washington Wizards,New Orleans Pelicans,117.0,115.0,2.0,True
+2021-04-16,1.19,5.17,Utah Jazz,Indiana Pacers,119.0,111.0,8.0,True
+2021-04-15,3.52,1.33,Los Angeles Lakers,Boston Celtics,113.0,121.0,-8.0,False
+2021-04-15,1.11,7.25,Phoenix Suns,Sacramento Kings,122.0,114.0,8.0,True
+2021-04-15,2.86,1.45,Cleveland Cavaliers,Golden State Warriors,101.0,119.0,-18.0,False
+2021-04-15,2.56,1.56,Atlanta Hawks,Milwaukee Bucks,109.0,120.0,-11.0,False
+2021-04-14,1.49,2.74,Denver Nuggets,Miami Heat,123.0,106.0,17.0,True
+2021-04-14,2.09,1.79,Sacramento Kings,Washington Wizards,111.0,123.0,-12.0,False
+2021-04-14,2.29,1.67,Memphis Grizzlies,Dallas Mavericks,113.0,114.0,-1.0,False
+2021-04-14,2.41,1.61,Houston Rockets,Indiana Pacers,124.0,132.0,-8.0,False
+2021-04-14,7.01,1.12,Oklahoma City Thunder,Golden State Warriors,109.0,147.0,-38.0,False
+2021-04-14,1.21,4.82,Chicago Bulls,Orlando Magic,106.0,115.0,-9.0,False
+2021-04-14,2.1,1.79,Detroit Pistons,Los Angeles Clippers,98.0,100.0,-2.0,False
+2021-04-14,1.76,2.13,New Orleans Pelicans,New York Knicks,106.0,116.0,-10.0,False
+2021-04-14,2.85,1.46,Toronto Raptors,San Antonio Spurs,117.0,112.0,5.0,True
+2021-04-14,1.66,2.31,Charlotte Hornets,Cleveland Cavaliers,90.0,103.0,-13.0,False
+2021-04-14,1.25,4.16,Philadelphia 76ers,Brooklyn Nets,123.0,117.0,6.0,True
+2021-04-14,5.06,1.19,Minnesota Timberwolves,Milwaukee Bucks,105.0,130.0,-25.0,False
+2021-04-13,1.6,2.44,Phoenix Suns,Miami Heat,106.0,86.0,20.0,True
+2021-04-13,1.88,1.98,Portland Trail Blazers,Boston Celtics,115.0,116.0,-1.0,False
+2021-04-13,1.06,11.39,Utah Jazz,Oklahoma City Thunder,106.0,96.0,10.0,True
+2021-04-13,2.02,1.85,Charlotte Hornets,Los Angeles Lakers,93.0,101.0,-8.0,False
+2021-04-13,2.32,1.65,Indiana Pacers,Los Angeles Clippers,115.0,126.0,-11.0,False
+2021-04-13,1.84,2.03,Toronto Raptors,Atlanta Hawks,103.0,108.0,-5.0,False
+2021-04-13,3.48,1.34,Minnesota Timberwolves,Brooklyn Nets,97.0,127.0,-30.0,False
+2021-04-12,2.76,1.49,Golden State Warriors,Denver Nuggets,116.0,107.0,9.0,True
+2021-04-12,1.11,7.09,Phoenix Suns,Houston Rockets,126.0,120.0,6.0,True
+2021-04-12,1.77,2.13,Memphis Grizzlies,Chicago Bulls,101.0,90.0,11.0,True
+2021-04-12,1.77,2.12,New Orleans Pelicans,Sacramento Kings,117.0,110.0,7.0,True
+2021-04-12,1.16,5.7,Utah Jazz,Washington Wizards,121.0,125.0,-4.0,False
+2021-04-12,3.25,1.37,Orlando Magic,San Antonio Spurs,97.0,120.0,-23.0,False
+2021-04-12,2.44,1.61,Dallas Mavericks,Philadelphia 76ers,95.0,113.0,-18.0,False
+2021-04-12,1.87,2.0,New York Knicks,Los Angeles Lakers,111.0,96.0,15.0,True
+2021-04-11,1.11,7.45,Los Angeles Clippers,Detroit Pistons,131.0,124.0,7.0,True
+2021-04-11,1.91,1.95,Portland Trail Blazers,Miami Heat,98.0,107.0,-9.0,False
+2021-04-11,1.41,3.08,Dallas Mavericks,San Antonio Spurs,117.0,119.0,-2.0,False
+2021-04-11,1.61,2.42,Memphis Grizzlies,Indiana Pacers,125.0,132.0,-7.0,False
+2021-04-11,2.45,1.6,Minnesota Timberwolves,Chicago Bulls,121.0,117.0,4.0,True
+2021-04-11,1.63,2.37,New York Knicks,Toronto Raptors,102.0,96.0,6.0,True
+2021-04-11,4.38,1.24,Cleveland Cavaliers,New Orleans Pelicans,109.0,116.0,-7.0,False
+2021-04-11,4.22,1.25,Orlando Magic,Milwaukee Bucks,87.0,124.0,-37.0,False
+2021-04-11,1.63,2.4,Denver Nuggets,Boston Celtics,87.0,105.0,-18.0,False
+2021-04-11,1.72,2.21,Charlotte Hornets,Atlanta Hawks,101.0,105.0,-4.0,False
+2021-04-10,1.34,3.41,Golden State Warriors,Houston Rockets,125.0,109.0,16.0,True
+2021-04-10,1.09,8.26,Phoenix Suns,Washington Wizards,134.0,106.0,28.0,True
+2021-04-10,1.14,6.28,Portland Trail Blazers,Detroit Pistons,118.0,103.0,15.0,True
+2021-04-10,5.16,1.18,Oklahoma City Thunder,Philadelphia 76ers,93.0,117.0,-24.0,False
+2021-04-10,1.13,6.38,Utah Jazz,Sacramento Kings,128.0,112.0,16.0,True
+2021-04-10,1.14,6.39,Brooklyn Nets,Los Angeles Lakers,101.0,126.0,-25.0,False
+2021-04-10,1.68,2.28,Cleveland Cavaliers,Toronto Raptors,115.0,135.0,-20.0,False
+2021-04-09,1.54,2.6,Golden State Warriors,Washington Wizards,107.0,110.0,-3.0,False
+2021-04-09,1.15,5.9,Los Angeles Clippers,Houston Rockets,126.0,109.0,17.0,True
+2021-04-09,1.37,3.25,Denver Nuggets,San Antonio Spurs,121.0,119.0,2.0,True
+2021-04-09,2.28,1.68,Milwaukee Bucks,Charlotte Hornets,119.0,127.0,-8.0,False
+2021-04-09,1.71,2.22,Atlanta Hawks,Chicago Bulls,120.0,108.0,12.0,True
+2021-04-09,2.91,1.45,New Orleans Pelicans,Philadelphia 76ers,101.0,94.0,7.0,True
+2021-04-09,1.26,4.15,Boston Celtics,Minnesota Timberwolves,145.0,136.0,9.0,True
+2021-04-09,2.05,1.82,New York Knicks,Memphis Grizzlies,133.0,129.0,4.0,True
+2021-04-09,3.06,1.41,Orlando Magic,Indiana Pacers,106.0,111.0,-5.0,False
+2021-04-08,1.44,2.94,Los Angeles Clippers,Phoenix Suns,113.0,103.0,10.0,True
+2021-04-08,1.32,3.58,Sacramento Kings,Detroit Pistons,101.0,113.0,-12.0,False
+2021-04-08,1.46,2.85,Utah Jazz,Portland Trail Blazers,122.0,103.0,19.0,True
+2021-04-08,1.71,2.21,Dallas Mavericks,Milwaukee Bucks,116.0,101.0,15.0,True
+2021-04-08,2.49,1.58,Oklahoma City Thunder,Cleveland Cavaliers,102.0,129.0,-27.0,False
+2021-04-08,1.22,4.57,Miami Heat,Los Angeles Lakers,110.0,104.0,6.0,True
+2021-04-08,2.49,1.59,Toronto Raptors,Chicago Bulls,113.0,122.0,-9.0,False
+2021-04-07,2.18,1.74,Phoenix Suns,Utah Jazz,117.0,113.0,4.0,True
+2021-04-07,1.47,2.83,Denver Nuggets,San Antonio Spurs,106.0,96.0,10.0,True
+2021-04-07,2.0,1.87,Atlanta Hawks,Memphis Grizzlies,113.0,131.0,-18.0,False
+2021-04-07,5.18,1.19,Houston Rockets,Dallas Mavericks,102.0,93.0,9.0,True
+2021-04-07,2.81,1.47,Oklahoma City Thunder,Charlotte Hornets,102.0,113.0,-11.0,False
+2021-04-07,1.64,2.35,Boston Celtics,New York Knicks,101.0,99.0,2.0,True
+2021-04-07,1.26,4.17,Brooklyn Nets,New Orleans Pelicans,139.0,111.0,28.0,True
+2021-04-07,2.02,1.85,Indiana Pacers,Minnesota Timberwolves,141.0,137.0,4.0,True
+2021-04-07,2.63,1.53,Orlando Magic,Washington Wizards,116.0,131.0,-15.0,False
+2021-04-06,2.24,1.7,Golden State Warriors,Milwaukee Bucks,122.0,121.0,1.0,True
+2021-04-06,1.4,3.12,Los Angeles Clippers,Portland Trail Blazers,133.0,116.0,17.0,True
+2021-04-06,1.13,6.51,Denver Nuggets,Detroit Pistons,134.0,119.0,15.0,True
+2021-04-06,1.41,3.08,Miami Heat,Memphis Grizzlies,112.0,124.0,-12.0,False
+2021-04-06,1.62,2.41,Atlanta Hawks,New Orleans Pelicans,123.0,107.0,16.0,True
+2021-04-06,1.96,1.9,Boston Celtics,Philadelphia 76ers,96.0,106.0,-10.0,False
+2021-04-06,2.01,1.85,Toronto Raptors,Los Angeles Lakers,101.0,110.0,-9.0,False
+2021-04-06,2.1,1.79,Indiana Pacers,Chicago Bulls,97.0,113.0,-16.0,False
+2021-04-05,8.37,1.09,Houston Rockets,Phoenix Suns,130.0,133.0,-3.0,False
+2021-04-05,1.4,3.1,Brooklyn Nets,New York Knicks,114.0,112.0,2.0,True
+2021-04-05,2.9,1.45,Dallas Mavericks,Utah Jazz,111.0,103.0,8.0,True
+2021-04-05,2.4,1.62,Minnesota Timberwolves,Sacramento Kings,116.0,106.0,10.0,True
+2021-04-05,2.27,1.69,Oklahoma City Thunder,Detroit Pistons,108.0,132.0,-24.0,False
+2021-04-05,1.29,3.85,San Antonio Spurs,Cleveland Cavaliers,101.0,125.0,-24.0,False
+2021-04-05,1.46,2.85,Toronto Raptors,Washington Wizards,103.0,101.0,2.0,True
+2021-04-04,1.04,13.24,Denver Nuggets,Orlando Magic,119.0,109.0,10.0,True
+2021-04-04,2.23,1.71,Houston Rockets,New Orleans Pelicans,115.0,122.0,-7.0,False
+2021-04-04,1.83,2.04,Atlanta Hawks,Golden State Warriors,117.0,111.0,6.0,True
+2021-04-04,1.62,2.41,Philadelphia 76ers,Memphis Grizzlies,100.0,116.0,-16.0,False
+2021-04-04,1.22,4.64,Boston Celtics,Charlotte Hornets,116.0,86.0,30.0,True
+2021-04-04,1.17,5.65,Los Angeles Clippers,Los Angeles Lakers,104.0,86.0,18.0,True
+2021-04-04,2.13,1.77,Chicago Bulls,Brooklyn Nets,115.0,107.0,8.0,True
+2021-04-03,1.11,7.17,Portland Trail Blazers,Oklahoma City Thunder,133.0,85.0,48.0,True
+2021-04-03,2.3,1.67,Sacramento Kings,Milwaukee Bucks,128.0,129.0,-1.0,False
+2021-04-03,1.36,3.32,San Antonio Spurs,Indiana Pacers,133.0,139.0,-6.0,False
+2021-04-03,1.07,10.07,Utah Jazz,Orlando Magic,137.0,91.0,46.0,True
+2021-04-03,2.15,1.75,Detroit Pistons,New York Knicks,81.0,125.0,-44.0,False
+2021-04-03,1.11,7.08,Miami Heat,Cleveland Cavaliers,115.0,101.0,14.0,True
+2021-04-03,1.1,8.21,Philadelphia 76ers,Minnesota Timberwolves,122.0,113.0,9.0,True
+2021-04-03,2.95,1.43,Washington Wizards,Dallas Mavericks,87.0,109.0,-22.0,False
+2021-04-02,1.08,8.81,Phoenix Suns,Oklahoma City Thunder,140.0,103.0,37.0,True
+2021-04-02,2.3,1.67,Portland Trail Blazers,Milwaukee Bucks,109.0,127.0,-18.0,False
+2021-04-02,1.54,2.6,Sacramento Kings,Los Angeles Lakers,94.0,115.0,-21.0,False
+2021-04-02,2.02,1.84,New Orleans Pelicans,Atlanta Hawks,103.0,126.0,-23.0,False
+2021-04-02,1.15,5.86,Utah Jazz,Chicago Bulls,113.0,106.0,7.0,True
+2021-04-02,1.49,2.74,Indiana Pacers,Charlotte Hornets,97.0,114.0,-17.0,False
+2021-04-02,1.36,3.31,Memphis Grizzlies,Minnesota Timberwolves,120.0,108.0,12.0,True
+2021-04-02,1.13,6.58,Boston Celtics,Houston Rockets,118.0,102.0,16.0,True
+2021-04-02,2.75,1.49,New York Knicks,Dallas Mavericks,86.0,99.0,-13.0,False
+2021-04-02,1.48,2.8,Toronto Raptors,Golden State Warriors,130.0,77.0,53.0,True
+2021-04-01,1.79,2.1,Los Angeles Clippers,Denver Nuggets,94.0,101.0,-7.0,False
+2021-04-01,1.86,2.0,San Antonio Spurs,Atlanta Hawks,129.0,134.0,-5.0,False
+2021-04-01,1.7,2.24,Miami Heat,Golden State Warriors,116.0,109.0,7.0,True
+2021-04-01,1.48,2.78,New Orleans Pelicans,Orlando Magic,110.0,115.0,-5.0,False
+2021-04-01,1.7,2.23,Brooklyn Nets,Charlotte Hornets,111.0,89.0,22.0,True
+2021-04-01,4.69,1.21,Cleveland Cavaliers,Philadelphia 76ers,94.0,114.0,-20.0,False
+2021-04-01,1.95,1.9,Detroit Pistons,Washington Wizards,120.0,91.0,29.0,True
+2021-03-31,3.91,1.28,Los Angeles Lakers,Milwaukee Bucks,97.0,112.0,-15.0,False
+2021-03-31,1.29,3.81,Phoenix Suns,Chicago Bulls,121.0,116.0,5.0,True
+2021-03-31,1.72,2.21,San Antonio Spurs,Sacramento Kings,120.0,106.0,14.0,True
+2021-03-31,2.95,1.43,Memphis Grizzlies,Utah Jazz,107.0,111.0,-4.0,False
+2021-03-31,2.3,1.66,Minnesota Timberwolves,New York Knicks,102.0,101.0,1.0,True
+2021-03-31,3.55,1.32,Oklahoma City Thunder,Toronto Raptors,113.0,103.0,10.0,True
+2021-03-31,1.9,1.96,Boston Celtics,Dallas Mavericks,108.0,113.0,-5.0,False
+2021-03-31,1.1,7.81,Brooklyn Nets,Houston Rockets,120.0,108.0,12.0,True
+2021-03-31,3.7,1.3,Detroit Pistons,Portland Trail Blazers,101.0,124.0,-23.0,False
+2021-03-31,2.01,1.85,Indiana Pacers,Miami Heat,87.0,92.0,-5.0,False
+2021-03-30,1.15,6.04,Los Angeles Clippers,Orlando Magic,96.0,103.0,-7.0,False
+2021-03-30,1.44,2.92,Phoenix Suns,Atlanta Hawks,117.0,110.0,7.0,True
+2021-03-30,1.47,2.81,Denver Nuggets,Philadelphia 76ers,104.0,95.0,9.0,True
+2021-03-30,2.59,1.54,Washington Wizards,Charlotte Hornets,104.0,114.0,-10.0,False
+2021-03-29,1.82,2.06,Golden State Warriors,Chicago Bulls,116.0,102.0,14.0,True
+2021-03-29,1.99,1.88,Los Angeles Clippers,Milwaukee Bucks,129.0,105.0,24.0,True
+2021-03-29,1.05,12.28,Utah Jazz,Cleveland Cavaliers,114.0,75.0,39.0,True
+2021-03-29,1.74,2.17,San Antonio Spurs,Sacramento Kings,115.0,132.0,-17.0,False
+2021-03-29,2.8,1.47,Detroit Pistons,Toronto Raptors,118.0,104.0,14.0,True
+2021-03-29,3.86,1.28,Houston Rockets,Memphis Grizzlies,110.0,120.0,-10.0,False
+2021-03-29,6.11,1.14,Oklahoma City Thunder,Dallas Mavericks,106.0,127.0,-21.0,False
+2021-03-29,1.7,2.25,Boston Celtics,New Orleans Pelicans,109.0,115.0,-6.0,False
+2021-03-29,1.16,5.61,Brooklyn Nets,Minnesota Timberwolves,112.0,107.0,5.0,True
+2021-03-29,2.35,1.64,New York Knicks,Miami Heat,88.0,98.0,-10.0,False
+2021-03-29,3.41,1.34,Washington Wizards,Indiana Pacers,132.0,124.0,8.0,True
+2021-03-28,1.35,3.34,Los Angeles Lakers,Orlando Magic,96.0,93.0,3.0,True
+2021-03-28,1.52,2.66,Denver Nuggets,Atlanta Hawks,126.0,102.0,24.0,True
+2021-03-28,2.18,1.73,Toronto Raptors,Portland Trail Blazers,117.0,122.0,-5.0,False
+2021-03-28,3.12,1.4,Charlotte Hornets,Phoenix Suns,97.0,101.0,-4.0,False
+2021-03-27,1.48,2.79,Los Angeles Clippers,Philadelphia 76ers,122.0,112.0,10.0,True
+2021-03-27,1.25,4.24,Sacramento Kings,Cleveland Cavaliers,100.0,98.0,2.0,True
+2021-03-27,1.47,2.82,New Orleans Pelicans,Dallas Mavericks,112.0,103.0,9.0,True
+2021-03-27,3.18,1.38,Oklahoma City Thunder,Boston Celtics,94.0,111.0,-17.0,False
+2021-03-27,1.24,4.32,Utah Jazz,Memphis Grizzlies,126.0,110.0,16.0,True
+2021-03-27,1.86,2.01,San Antonio Spurs,Chicago Bulls,120.0,104.0,16.0,True
+2021-03-27,2.15,1.75,Milwaukee Bucks,New York Knicks,96.0,102.0,-6.0,False
+2021-03-27,1.55,2.57,Minnesota Timberwolves,Houston Rockets,107.0,129.0,-22.0,False
+2021-03-27,1.45,2.86,Washington Wizards,Detroit Pistons,106.0,92.0,14.0,True
+2021-03-26,1.57,2.53,Los Angeles Lakers,Cleveland Cavaliers,100.0,86.0,14.0,True
+2021-03-26,3.26,1.37,Golden State Warriors,Atlanta Hawks,108.0,124.0,-16.0,False
+2021-03-26,1.19,5.15,Utah Jazz,Memphis Grizzlies,117.0,114.0,3.0,True
+2021-03-26,2.03,1.84,Dallas Mavericks,Indiana Pacers,94.0,109.0,-15.0,False
+2021-03-26,2.07,1.81,Charlotte Hornets,Miami Heat,110.0,105.0,5.0,True
+2021-03-26,1.58,2.5,Minnesota Timberwolves,Houston Rockets,107.0,101.0,6.0,True
+2021-03-26,2.19,1.72,New Orleans Pelicans,Denver Nuggets,108.0,113.0,-5.0,False
+2021-03-26,4.8,1.21,Orlando Magic,Portland Trail Blazers,105.0,112.0,-7.0,False
+2021-03-26,1.45,2.91,Milwaukee Bucks,Boston Celtics,114.0,122.0,-8.0,False
+2021-03-26,2.38,1.63,Toronto Raptors,Phoenix Suns,100.0,104.0,-4.0,False
+2021-03-26,3.23,1.38,Detroit Pistons,Brooklyn Nets,111.0,113.0,-2.0,False
+2021-03-25,3.01,1.42,Los Angeles Lakers,Philadelphia 76ers,101.0,109.0,-8.0,False
+2021-03-25,1.56,2.56,Sacramento Kings,Golden State Warriors,141.0,119.0,22.0,True
+2021-03-25,2.0,1.86,San Antonio Spurs,Los Angeles Clippers,85.0,98.0,-13.0,False
+2021-03-25,2.21,1.71,Miami Heat,Portland Trail Blazers,122.0,125.0,-3.0,False
+2021-03-25,1.7,2.23,New York Knicks,Washington Wizards,106.0,102.0,4.0,True
+2021-03-24,2.28,1.68,Sacramento Kings,Atlanta Hawks,110.0,108.0,2.0,True
+2021-03-24,1.1,7.77,Utah Jazz,Brooklyn Nets,118.0,88.0,30.0,True
+2021-03-24,3.0,1.42,San Antonio Spurs,Los Angeles Clippers,101.0,134.0,-33.0,False
+2021-03-24,1.34,3.45,Chicago Bulls,Cleveland Cavaliers,94.0,103.0,-9.0,False
+2021-03-24,2.48,1.58,Houston Rockets,Charlotte Hornets,97.0,122.0,-25.0,False
+2021-03-24,3.87,1.28,Minnesota Timberwolves,Dallas Mavericks,108.0,128.0,-20.0,False
+2021-03-24,3.29,1.36,Oklahoma City Thunder,Memphis Grizzlies,107.0,116.0,-9.0,False
+2021-03-24,4.68,1.22,Orlando Magic,Phoenix Suns,112.0,111.0,1.0,True
+2021-03-24,1.38,3.24,Milwaukee Bucks,Boston Celtics,121.0,119.0,2.0,True
+2021-03-24,2.06,1.81,Toronto Raptors,Denver Nuggets,135.0,111.0,24.0,True
+2021-03-24,1.32,3.58,Indiana Pacers,Detroit Pistons,116.0,111.0,5.0,True
+2021-03-23,2.5,1.57,Golden State Warriors,Philadelphia 76ers,98.0,108.0,-10.0,False
+2021-03-23,1.73,2.19,Portland Trail Blazers,Brooklyn Nets,112.0,116.0,-4.0,False
+2021-03-23,2.09,1.79,Miami Heat,Phoenix Suns,100.0,110.0,-10.0,False
+2021-03-23,1.45,2.88,New Orleans Pelicans,Los Angeles Lakers,128.0,111.0,17.0,True
+2021-03-23,1.69,2.25,New York Knicks,Washington Wizards,131.0,113.0,18.0,True
+2021-03-23,3.61,1.31,Orlando Magic,Denver Nuggets,99.0,110.0,-11.0,False
+2021-03-22,1.43,3.0,Los Angeles Clippers,Atlanta Hawks,119.0,110.0,9.0,True
+2021-03-22,4.63,1.22,Chicago Bulls,Utah Jazz,95.0,120.0,-25.0,False
+2021-03-22,4.04,1.27,Houston Rockets,Toronto Raptors,117.0,99.0,18.0,True
+2021-03-22,1.55,2.57,Memphis Grizzlies,Boston Celtics,132.0,126.0,6.0,True
+2021-03-22,1.38,3.25,Milwaukee Bucks,Indiana Pacers,140.0,113.0,27.0,True
+2021-03-22,1.49,2.73,San Antonio Spurs,Charlotte Hornets,97.0,100.0,-3.0,False
+2021-03-22,1.51,2.7,Minnesota Timberwolves,Oklahoma City Thunder,103.0,112.0,-9.0,False
+2021-03-22,2.53,1.56,Cleveland Cavaliers,Sacramento Kings,105.0,119.0,-14.0,False
+2021-03-21,1.19,5.05,Phoenix Suns,Los Angeles Lakers,111.0,94.0,17.0,True
+2021-03-21,2.09,1.79,Portland Trail Blazers,Dallas Mavericks,92.0,132.0,-40.0,False
+2021-03-21,1.97,1.88,New York Knicks,Philadelphia 76ers,100.0,101.0,-1.0,False
+2021-03-21,1.25,4.17,Brooklyn Nets,Washington Wizards,113.0,106.0,7.0,True
+2021-03-21,2.33,1.65,Detroit Pistons,Chicago Bulls,86.0,100.0,-14.0,False
+2021-03-21,3.46,1.33,Cleveland Cavaliers,Toronto Raptors,116.0,105.0,11.0,True
+2021-03-21,1.25,4.18,Boston Celtics,Orlando Magic,112.0,96.0,16.0,True
+2021-03-21,1.4,3.1,Denver Nuggets,New Orleans Pelicans,108.0,113.0,-5.0,False
+2021-03-21,1.52,2.66,Houston Rockets,Oklahoma City Thunder,112.0,114.0,-2.0,False
+2021-03-21,1.63,2.39,Miami Heat,Indiana Pacers,106.0,109.0,-3.0,False
+2021-03-20,1.22,4.61,Los Angeles Clippers,Charlotte Hornets,125.0,98.0,27.0,True
+2021-03-20,1.14,6.34,Milwaukee Bucks,San Antonio Spurs,120.0,113.0,7.0,True
+2021-03-20,1.39,3.15,Memphis Grizzlies,Golden State Warriors,111.0,103.0,8.0,True
+2021-03-20,1.56,2.54,Philadelphia 76ers,Sacramento Kings,129.0,105.0,24.0,True
+2021-03-20,1.59,2.45,Los Angeles Lakers,Atlanta Hawks,94.0,99.0,-5.0,False
+2021-03-19,1.15,5.82,Phoenix Suns,Minnesota Timberwolves,113.0,101.0,12.0,True
+2021-03-19,2.23,1.69,Portland Trail Blazers,Dallas Mavericks,125.0,119.0,6.0,True
+2021-03-19,1.34,3.41,Denver Nuggets,Chicago Bulls,131.0,127.0,4.0,True
+2021-03-19,1.74,2.16,Houston Rockets,Detroit Pistons,100.0,113.0,-13.0,False
+2021-03-19,1.38,3.2,Memphis Grizzlies,Golden State Warriors,103.0,116.0,-13.0,False
+2021-03-19,1.56,2.55,Miami Heat,Indiana Pacers,110.0,137.0,-27.0,False
+2021-03-19,5.41,1.17,Orlando Magic,Brooklyn Nets,121.0,113.0,8.0,True
+2021-03-19,2.64,1.53,Toronto Raptors,Utah Jazz,112.0,115.0,-3.0,False
+2021-03-19,1.35,3.35,Boston Celtics,Sacramento Kings,96.0,107.0,-11.0,False
+2021-03-19,2.71,1.5,Cleveland Cavaliers,San Antonio Spurs,110.0,116.0,-6.0,False
+2021-03-18,1.33,3.49,Los Angeles Lakers,Charlotte Hornets,116.0,105.0,11.0,True
+2021-03-18,1.16,5.82,Phoenix Suns,Minnesota Timberwolves,119.0,123.0,-4.0,False
+2021-03-18,1.84,2.02,Portland Trail Blazers,New Orleans Pelicans,101.0,93.0,8.0,True
+2021-03-18,1.3,3.72,Atlanta Hawks,Oklahoma City Thunder,116.0,93.0,23.0,True
+2021-03-18,1.49,2.76,New York Knicks,Orlando Magic,94.0,93.0,1.0,True
+2021-03-18,5.52,1.17,Washington Wizards,Utah Jazz,131.0,122.0,9.0,True
+2021-03-17,2.16,1.75,Dallas Mavericks,Los Angeles Clippers,105.0,89.0,16.0,True
+2021-03-17,1.38,3.2,Denver Nuggets,Charlotte Hornets,129.0,104.0,25.0,True
+2021-03-17,1.96,1.9,Memphis Grizzlies,Miami Heat,89.0,85.0,4.0,True
+2021-03-17,1.82,2.06,Chicago Bulls,San Antonio Spurs,99.0,106.0,-7.0,False
+2021-03-17,3.62,1.31,Cleveland Cavaliers,Boston Celtics,117.0,110.0,7.0,True
+2021-03-17,5.73,1.16,Houston Rockets,Golden State Warriors,94.0,108.0,-14.0,False
+2021-03-17,3.05,1.41,Detroit Pistons,Toronto Raptors,116.0,112.0,4.0,True
+2021-03-17,1.81,2.07,Indiana Pacers,Brooklyn Nets,115.0,124.0,-9.0,False
+2021-03-17,3.01,1.43,Philadelphia 76ers,Milwaukee Bucks,105.0,109.0,-4.0,False
+2021-03-17,1.89,1.96,Washington Wizards,Sacramento Kings,119.0,121.0,-2.0,False
+2021-03-16,1.3,3.76,Los Angeles Lakers,Minnesota Timberwolves,137.0,121.0,16.0,True
+2021-03-16,1.79,2.09,Portland Trail Blazers,New Orleans Pelicans,125.0,124.0,1.0,True
+2021-03-16,1.36,3.3,Chicago Bulls,Oklahoma City Thunder,123.0,102.0,21.0,True
+2021-03-16,4.17,1.25,Houston Rockets,Atlanta Hawks,107.0,119.0,-12.0,False
+2021-03-16,1.16,5.57,Miami Heat,Cleveland Cavaliers,113.0,98.0,15.0,True
+2021-03-16,1.34,3.43,Philadelphia 76ers,New York Knicks,99.0,96.0,3.0,True
+2021-03-16,2.39,1.63,Boston Celtics,Utah Jazz,109.0,117.0,-8.0,False
+2021-03-15,2.05,1.82,Golden State Warriors,Los Angeles Lakers,97.0,128.0,-31.0,False
+2021-03-15,1.56,2.55,Denver Nuggets,Indiana Pacers,121.0,106.0,15.0,True
+2021-03-15,1.32,3.55,Phoenix Suns,Memphis Grizzlies,122.0,99.0,23.0,True
+2021-03-15,1.99,1.88,Dallas Mavericks,Los Angeles Clippers,99.0,109.0,-10.0,False
+2021-03-15,1.28,3.96,Brooklyn Nets,New York Knicks,117.0,112.0,5.0,True
+2021-03-15,2.04,1.83,Detroit Pistons,San Antonio Spurs,99.0,109.0,-10.0,False
+2021-03-15,4.17,1.25,Washington Wizards,Milwaukee Bucks,122.0,133.0,-11.0,False
+2021-03-15,1.66,2.31,Charlotte Hornets,Sacramento Kings,122.0,116.0,6.0,True
+2021-03-14,1.63,2.38,Chicago Bulls,Toronto Raptors,118.0,95.0,23.0,True
+2021-03-14,2.98,1.43,New Orleans Pelicans,Los Angeles Clippers,135.0,115.0,20.0,True
+2021-03-14,5.86,1.15,Houston Rockets,Boston Celtics,107.0,134.0,-27.0,False
+2021-03-14,2.75,1.49,Minnesota Timberwolves,Portland Trail Blazers,114.0,112.0,2.0,True
+2021-03-14,1.46,2.86,Atlanta Hawks,Cleveland Cavaliers,100.0,82.0,18.0,True
+2021-03-14,3.57,1.32,Orlando Magic,Miami Heat,97.0,102.0,-5.0,False
+2021-03-14,1.52,2.65,Philadelphia 76ers,San Antonio Spurs,134.0,99.0,35.0,True
+2021-03-14,3.56,1.33,Golden State Warriors,Utah Jazz,131.0,119.0,12.0,True
+2021-03-14,3.98,1.28,Oklahoma City Thunder,Memphis Grizzlies,128.0,122.0,6.0,True
+2021-03-14,1.87,2.0,Denver Nuggets,Dallas Mavericks,103.0,116.0,-13.0,False
+2021-03-14,1.35,3.4,Phoenix Suns,Indiana Pacers,111.0,122.0,-11.0,False
+2021-03-14,2.73,1.5,Minnesota Timberwolves,Portland Trail Blazers,121.0,125.0,-4.0,False
+2021-03-14,1.58,2.5,Atlanta Hawks,Sacramento Kings,121.0,106.0,15.0,True
+2021-03-14,1.15,5.94,Brooklyn Nets,Detroit Pistons,100.0,95.0,5.0,True
+2021-03-14,1.74,2.18,Charlotte Hornets,Toronto Raptors,114.0,104.0,10.0,True
+2021-03-14,7.56,1.1,Washington Wizards,Milwaukee Bucks,119.0,125.0,-6.0,False
+2021-03-14,2.57,1.55,Oklahoma City Thunder,New York Knicks,97.0,119.0,-22.0,False
+2021-03-13,1.54,2.6,Los Angeles Lakers,Indiana Pacers,105.0,100.0,5.0,True
+2021-03-13,1.03,15.01,Utah Jazz,Houston Rockets,114.0,99.0,15.0,True
+2021-03-13,2.1,1.78,Chicago Bulls,Miami Heat,90.0,101.0,-11.0,False
+2021-03-13,1.33,3.5,San Antonio Spurs,Orlando Magic,104.0,77.0,27.0,True
+2021-03-13,2.26,1.68,Memphis Grizzlies,Denver Nuggets,102.0,103.0,-1.0,False
+2021-03-13,1.36,3.29,New Orleans Pelicans,Cleveland Cavaliers,116.0,82.0,34.0,True
+2021-03-13,2.41,1.62,Washington Wizards,Philadelphia 76ers,101.0,127.0,-26.0,False
+2021-03-12,1.35,3.4,Los Angeles Clippers,Golden State Warriors,130.0,104.0,26.0,True
+2021-03-12,2.64,1.52,Portland Trail Blazers,Phoenix Suns,121.0,127.0,-6.0,False
+2021-03-12,1.4,3.09,Sacramento Kings,Houston Rockets,125.0,105.0,20.0,True
+2021-03-12,2.13,1.76,Oklahoma City Thunder,Dallas Mavericks,116.0,108.0,8.0,True
+2021-03-12,1.65,2.33,Chicago Bulls,Philadelphia 76ers,105.0,127.0,-22.0,False
+2021-03-12,1.25,4.25,Miami Heat,Orlando Magic,111.0,103.0,8.0,True
+2021-03-12,1.16,5.66,Milwaukee Bucks,New York Knicks,134.0,101.0,33.0,True
+2021-03-12,1.29,3.84,New Orleans Pelicans,Minnesota Timberwolves,105.0,135.0,-30.0,False
+2021-03-12,1.74,2.18,Brooklyn Nets,Boston Celtics,121.0,109.0,12.0,True
+2021-03-12,2.34,1.65,Toronto Raptors,Atlanta Hawks,120.0,121.0,-1.0,False
+2021-03-12,1.54,2.6,Charlotte Hornets,Detroit Pistons,105.0,102.0,3.0,True
+2021-03-10,1.55,2.56,Dallas Mavericks,San Antonio Spurs,115.0,104.0,11.0,True
+2021-03-10,1.66,2.32,Memphis Grizzlies,Washington Wizards,127.0,112.0,15.0,True
+2021-03-07,2.5,1.57,Team Durant,Team LeBron,150.0,170.0,-20.0,False
+2021-03-05,1.12,7.03,Phoenix Suns,Golden State Warriors,120.0,98.0,22.0,True
+2021-03-05,1.54,2.61,Portland Trail Blazers,Sacramento Kings,123.0,119.0,4.0,True
+2021-03-05,1.35,3.38,San Antonio Spurs,Oklahoma City Thunder,102.0,107.0,-5.0,False
+2021-03-05,2.1,1.79,New Orleans Pelicans,Miami Heat,93.0,103.0,-10.0,False
+2021-03-05,2.43,1.61,Indiana Pacers,Denver Nuggets,103.0,113.0,-10.0,False
+2021-03-05,3.06,1.41,Memphis Grizzlies,Milwaukee Bucks,111.0,112.0,-1.0,False
+2021-03-05,1.35,3.35,New York Knicks,Detroit Pistons,114.0,104.0,10.0,True
+2021-03-05,1.29,3.85,Boston Celtics,Toronto Raptors,132.0,125.0,7.0,True
+2021-03-05,4.01,1.27,Washington Wizards,Los Angeles Clippers,119.0,117.0,2.0,True
+2021-03-04,1.98,1.88,Portland Trail Blazers,Golden State Warriors,108.0,106.0,2.0,True
+2021-03-04,1.59,2.47,Sacramento Kings,Los Angeles Lakers,123.0,120.0,3.0,True
+2021-03-03,1.5,2.71,Dallas Mavericks,Oklahoma City Thunder,87.0,78.0,9.0,True
+2021-03-03,2.14,1.75,Minnesota Timberwolves,Charlotte Hornets,102.0,135.0,-33.0,False
+2021-03-03,1.42,3.0,New Orleans Pelicans,Chicago Bulls,124.0,128.0,-4.0,False
+2021-03-03,2.23,1.7,Orlando Magic,Atlanta Hawks,112.0,115.0,-3.0,False
+2021-03-03,5.29,1.18,Houston Rockets,Brooklyn Nets,114.0,132.0,-18.0,False
+2021-03-03,3.24,1.37,Cleveland Cavaliers,Indiana Pacers,111.0,114.0,-3.0,False
+2021-03-03,2.4,1.62,Philadelphia 76ers,Utah Jazz,131.0,123.0,8.0,True
+2021-03-03,1.32,3.58,Toronto Raptors,Detroit Pistons,105.0,129.0,-24.0,False
+2021-03-03,1.95,1.91,Los Angeles Lakers,Phoenix Suns,104.0,114.0,-10.0,False
+2021-03-03,1.31,3.65,Milwaukee Bucks,Denver Nuggets,97.0,128.0,-31.0,False
+2021-03-03,2.08,1.81,San Antonio Spurs,New York Knicks,119.0,93.0,26.0,True
+2021-03-03,2.71,1.51,Boston Celtics,Los Angeles Clippers,117.0,112.0,5.0,True
+2021-03-03,1.77,2.12,Miami Heat,Atlanta Hawks,80.0,94.0,-14.0,False
+2021-03-03,1.9,1.96,Washington Wizards,Memphis Grizzlies,111.0,125.0,-14.0,False
+2021-03-02,1.3,3.75,Portland Trail Blazers,Charlotte Hornets,123.0,111.0,12.0,True
+2021-03-02,1.7,2.25,Houston Rockets,Cleveland Cavaliers,90.0,101.0,-11.0,False
+2021-03-02,2.51,1.58,San Antonio Spurs,Brooklyn Nets,113.0,124.0,-11.0,False
+2021-03-02,2.54,1.57,Chicago Bulls,Denver Nuggets,112.0,118.0,-6.0,False
+2021-03-02,3.28,1.37,New Orleans Pelicans,Utah Jazz,129.0,124.0,5.0,True
+2021-03-02,3.3,1.37,Orlando Magic,Dallas Mavericks,124.0,130.0,-6.0,False
+2021-03-02,1.63,2.39,Philadelphia 76ers,Indiana Pacers,130.0,114.0,16.0,True
+2021-03-01,1.62,2.4,Sacramento Kings,Charlotte Hornets,126.0,127.0,-1.0,False
+2021-03-01,5.27,1.18,Minnesota Timberwolves,Phoenix Suns,99.0,118.0,-19.0,False
+2021-03-01,2.01,1.85,Detroit Pistons,New York Knicks,90.0,109.0,-19.0,False
+2021-03-01,2.43,1.6,Houston Rockets,Memphis Grizzlies,84.0,133.0,-49.0,False
+2021-03-01,1.7,2.25,Los Angeles Lakers,Golden State Warriors,117.0,91.0,26.0,True
+2021-03-01,1.74,2.17,Miami Heat,Atlanta Hawks,109.0,99.0,10.0,True
+2021-03-01,1.39,3.16,Boston Celtics,Washington Wizards,111.0,110.0,1.0,True
+2021-03-01,1.83,2.05,Milwaukee Bucks,Los Angeles Clippers,105.0,100.0,5.0,True
+2021-02-27,1.94,1.92,Brooklyn Nets,Dallas Mavericks,98.0,115.0,-17.0,False
+2021-02-27,1.9,1.96,New York Knicks,Indiana Pacers,110.0,107.0,3.0,True
+2021-02-27,3.23,1.38,Oklahoma City Thunder,Denver Nuggets,96.0,126.0,-30.0,False
+2021-02-27,4.66,1.21,Orlando Magic,Utah Jazz,109.0,124.0,-15.0,False
+2021-02-27,2.13,1.76,San Antonio Spurs,New Orleans Pelicans,117.0,114.0,3.0,True
+2021-02-27,1.15,5.88,Philadelphia 76ers,Cleveland Cavaliers,109.0,112.0,-3.0,False
+2021-02-27,1.58,2.48,Washington Wizards,Minnesota Timberwolves,128.0,112.0,16.0,True
+2021-02-27,1.4,3.11,Golden State Warriors,Charlotte Hornets,130.0,121.0,9.0,True
+2021-02-27,1.49,2.74,Los Angeles Lakers,Portland Trail Blazers,102.0,93.0,9.0,True
+2021-02-27,3.14,1.39,Chicago Bulls,Phoenix Suns,97.0,106.0,-9.0,False
+2021-02-27,2.02,1.85,Detroit Pistons,Sacramento Kings,107.0,110.0,-3.0,False
+2021-02-27,3.56,1.32,Memphis Grizzlies,Los Angeles Clippers,99.0,119.0,-20.0,False
+2021-02-27,3.03,1.42,Miami Heat,Utah Jazz,124.0,116.0,8.0,True
+2021-02-27,2.74,1.49,Oklahoma City Thunder,Atlanta Hawks,118.0,109.0,9.0,True
+2021-02-27,1.71,2.21,Boston Celtics,Indiana Pacers,118.0,112.0,6.0,True
+2021-02-27,1.37,3.27,Toronto Raptors,Houston Rockets,122.0,111.0,11.0,True
+2021-02-25,1.3,3.73,Milwaukee Bucks,New Orleans Pelicans,129.0,125.0,4.0,True
+2021-02-25,1.29,3.81,Denver Nuggets,Washington Wizards,110.0,112.0,-2.0,False
+2021-02-25,3.7,1.3,Memphis Grizzlies,Los Angeles Clippers,122.0,94.0,28.0,True
+2021-02-25,1.26,4.15,Brooklyn Nets,Orlando Magic,129.0,92.0,37.0,True
+2021-02-25,1.86,1.99,New York Knicks,Sacramento Kings,140.0,121.0,19.0,True
+2021-02-25,1.52,2.68,Philadelphia 76ers,Dallas Mavericks,111.0,97.0,14.0,True
+2021-02-25,1.27,3.99,Utah Jazz,Los Angeles Lakers,114.0,89.0,25.0,True
+2021-02-25,1.23,4.41,Phoenix Suns,Charlotte Hornets,121.0,124.0,-3.0,False
+2021-02-25,1.52,2.65,Chicago Bulls,Minnesota Timberwolves,133.0,126.0,7.0,True
+2021-02-25,1.79,2.1,Miami Heat,Toronto Raptors,116.0,108.0,8.0,True
+2021-02-25,1.15,5.9,New Orleans Pelicans,Detroit Pistons,128.0,118.0,10.0,True
+2021-02-25,1.96,1.9,Oklahoma City Thunder,San Antonio Spurs,102.0,99.0,3.0,True
+2021-02-25,2.02,1.84,Atlanta Hawks,Boston Celtics,127.0,112.0,15.0,True
+2021-02-25,2.7,1.5,Cleveland Cavaliers,Houston Rockets,112.0,96.0,16.0,True
+2021-02-25,1.75,2.16,Indiana Pacers,Golden State Warriors,107.0,111.0,-4.0,False
+2021-02-24,1.42,3.02,Denver Nuggets,Portland Trail Blazers,111.0,106.0,5.0,True
+2021-02-24,1.13,6.52,Los Angeles Clippers,Washington Wizards,135.0,116.0,19.0,True
+2021-02-24,1.17,5.41,Milwaukee Bucks,Minnesota Timberwolves,139.0,112.0,27.0,True
+2021-02-24,1.43,2.97,Brooklyn Nets,Sacramento Kings,127.0,118.0,9.0,True
+2021-02-24,2.18,1.74,Dallas Mavericks,Boston Celtics,110.0,107.0,3.0,True
+2021-02-24,2.44,1.6,New York Knicks,Golden State Warriors,106.0,114.0,-8.0,False
+2021-02-24,2.18,1.74,Toronto Raptors,Philadelphia 76ers,102.0,109.0,-7.0,False
+2021-02-24,3.73,1.3,Cleveland Cavaliers,Atlanta Hawks,112.0,111.0,1.0,True
+2021-02-24,1.56,2.54,Orlando Magic,Detroit Pistons,93.0,105.0,-12.0,False
+2021-02-23,1.37,3.25,Los Angeles Lakers,Washington Wizards,124.0,127.0,-3.0,False
+2021-02-23,3.35,1.35,Oklahoma City Thunder,Miami Heat,94.0,108.0,-14.0,False
+2021-02-23,1.41,3.08,Phoenix Suns,Portland Trail Blazers,132.0,100.0,32.0,True
+2021-02-23,1.11,7.05,Utah Jazz,Charlotte Hornets,132.0,110.0,22.0,True
+2021-02-23,1.55,2.56,Dallas Mavericks,Memphis Grizzlies,102.0,92.0,10.0,True
+2021-02-23,1.94,1.92,Houston Rockets,Chicago Bulls,100.0,120.0,-20.0,False
+2021-02-21,1.18,5.18,Milwaukee Bucks,Sacramento Kings,128.0,115.0,13.0,True
+2021-02-21,1.39,3.18,Los Angeles Clippers,Brooklyn Nets,108.0,112.0,-4.0,False
+2021-02-21,2.22,1.71,Atlanta Hawks,Denver Nuggets,123.0,115.0,8.0,True
+2021-02-21,2.25,1.69,Cleveland Cavaliers,Oklahoma City Thunder,101.0,117.0,-16.0,False
+2021-02-21,1.65,2.33,New York Knicks,Minnesota Timberwolves,103.0,99.0,4.0,True
+2021-02-21,1.64,2.35,Orlando Magic,Detroit Pistons,105.0,96.0,9.0,True
+2021-02-21,2.32,1.66,Toronto Raptors,Philadelphia 76ers,110.0,103.0,7.0,True
+2021-02-21,2.16,1.75,New Orleans Pelicans,Boston Celtics,120.0,115.0,5.0,True
+2021-02-21,1.53,2.61,Portland Trail Blazers,Washington Wizards,111.0,118.0,-7.0,False
+2021-02-21,1.96,1.9,Chicago Bulls,Sacramento Kings,122.0,114.0,8.0,True
+2021-02-21,3.15,1.39,Memphis Grizzlies,Phoenix Suns,97.0,128.0,-31.0,False
+2021-02-21,1.63,2.37,Los Angeles Lakers,Miami Heat,94.0,96.0,-2.0,False
+2021-02-21,2.14,1.75,Charlotte Hornets,Golden State Warriors,102.0,100.0,2.0,True
+2021-02-20,1.96,1.91,Los Angeles Clippers,Utah Jazz,116.0,112.0,4.0,True
+2021-02-20,2.26,1.68,Minnesota Timberwolves,Toronto Raptors,81.0,86.0,-5.0,False
+2021-02-20,1.54,2.6,Memphis Grizzlies,Detroit Pistons,109.0,95.0,14.0,True
+2021-02-20,1.17,5.55,Milwaukee Bucks,Oklahoma City Thunder,98.0,85.0,13.0,True
+2021-02-20,2.39,1.62,New Orleans Pelicans,Phoenix Suns,114.0,132.0,-18.0,False
+2021-02-20,1.52,2.65,Boston Celtics,Atlanta Hawks,121.0,109.0,12.0,True
+2021-02-20,1.39,3.13,Philadelphia 76ers,Chicago Bulls,112.0,105.0,7.0,True
+2021-02-20,4.28,1.24,Cleveland Cavaliers,Denver Nuggets,103.0,120.0,-17.0,False
+2021-02-20,2.72,1.5,Orlando Magic,Golden State Warriors,124.0,120.0,4.0,True
+2021-02-19,1.69,2.26,Los Angeles Lakers,Brooklyn Nets,98.0,109.0,-11.0,False
+2021-02-19,1.9,1.95,Sacramento Kings,Miami Heat,110.0,118.0,-8.0,False
+2021-02-19,1.34,3.45,Milwaukee Bucks,Toronto Raptors,96.0,110.0,-14.0,False
+2021-02-18,1.83,2.05,Golden State Warriors,Miami Heat,120.0,112.0,8.0,True
+2021-02-18,3.27,1.37,Los Angeles Clippers,Utah Jazz,96.0,114.0,-18.0,False
+2021-02-18,1.36,3.3,Memphis Grizzlies,Oklahoma City Thunder,122.0,113.0,9.0,True
+2021-02-18,1.58,2.49,New Orleans Pelicans,Portland Trail Blazers,124.0,126.0,-2.0,False
+2021-02-18,1.69,2.25,Chicago Bulls,Detroit Pistons,105.0,102.0,3.0,True
+2021-02-18,2.82,1.47,Minnesota Timberwolves,Indiana Pacers,128.0,134.0,-6.0,False
+2021-02-18,2.62,1.53,Washington Wizards,Denver Nuggets,130.0,128.0,2.0,True
+2021-02-18,1.82,2.05,Boston Celtics,Atlanta Hawks,114.0,122.0,-8.0,False
+2021-02-18,1.27,3.95,Philadelphia 76ers,Houston Rockets,118.0,113.0,5.0,True
+2021-02-18,2.37,1.63,Orlando Magic,New York Knicks,107.0,89.0,18.0,True
+2021-02-17,1.32,3.62,Phoenix Suns,Brooklyn Nets,124.0,128.0,-4.0,False
+2021-02-17,2.03,1.84,Memphis Grizzlies,New Orleans Pelicans,113.0,144.0,-31.0,False
+2021-02-17,1.42,3.0,Milwaukee Bucks,Toronto Raptors,113.0,124.0,-11.0,False
+2021-02-17,3.13,1.39,Minnesota Timberwolves,Los Angeles Lakers,104.0,112.0,-8.0,False
+2021-02-17,2.8,1.47,Oklahoma City Thunder,Portland Trail Blazers,104.0,115.0,-11.0,False
+2021-02-17,1.8,2.09,Boston Celtics,Denver Nuggets,112.0,99.0,13.0,True
+2021-02-16,1.2,4.89,Golden State Warriors,Cleveland Cavaliers,129.0,98.0,31.0,True
+2021-02-16,2.62,1.54,Los Angeles Clippers,Miami Heat,125.0,118.0,7.0,True
+2021-02-16,2.63,1.53,Sacramento Kings,Brooklyn Nets,125.0,136.0,-11.0,False
+2021-02-16,1.26,3.92,Utah Jazz,Philadelphia 76ers,134.0,123.0,11.0,True
+2021-02-16,2.04,1.83,New York Knicks,Atlanta Hawks,123.0,112.0,11.0,True
+2021-02-16,1.52,2.66,Indiana Pacers,Chicago Bulls,112.0,120.0,-8.0,False
+2021-02-16,1.81,2.06,Washington Wizards,Houston Rockets,131.0,119.0,12.0,True
+2021-02-15,2.3,1.67,Denver Nuggets,Los Angeles Lakers,122.0,105.0,17.0,True
+2021-02-15,1.23,4.43,Los Angeles Clippers,Cleveland Cavaliers,128.0,111.0,17.0,True
+2021-02-15,1.79,2.11,Sacramento Kings,Memphis Grizzlies,110.0,124.0,-14.0,False
+2021-02-15,1.14,6.13,Phoenix Suns,Orlando Magic,109.0,90.0,19.0,True
+2021-02-15,6.77,1.12,Oklahoma City Thunder,Milwaukee Bucks,114.0,109.0,5.0,True
+2021-02-15,1.46,2.87,Dallas Mavericks,Portland Trail Blazers,118.0,121.0,-3.0,False
+2021-02-15,2.47,1.58,Charlotte Hornets,San Antonio Spurs,110.0,122.0,-12.0,False
+2021-02-15,2.82,1.47,Detroit Pistons,New Orleans Pelicans,123.0,112.0,11.0,True
+2021-02-15,1.29,3.8,Toronto Raptors,Minnesota Timberwolves,112.0,116.0,-4.0,False
+2021-02-15,3.38,1.35,Washington Wizards,Boston Celtics,104.0,91.0,13.0,True
+2021-02-13,1.35,3.37,Utah Jazz,Miami Heat,112.0,94.0,18.0,True
+2021-02-13,2.36,1.64,Golden State Warriors,Brooklyn Nets,117.0,134.0,-17.0,False
+2021-02-13,1.92,1.93,New York Knicks,Houston Rockets,121.0,99.0,22.0,True
+2021-02-13,2.03,1.84,Atlanta Hawks,Indiana Pacers,113.0,125.0,-12.0,False
+2021-02-13,1.87,2.0,Phoenix Suns,Philadelphia 76ers,120.0,111.0,9.0,True
+2021-02-13,1.27,3.95,Los Angeles Lakers,Memphis Grizzlies,115.0,105.0,10.0,True
+2021-02-13,1.59,2.47,Portland Trail Blazers,Cleveland Cavaliers,129.0,110.0,19.0,True
+2021-02-13,1.37,3.25,Sacramento Kings,Orlando Magic,112.0,123.0,-11.0,False
+2021-02-13,1.12,6.7,Denver Nuggets,Oklahoma City Thunder,97.0,95.0,2.0,True
+2021-02-13,1.74,2.18,Utah Jazz,Milwaukee Bucks,129.0,115.0,14.0,True
+2021-02-13,1.32,3.53,Boston Celtics,Detroit Pistons,102.0,108.0,-6.0,False
+2021-02-13,3.58,1.32,Chicago Bulls,Los Angeles Clippers,106.0,125.0,-19.0,False
+2021-02-13,1.74,2.17,Atlanta Hawks,San Antonio Spurs,114.0,125.0,-11.0,False
+2021-02-13,1.69,2.27,Dallas Mavericks,New Orleans Pelicans,143.0,130.0,13.0,True
+2021-02-13,1.71,2.22,Charlotte Hornets,Minnesota Timberwolves,120.0,114.0,6.0,True
+2021-02-13,2.35,1.64,Washington Wizards,New York Knicks,91.0,109.0,-18.0,False
+2021-02-12,1.25,4.31,Golden State Warriors,Orlando Magic,111.0,105.0,6.0,True
+2021-02-12,2.94,1.43,Portland Trail Blazers,Philadelphia 76ers,118.0,114.0,4.0,True
+2021-02-12,2.44,1.6,Detroit Pistons,Indiana Pacers,95.0,111.0,-16.0,False
+2021-02-12,1.73,2.19,Boston Celtics,Toronto Raptors,120.0,106.0,14.0,True
+2021-02-12,2.11,1.78,Houston Rockets,Miami Heat,94.0,101.0,-7.0,False
+2021-02-11,1.12,6.74,Los Angeles Lakers,Oklahoma City Thunder,114.0,113.0,1.0,True
+2021-02-11,2.44,1.61,Phoenix Suns,Milwaukee Bucks,125.0,124.0,1.0,True
+2021-02-11,2.2,1.72,Chicago Bulls,New Orleans Pelicans,129.0,116.0,13.0,True
+2021-02-11,1.21,4.8,Denver Nuggets,Cleveland Cavaliers,133.0,95.0,38.0,True
+2021-02-11,2.01,1.85,Brooklyn Nets,Indiana Pacers,104.0,94.0,10.0,True
+2021-02-11,1.7,2.23,Memphis Grizzlies,Charlotte Hornets,130.0,114.0,16.0,True
+2021-02-11,4.28,1.25,Minnesota Timberwolves,Los Angeles Clippers,112.0,119.0,-7.0,False
+2021-02-11,1.61,2.41,Dallas Mavericks,Atlanta Hawks,118.0,117.0,1.0,True
+2021-02-11,2.8,1.47,Washington Wizards,Toronto Raptors,115.0,137.0,-22.0,False
+2021-02-10,1.4,3.08,Portland Trail Blazers,Orlando Magic,106.0,97.0,9.0,True
+2021-02-10,2.64,1.52,Sacramento Kings,Philadelphia 76ers,111.0,119.0,-8.0,False
+2021-02-10,1.46,2.85,Utah Jazz,Boston Celtics,122.0,108.0,14.0,True
+2021-02-10,2.04,1.83,San Antonio Spurs,Golden State Warriors,91.0,114.0,-23.0,False
+2021-02-10,1.42,3.0,Miami Heat,New York Knicks,98.0,96.0,2.0,True
+2021-02-10,1.39,3.16,New Orleans Pelicans,Houston Rockets,130.0,101.0,29.0,True
+2021-02-10,2.93,1.44,Detroit Pistons,Brooklyn Nets,122.0,111.0,11.0,True
+2021-02-09,1.19,5.14,Los Angeles Lakers,Oklahoma City Thunder,119.0,112.0,7.0,True
+2021-02-09,2.16,1.75,Denver Nuggets,Milwaukee Bucks,112.0,125.0,-13.0,False
+2021-02-09,1.44,2.91,Phoenix Suns,Cleveland Cavaliers,119.0,113.0,6.0,True
+2021-02-09,1.2,4.82,Dallas Mavericks,Minnesota Timberwolves,127.0,122.0,5.0,True
+2021-02-09,1.85,2.02,San Antonio Spurs,Golden State Warriors,105.0,100.0,5.0,True
+2021-02-09,1.55,2.58,Chicago Bulls,Washington Wizards,101.0,105.0,-4.0,False
+2021-02-09,2.24,1.69,Memphis Grizzlies,Toronto Raptors,113.0,128.0,-15.0,False
+2021-02-09,2.06,1.82,Charlotte Hornets,Houston Rockets,119.0,94.0,25.0,True
+2021-02-07,1.28,3.9,Los Angeles Clippers,Sacramento Kings,110.0,113.0,-3.0,False
+2021-02-07,1.72,2.21,Phoenix Suns,Boston Celtics,100.0,91.0,9.0,True
+2021-02-07,2.0,1.86,Charlotte Hornets,Washington Wizards,119.0,97.0,22.0,True
+2021-02-07,2.72,1.5,Indiana Pacers,Utah Jazz,95.0,103.0,-8.0,False
+2021-02-07,2.84,1.46,New York Knicks,Miami Heat,103.0,109.0,-6.0,False
+2021-02-07,1.08,8.92,Los Angeles Lakers,Detroit Pistons,135.0,129.0,6.0,True
+2021-02-07,1.96,1.9,New Orleans Pelicans,Memphis Grizzlies,118.0,109.0,9.0,True
+2021-02-07,1.55,2.57,Dallas Mavericks,Golden State Warriors,134.0,132.0,2.0,True
+2021-02-07,1.97,1.89,Atlanta Hawks,Toronto Raptors,132.0,121.0,11.0,True
+2021-02-07,5.19,1.18,Cleveland Cavaliers,Milwaukee Bucks,99.0,124.0,-25.0,False
+2021-02-07,1.86,2.0,Houston Rockets,San Antonio Spurs,106.0,111.0,-5.0,False
+2021-02-07,1.79,2.09,Oklahoma City Thunder,Minnesota Timberwolves,120.0,118.0,2.0,True
+2021-02-07,1.4,3.12,Philadelphia 76ers,Brooklyn Nets,124.0,108.0,16.0,True
+2021-02-07,2.03,1.83,Orlando Magic,Chicago Bulls,92.0,118.0,-26.0,False
+2021-02-07,2.11,1.79,Sacramento Kings,Denver Nuggets,119.0,114.0,5.0,True
+2021-02-07,2.0,1.86,New York Knicks,Portland Trail Blazers,110.0,99.0,11.0,True
+2021-02-06,1.46,2.85,Los Angeles Clippers,Boston Celtics,115.0,119.0,-4.0,False
+2021-02-06,1.29,3.85,Phoenix Suns,Detroit Pistons,109.0,92.0,17.0,True
+2021-02-06,3.82,1.29,Charlotte Hornets,Utah Jazz,121.0,138.0,-17.0,False
+2021-02-06,1.37,3.28,Miami Heat,Washington Wizards,122.0,95.0,27.0,True
+2021-02-06,2.17,1.74,Oklahoma City Thunder,Minnesota Timberwolves,103.0,106.0,-3.0,False
+2021-02-06,1.45,2.89,Brooklyn Nets,Toronto Raptors,117.0,123.0,-6.0,False
+2021-02-05,5.51,1.17,Cleveland Cavaliers,Milwaukee Bucks,105.0,123.0,-18.0,False
+2021-02-05,1.82,2.05,Indiana Pacers,New Orleans Pelicans,113.0,114.0,-1.0,False
+2021-02-05,2.16,1.75,Orlando Magic,Chicago Bulls,123.0,119.0,4.0,True
+2021-02-05,1.52,2.66,Los Angeles Lakers,Denver Nuggets,114.0,93.0,21.0,True
+2021-02-05,1.61,2.42,Memphis Grizzlies,Houston Rockets,103.0,115.0,-12.0,False
+2021-02-05,1.2,4.93,Philadelphia 76ers,Portland Trail Blazers,105.0,121.0,-16.0,False
+2021-02-05,4.88,1.2,Atlanta Hawks,Utah Jazz,91.0,112.0,-21.0,False
+2021-02-05,1.57,2.52,Dallas Mavericks,Golden State Warriors,116.0,147.0,-31.0,False
+2021-02-04,1.89,1.97,Sacramento Kings,Boston Celtics,116.0,111.0,5.0,True
+2021-02-04,2.25,1.7,New Orleans Pelicans,Phoenix Suns,123.0,101.0,22.0,True
+2021-02-04,1.32,3.57,San Antonio Spurs,Minnesota Timberwolves,111.0,108.0,3.0,True
+2021-02-04,1.84,2.02,Chicago Bulls,New York Knicks,103.0,107.0,-4.0,False
+2021-02-04,4.28,1.25,Cleveland Cavaliers,Los Angeles Clippers,99.0,121.0,-22.0,False
+2021-02-04,1.24,4.32,Miami Heat,Washington Wizards,100.0,103.0,-3.0,False
+2021-02-04,3.21,1.38,Oklahoma City Thunder,Houston Rockets,104.0,87.0,17.0,True
+2021-02-04,2.1,1.79,Atlanta Hawks,Dallas Mavericks,116.0,122.0,-6.0,False
+2021-02-04,3.44,1.34,Charlotte Hornets,Philadelphia 76ers,111.0,118.0,-7.0,False
+2021-02-04,1.24,4.26,Milwaukee Bucks,Indiana Pacers,130.0,110.0,20.0,True
+2021-02-03,2.21,1.71,Golden State Warriors,Boston Celtics,107.0,111.0,-4.0,False
+2021-02-03,1.12,6.86,Utah Jazz,Detroit Pistons,117.0,105.0,12.0,True
+2021-02-03,1.54,2.59,Indiana Pacers,Memphis Grizzlies,134.0,116.0,18.0,True
+2021-02-03,1.67,2.28,Washington Wizards,Portland Trail Blazers,121.0,132.0,-11.0,False
+2021-02-03,2.06,1.82,Brooklyn Nets,Los Angeles Clippers,124.0,120.0,4.0,True
+2021-02-03,3.11,1.4,Orlando Magic,Toronto Raptors,108.0,123.0,-15.0,False
+2021-02-01,1.77,2.13,Dallas Mavericks,Phoenix Suns,108.0,109.0,-1.0,False
+2021-02-01,1.58,2.48,San Antonio Spurs,Memphis Grizzlies,102.0,133.0,-31.0,False
+2021-02-01,1.61,2.41,Chicago Bulls,New York Knicks,110.0,102.0,8.0,True
+2021-02-01,1.63,2.37,Cleveland Cavaliers,Minnesota Timberwolves,100.0,98.0,2.0,True
+2021-02-01,1.2,4.97,Milwaukee Bucks,Portland Trail Blazers,134.0,106.0,28.0,True
+2021-02-01,1.72,2.2,New Orleans Pelicans,Sacramento Kings,109.0,118.0,-9.0,False
+2021-02-01,2.72,1.5,Oklahoma City Thunder,Houston Rockets,106.0,136.0,-30.0,False
+2021-02-01,3.35,1.35,Atlanta Hawks,Los Angeles Lakers,99.0,107.0,-8.0,False
+2021-02-01,1.32,3.57,Miami Heat,Charlotte Hornets,121.0,129.0,-8.0,False
+2021-01-31,2.39,1.63,Minnesota Timberwolves,Cleveland Cavaliers,109.0,104.0,5.0,True
+2021-01-31,1.69,2.26,Indiana Pacers,Philadelphia 76ers,110.0,119.0,-9.0,False
+2021-01-31,1.45,2.89,Toronto Raptors,Orlando Magic,115.0,102.0,13.0,True
+2021-01-31,3.15,1.39,Washington Wizards,Brooklyn Nets,149.0,146.0,3.0,True
+2021-01-31,2.3,1.66,Denver Nuggets,Utah Jazz,128.0,117.0,11.0,True
+2021-01-31,4.57,1.22,New York Knicks,Los Angeles Clippers,115.0,129.0,-14.0,False
+2021-01-31,1.47,2.82,Golden State Warriors,Detroit Pistons,118.0,91.0,27.0,True
+2021-01-31,1.88,1.97,Dallas Mavericks,Phoenix Suns,105.0,111.0,-6.0,False
+2021-01-31,2.42,1.62,Boston Celtics,Los Angeles Lakers,95.0,96.0,-1.0,False
+2021-01-31,1.62,2.38,San Antonio Spurs,Memphis Grizzlies,112.0,129.0,-17.0,False
+2021-01-31,4.42,1.23,Charlotte Hornets,Milwaukee Bucks,126.0,114.0,12.0,True
+2021-01-31,1.8,2.07,Chicago Bulls,Portland Trail Blazers,122.0,123.0,-1.0,False
+2021-01-31,1.39,3.15,Miami Heat,Sacramento Kings,105.0,104.0,1.0,True
+2021-01-31,1.78,2.12,New Orleans Pelicans,Houston Rockets,112.0,126.0,-14.0,False
+2021-01-30,1.6,2.46,Utah Jazz,Dallas Mavericks,120.0,101.0,19.0,True
+2021-01-30,2.51,1.57,San Antonio Spurs,Denver Nuggets,119.0,109.0,10.0,True
+2021-01-30,3.47,1.34,Orlando Magic,Los Angeles Clippers,90.0,116.0,-26.0,False
+2021-01-29,4.37,1.24,Minnesota Timberwolves,Philadelphia 76ers,94.0,118.0,-24.0,False
+2021-01-29,3.26,1.37,Oklahoma City Thunder,Brooklyn Nets,125.0,147.0,-22.0,False
+2021-01-29,3.28,1.36,New Orleans Pelicans,Milwaukee Bucks,131.0,126.0,5.0,True
+2021-01-29,1.84,2.03,New York Knicks,Cleveland Cavaliers,102.0,81.0,21.0,True
+2021-01-29,1.56,2.55,Toronto Raptors,Sacramento Kings,124.0,126.0,-2.0,False
+2021-01-29,2.43,1.61,Charlotte Hornets,Indiana Pacers,108.0,105.0,3.0,True
+2021-01-29,2.39,1.63,Washington Wizards,Atlanta Hawks,100.0,116.0,-16.0,False
+2021-01-29,1.8,2.08,Phoenix Suns,Golden State Warriors,114.0,93.0,21.0,True
+2021-01-29,3.59,1.32,Detroit Pistons,Los Angeles Lakers,107.0,92.0,15.0,True
+2021-01-29,1.76,2.14,Miami Heat,Los Angeles Clippers,105.0,109.0,-4.0,False
+2021-01-29,1.54,2.59,Houston Rockets,Portland Trail Blazers,104.0,101.0,3.0,True
+2021-01-28,1.25,4.23,Golden State Warriors,Minnesota Timberwolves,123.0,111.0,12.0,True
+2021-01-28,1.29,3.81,New Orleans Pelicans,Washington Wizards,124.0,106.0,18.0,True
+2021-01-28,1.29,3.78,Phoenix Suns,Oklahoma City Thunder,97.0,102.0,-5.0,False
+2021-01-28,1.79,2.1,Utah Jazz,Dallas Mavericks,116.0,104.0,12.0,True
+2021-01-28,2.58,1.55,San Antonio Spurs,Boston Celtics,110.0,106.0,4.0,True
+2021-01-28,2.91,1.45,Atlanta Hawks,Brooklyn Nets,128.0,132.0,-4.0,False
+2021-01-28,3.03,1.42,Miami Heat,Denver Nuggets,82.0,109.0,-27.0,False
+2021-01-28,2.58,1.55,Philadelphia 76ers,Los Angeles Lakers,107.0,106.0,1.0,True
+2021-01-28,3.15,1.39,Toronto Raptors,Milwaukee Bucks,108.0,115.0,-7.0,False
+2021-01-28,2.27,1.68,Charlotte Hornets,Indiana Pacers,106.0,116.0,-10.0,False
+2021-01-28,1.79,2.09,Cleveland Cavaliers,Detroit Pistons,122.0,107.0,15.0,True
+2021-01-28,1.85,2.02,Orlando Magic,Sacramento Kings,107.0,121.0,-14.0,False
+2021-01-26,1.16,5.77,Utah Jazz,New York Knicks,108.0,94.0,14.0,True
+2021-01-26,1.64,2.36,Houston Rockets,Washington Wizards,107.0,88.0,19.0,True
+2021-01-26,1.45,2.88,Atlanta Hawks,Los Angeles Clippers,108.0,99.0,9.0,True
+2021-01-26,1.26,4.11,Golden State Warriors,Minnesota Timberwolves,130.0,108.0,22.0,True
+2021-01-26,1.5,2.71,Portland Trail Blazers,Oklahoma City Thunder,122.0,125.0,-3.0,False
+2021-01-26,2.45,1.59,Chicago Bulls,Boston Celtics,103.0,119.0,-16.0,False
+2021-01-26,2.15,1.76,Dallas Mavericks,Denver Nuggets,113.0,117.0,-4.0,False
+2021-01-26,6.6,1.13,Cleveland Cavaliers,Los Angeles Lakers,108.0,115.0,-7.0,False
+2021-01-26,1.31,3.63,Brooklyn Nets,Miami Heat,98.0,85.0,13.0,True
+2021-01-26,2.74,1.49,Detroit Pistons,Philadelphia 76ers,119.0,104.0,15.0,True
+2021-01-26,1.75,2.15,Indiana Pacers,Toronto Raptors,129.0,114.0,15.0,True
+2021-01-26,1.88,1.98,Orlando Magic,Charlotte Hornets,117.0,108.0,9.0,True
+2021-01-25,1.59,2.47,Portland Trail Blazers,New York Knicks,116.0,113.0,3.0,True
+2021-01-25,1.13,6.69,Milwaukee Bucks,Atlanta Hawks,129.0,115.0,14.0,True
+2021-01-25,1.43,2.96,San Antonio Spurs,Washington Wizards,121.0,101.0,20.0,True
+2021-01-25,1.41,3.05,Boston Celtics,Cleveland Cavaliers,141.0,103.0,38.0,True
+2021-01-25,2.09,1.78,Orlando Magic,Charlotte Hornets,104.0,107.0,-3.0,False
+2021-01-25,1.1,7.56,Los Angeles Clippers,Oklahoma City Thunder,108.0,100.0,8.0,True
+2021-01-25,1.55,2.58,Indiana Pacers,Toronto Raptors,102.0,107.0,-5.0,False
+2021-01-23,4.9,1.19,Chicago Bulls,Los Angeles Lakers,90.0,101.0,-11.0,False
+2021-01-23,1.34,3.43,Dallas Mavericks,Houston Rockets,108.0,133.0,-25.0,False
+2021-01-23,2.19,1.72,Phoenix Suns,Denver Nuggets,112.0,120.0,-8.0,False
+2021-01-23,1.35,3.39,Utah Jazz,Golden State Warriors,127.0,108.0,19.0,True
+2021-01-23,1.31,3.67,Brooklyn Nets,Miami Heat,128.0,124.0,4.0,True
+2021-01-23,3.9,1.28,Detroit Pistons,Philadelphia 76ers,110.0,114.0,-4.0,False
+2021-01-23,4.02,1.26,Minnesota Timberwolves,New Orleans Pelicans,120.0,110.0,10.0,True
+2021-01-23,1.88,1.97,Phoenix Suns,Denver Nuggets,126.0,130.0,-4.0,False
+2021-01-23,1.09,8.1,Los Angeles Clippers,Oklahoma City Thunder,120.0,106.0,14.0,True
+2021-01-23,1.61,2.4,Sacramento Kings,New York Knicks,103.0,94.0,9.0,True
+2021-01-23,2.09,1.78,San Antonio Spurs,Dallas Mavericks,117.0,122.0,-5.0,False
+2021-01-23,3.04,1.41,Minnesota Timberwolves,Atlanta Hawks,98.0,116.0,-18.0,False
+2021-01-23,3.19,1.38,Cleveland Cavaliers,Brooklyn Nets,125.0,113.0,12.0,True
+2021-01-23,1.53,2.63,Philadelphia 76ers,Boston Celtics,122.0,110.0,12.0,True
+2021-01-23,1.74,2.15,Toronto Raptors,Miami Heat,101.0,81.0,20.0,True
+2021-01-23,1.66,2.3,Charlotte Hornets,Chicago Bulls,110.0,123.0,-13.0,False
+2021-01-23,1.69,2.25,Detroit Pistons,Houston Rockets,102.0,103.0,-1.0,False
+2021-01-23,1.51,2.67,Indiana Pacers,Orlando Magic,120.0,118.0,2.0,True
+2021-01-22,1.49,2.75,Golden State Warriors,New York Knicks,104.0,119.0,-15.0,False
+2021-01-22,1.36,3.32,Utah Jazz,New Orleans Pelicans,129.0,118.0,11.0,True
+2021-01-22,1.86,2.01,Milwaukee Bucks,Los Angeles Lakers,106.0,113.0,-7.0,False
+2021-01-21,1.86,2.01,Golden State Warriors,San Antonio Spurs,121.0,99.0,22.0,True
+2021-01-21,1.16,5.77,Los Angeles Clippers,Sacramento Kings,115.0,96.0,19.0,True
+2021-01-21,2.95,1.43,Houston Rockets,Phoenix Suns,103.0,109.0,-6.0,False
+2021-01-21,2.49,1.58,Minnesota Timberwolves,Orlando Magic,96.0,97.0,-1.0,False
+2021-01-21,1.55,2.57,Atlanta Hawks,Detroit Pistons,123.0,115.0,8.0,True
+2021-01-21,1.55,2.56,Toronto Raptors,Miami Heat,102.0,111.0,-9.0,False
+2021-01-21,5.43,1.17,Cleveland Cavaliers,Brooklyn Nets,147.0,135.0,12.0,True
+2021-01-21,2.19,1.73,Indiana Pacers,Dallas Mavericks,112.0,124.0,-12.0,False
+2021-01-21,1.52,2.65,Philadelphia 76ers,Boston Celtics,117.0,109.0,8.0,True
+2021-01-19,1.2,4.9,Denver Nuggets,Oklahoma City Thunder,119.0,101.0,18.0,True
+2021-01-19,1.39,3.17,Utah Jazz,New Orleans Pelicans,118.0,102.0,16.0,True
+2021-01-19,1.24,4.29,Los Angeles Lakers,Golden State Warriors,113.0,115.0,-2.0,False
+2021-01-19,2.09,1.79,Chicago Bulls,Houston Rockets,125.0,120.0,5.0,True
+2021-01-19,1.42,2.99,Miami Heat,Detroit Pistons,113.0,107.0,6.0,True
+2021-01-19,2.48,1.59,Brooklyn Nets,Milwaukee Bucks,125.0,123.0,2.0,True
+2021-01-19,1.62,2.39,Toronto Raptors,Dallas Mavericks,116.0,93.0,23.0,True
+2021-01-19,2.84,1.46,Memphis Grizzlies,Phoenix Suns,108.0,104.0,4.0,True
+2021-01-19,2.03,1.83,Portland Trail Blazers,San Antonio Spurs,104.0,125.0,-21.0,False
+2021-01-19,1.33,3.45,Atlanta Hawks,Minnesota Timberwolves,108.0,97.0,11.0,True
+2021-01-19,2.1,1.77,New York Knicks,Orlando Magic,91.0,84.0,7.0,True
+2021-01-18,1.29,3.78,Los Angeles Clippers,Indiana Pacers,129.0,96.0,33.0,True
+2021-01-18,2.21,1.71,Sacramento Kings,New Orleans Pelicans,123.0,128.0,-5.0,False
+2021-01-18,2.03,1.84,Denver Nuggets,Utah Jazz,105.0,109.0,-4.0,False
+2021-01-18,1.37,3.23,Dallas Mavericks,Chicago Bulls,101.0,117.0,-16.0,False
+2021-01-18,1.33,3.51,Boston Celtics,New York Knicks,75.0,105.0,-30.0,False
+2021-01-17,1.52,2.61,Portland Trail Blazers,Atlanta Hawks,112.0,106.0,6.0,True
+2021-01-17,1.8,2.06,Memphis Grizzlies,Philadelphia 76ers,106.0,104.0,2.0,True
+2021-01-17,1.45,2.84,Miami Heat,Detroit Pistons,100.0,120.0,-20.0,False
+2021-01-17,1.38,3.21,Toronto Raptors,Charlotte Hornets,116.0,113.0,3.0,True
+2021-01-17,1.23,4.46,Brooklyn Nets,Orlando Magic,122.0,115.0,7.0,True
+2021-01-17,1.34,3.39,San Antonio Spurs,Houston Rockets,103.0,91.0,12.0,True
+2021-01-16,1.24,4.35,Los Angeles Lakers,New Orleans Pelicans,112.0,95.0,17.0,True
+2021-01-16,3.3,1.36,Sacramento Kings,Los Angeles Clippers,100.0,138.0,-38.0,False
+2021-01-16,1.4,3.07,Utah Jazz,Atlanta Hawks,116.0,92.0,24.0,True
+2021-01-16,2.17,1.74,Oklahoma City Thunder,Chicago Bulls,127.0,125.0,2.0,True
+2021-01-16,1.57,2.5,Boston Celtics,Orlando Magic,124.0,97.0,27.0,True
+2021-01-16,2.13,1.76,Cleveland Cavaliers,New York Knicks,106.0,103.0,3.0,True
+2021-01-15,1.32,3.56,Milwaukee Bucks,Dallas Mavericks,112.0,109.0,3.0,True
+2021-01-15,1.53,2.63,Denver Nuggets,Golden State Warriors,114.0,104.0,10.0,True
+2021-01-15,1.68,2.27,Portland Trail Blazers,Indiana Pacers,87.0,111.0,-24.0,False
+2021-01-15,1.34,3.38,San Antonio Spurs,Houston Rockets,105.0,109.0,-4.0,False
+2021-01-15,1.22,4.58,Toronto Raptors,Charlotte Hornets,111.0,108.0,3.0,True
+2021-01-15,1.28,3.91,Philadelphia 76ers,Miami Heat,125.0,108.0,17.0,True
+2021-01-14,1.18,5.18,Los Angeles Clippers,New Orleans Pelicans,111.0,106.0,5.0,True
+2021-01-14,2.68,1.51,Sacramento Kings,Portland Trail Blazers,126.0,132.0,-6.0,False
+2021-01-14,1.75,2.15,Minnesota Timberwolves,Memphis Grizzlies,107.0,118.0,-11.0,False
+2021-01-14,5.31,1.18,Oklahoma City Thunder,Los Angeles Lakers,99.0,128.0,-29.0,False
+2021-01-14,2.27,1.67,New York Knicks,Brooklyn Nets,109.0,116.0,-7.0,False
+2021-01-14,2.26,1.68,Charlotte Hornets,Dallas Mavericks,93.0,104.0,-11.0,False
+2021-01-14,5.3,1.18,Detroit Pistons,Milwaukee Bucks,101.0,110.0,-9.0,False
+2021-01-13,1.63,2.37,Golden State Warriors,Indiana Pacers,95.0,104.0,-9.0,False
+2021-01-13,2.62,1.53,Houston Rockets,Los Angeles Lakers,100.0,117.0,-17.0,False
+2021-01-13,2.12,1.77,Oklahoma City Thunder,San Antonio Spurs,102.0,112.0,-10.0,False
+2021-01-13,1.81,2.06,Brooklyn Nets,Denver Nuggets,122.0,116.0,6.0,True
+2021-01-13,7.16,1.11,Cleveland Cavaliers,Utah Jazz,87.0,117.0,-30.0,False
+2021-01-13,1.28,3.91,Philadelphia 76ers,Miami Heat,137.0,134.0,3.0,True
+2021-01-12,1.53,2.61,Portland Trail Blazers,Toronto Raptors,112.0,111.0,1.0,True
+2021-01-12,2.45,1.6,Sacramento Kings,Indiana Pacers,127.0,122.0,5.0,True
+2021-01-12,1.43,2.94,Atlanta Hawks,Philadelphia 76ers,112.0,94.0,18.0,True
+2021-01-12,1.52,2.65,Charlotte Hornets,New York Knicks,109.0,88.0,21.0,True
+2021-01-12,2.13,1.75,Cleveland Cavaliers,Memphis Grizzlies,91.0,101.0,-10.0,False
+2021-01-12,4.97,1.19,Orlando Magic,Milwaukee Bucks,99.0,121.0,-22.0,False
+2021-01-12,3.12,1.39,Washington Wizards,Phoenix Suns,128.0,107.0,21.0,True
+2021-01-10,2.19,1.72,Golden State Warriors,Toronto Raptors,106.0,105.0,1.0,True
+2021-01-10,2.52,1.56,Minnesota Timberwolves,San Antonio Spurs,96.0,88.0,8.0,True
+2021-01-10,2.53,1.56,Houston Rockets,Los Angeles Lakers,102.0,120.0,-18.0,False
+2021-01-10,1.3,3.66,Brooklyn Nets,Oklahoma City Thunder,116.0,129.0,-13.0,False
+2021-01-10,2.83,1.46,New York Knicks,Denver Nuggets,89.0,114.0,-25.0,False
+2021-01-10,1.12,6.79,Los Angeles Clippers,Chicago Bulls,130.0,127.0,3.0,True
+2021-01-10,4.07,1.26,Detroit Pistons,Utah Jazz,86.0,96.0,-10.0,False
+2021-01-10,2.73,1.5,Sacramento Kings,Portland Trail Blazers,99.0,125.0,-26.0,False
+2021-01-10,1.41,3.03,Dallas Mavericks,Orlando Magic,112.0,98.0,14.0,True
+2021-01-10,1.25,4.22,Milwaukee Bucks,Cleveland Cavaliers,100.0,90.0,10.0,True
+2021-01-10,2.34,1.64,Minnesota Timberwolves,San Antonio Spurs,122.0,125.0,-3.0,False
+2021-01-10,2.64,1.52,Charlotte Hornets,Atlanta Hawks,113.0,105.0,8.0,True
+2021-01-10,1.68,2.27,Indiana Pacers,Phoenix Suns,117.0,125.0,-8.0,False
+2021-01-10,5.24,1.18,Washington Wizards,Miami Heat,124.0,128.0,-4.0,False
+2021-01-10,8.2,1.09,Philadelphia 76ers,Denver Nuggets,103.0,115.0,-12.0,False
+2021-01-09,3.15,1.38,Golden State Warriors,Los Angeles Clippers,115.0,105.0,10.0,True
+2021-01-09,1.26,4.05,Los Angeles Lakers,Chicago Bulls,117.0,115.0,2.0,True
+2021-01-09,1.95,1.9,Sacramento Kings,Toronto Raptors,123.0,144.0,-21.0,False
+2021-01-09,1.35,3.34,Houston Rockets,Orlando Magic,132.0,90.0,42.0,True
+2021-01-09,1.96,1.88,Memphis Grizzlies,Brooklyn Nets,115.0,110.0,5.0,True
+2021-01-09,1.42,3.01,Milwaukee Bucks,Utah Jazz,118.0,131.0,-13.0,False
+2021-01-09,1.6,2.44,Boston Celtics,Washington Wizards,116.0,107.0,9.0,True
+2021-01-09,1.35,3.38,New Orleans Pelicans,Charlotte Hornets,110.0,118.0,-8.0,False
+2021-01-09,1.66,2.29,New York Knicks,Oklahoma City Thunder,89.0,101.0,-12.0,False
+2021-01-08,3.62,1.31,Detroit Pistons,Phoenix Suns,110.0,105.0,5.0,True
+2021-01-08,1.71,2.21,Denver Nuggets,Dallas Mavericks,117.0,124.0,-7.0,False
+2021-01-08,1.25,4.22,Los Angeles Lakers,San Antonio Spurs,109.0,118.0,-9.0,False
+2021-01-08,1.2,4.86,Portland Trail Blazers,Minnesota Timberwolves,135.0,117.0,18.0,True
+2021-01-08,1.47,2.81,Memphis Grizzlies,Cleveland Cavaliers,90.0,94.0,-4.0,False
+2021-01-08,2.56,1.56,Brooklyn Nets,Philadelphia 76ers,122.0,109.0,13.0,True
+2021-01-07,2.79,1.48,Golden State Warriors,Los Angeles Clippers,101.0,108.0,-7.0,False
+2021-01-07,1.35,3.33,Sacramento Kings,Chicago Bulls,128.0,124.0,4.0,True
+2021-01-07,1.66,2.29,Phoenix Suns,Toronto Raptors,123.0,115.0,8.0,True
+2021-01-07,1.13,6.58,Milwaukee Bucks,Detroit Pistons,130.0,115.0,15.0,True
+2021-01-07,1.29,3.8,New Orleans Pelicans,Oklahoma City Thunder,110.0,111.0,-1.0,False
+2021-01-07,1.43,2.96,Atlanta Hawks,Charlotte Hornets,94.0,102.0,-8.0,False
+2021-01-07,1.71,2.22,Miami Heat,Boston Celtics,105.0,107.0,-2.0,False
+2021-01-07,3.59,1.31,New York Knicks,Utah Jazz,112.0,100.0,12.0,True
+2021-01-07,1.7,2.23,Indiana Pacers,Houston Rockets,114.0,107.0,7.0,True
+2021-01-07,1.48,2.75,Orlando Magic,Cleveland Cavaliers,105.0,94.0,11.0,True
+2021-01-07,1.38,3.18,Philadelphia 76ers,Washington Wizards,141.0,136.0,5.0,True
+2021-01-06,1.22,4.55,Portland Trail Blazers,Chicago Bulls,108.0,111.0,-3.0,False
+2021-01-06,1.33,3.49,Los Angeles Clippers,San Antonio Spurs,113.0,116.0,-3.0,False
+2021-01-06,1.16,5.71,Denver Nuggets,Minnesota Timberwolves,123.0,116.0,7.0,True
+2021-01-06,4.54,1.22,Memphis Grizzlies,Los Angeles Lakers,92.0,94.0,-2.0,False
+2021-01-06,2.56,1.55,Brooklyn Nets,Utah Jazz,130.0,96.0,34.0,True
+2021-01-05,2.03,1.84,Golden State Warriors,Sacramento Kings,137.0,106.0,31.0,True
+2021-01-05,1.6,2.43,Houston Rockets,Dallas Mavericks,100.0,113.0,-13.0,False
+2021-01-05,1.05,11.57,Milwaukee Bucks,Detroit Pistons,125.0,115.0,10.0,True
+2021-01-05,1.79,2.08,New Orleans Pelicans,Indiana Pacers,116.0,118.0,-2.0,False
+2021-01-05,1.33,3.45,Atlanta Hawks,New York Knicks,108.0,113.0,-5.0,False
+2021-01-05,1.23,4.41,Miami Heat,Oklahoma City Thunder,118.0,90.0,28.0,True
+2021-01-05,1.42,2.98,Toronto Raptors,Boston Celtics,114.0,126.0,-12.0,False
+2021-01-05,1.45,2.87,Orlando Magic,Cleveland Cavaliers,103.0,83.0,20.0,True
+2021-01-05,1.28,3.87,Philadelphia 76ers,Charlotte Hornets,118.0,101.0,17.0,True
+2021-01-03,2.65,1.52,Golden State Warriors,Portland Trail Blazers,137.0,122.0,15.0,True
+2021-01-03,2.51,1.57,Chicago Bulls,Dallas Mavericks,118.0,108.0,10.0,True
+2021-01-03,2.32,1.65,Phoenix Suns,Los Angeles Clippers,107.0,112.0,-5.0,False
+2021-01-03,4.07,1.26,Minnesota Timberwolves,Denver Nuggets,109.0,124.0,-15.0,False
+2021-01-03,2.84,1.46,San Antonio Spurs,Utah Jazz,109.0,130.0,-21.0,False
+2021-01-03,1.31,3.6,Brooklyn Nets,Washington Wizards,122.0,123.0,-1.0,False
+2021-01-03,4.8,1.21,Memphis Grizzlies,Los Angeles Lakers,94.0,108.0,-14.0,False
+2021-01-03,3.85,1.28,Detroit Pistons,Boston Celtics,120.0,122.0,-2.0,False
+2021-01-02,1.44,2.89,Atlanta Hawks,Cleveland Cavaliers,91.0,96.0,-5.0,False
+2021-01-02,1.97,1.88,New Orleans Pelicans,Toronto Raptors,120.0,116.0,4.0,True
+2021-01-02,1.22,4.51,Indiana Pacers,New York Knicks,102.0,106.0,-4.0,False
+2021-01-02,1.52,2.64,Orlando Magic,Oklahoma City Thunder,99.0,108.0,-9.0,False
+2021-01-02,1.2,4.83,Philadelphia 76ers,Charlotte Hornets,127.0,112.0,15.0,True
+2021-01-02,2.01,1.9,Houston Rockets,Sacramento Kings,102.0,94.0,8.0,True
+2021-01-02,2.4,1.61,Golden State Warriors,Portland Trail Blazers,98.0,123.0,-25.0,False
+2021-01-02,1.63,2.37,Denver Nuggets,Phoenix Suns,103.0,106.0,-3.0,False
+2021-01-02,2.37,1.63,Utah Jazz,Los Angeles Clippers,106.0,100.0,6.0,True
+2021-01-02,1.07,9.16,Milwaukee Bucks,Chicago Bulls,126.0,96.0,30.0,True
+2021-01-02,3.64,1.31,San Antonio Spurs,Los Angeles Lakers,103.0,109.0,-6.0,False
+2021-01-01,1.94,1.91,Minnesota Timberwolves,Washington Wizards,109.0,130.0,-21.0,False
+2021-01-01,1.4,3.1,Brooklyn Nets,Atlanta Hawks,96.0,114.0,-18.0,False
+2021-01-01,1.54,2.6,Charlotte Hornets,Memphis Grizzlies,93.0,108.0,-15.0,False
+2021-01-01,2.06,1.81,Dallas Mavericks,Miami Heat,93.0,83.0,10.0,True
+2021-01-01,4.09,1.26,Detroit Pistons,Boston Celtics,96.0,93.0,3.0,True
+2020-12-31,1.6,2.45,Utah Jazz,Phoenix Suns,95.0,106.0,-11.0,False
+2020-12-31,2.85,1.45,Oklahoma City Thunder,New Orleans Pelicans,80.0,113.0,-33.0,False
+2020-12-31,1.27,3.94,Toronto Raptors,New York Knicks,100.0,83.0,17.0,True
+2020-12-31,1.47,2.81,Houston Rockets,Sacramento Kings,122.0,119.0,3.0,True
+2020-12-31,2.43,1.6,Orlando Magic,Philadelphia 76ers,92.0,116.0,-24.0,False
+2020-12-31,1.34,3.41,Washington Wizards,Chicago Bulls,130.0,133.0,-3.0,False
+2020-12-31,1.31,3.64,Indiana Pacers,Cleveland Cavaliers,119.0,99.0,20.0,True
+2020-12-31,1.43,2.97,Los Angeles Clippers,Portland Trail Blazers,128.0,105.0,23.0,True
+2020-12-31,1.28,3.89,Dallas Mavericks,Charlotte Hornets,99.0,118.0,-19.0,False
+2020-12-31,3.52,1.33,San Antonio Spurs,Los Angeles Lakers,107.0,121.0,-14.0,False
+2020-12-31,1.33,3.45,Boston Celtics,Memphis Grizzlies,126.0,107.0,19.0,True
+2020-12-31,1.43,2.96,Brooklyn Nets,Atlanta Hawks,145.0,141.0,4.0,True
+2020-12-31,3.17,1.38,Miami Heat,Milwaukee Bucks,119.0,108.0,11.0,True
+2020-12-30,1.17,5.38,Los Angeles Clippers,Minnesota Timberwolves,124.0,101.0,23.0,True
+2020-12-30,1.78,2.1,Phoenix Suns,New Orleans Pelicans,111.0,86.0,25.0,True
+2020-12-30,1.9,1.95,Sacramento Kings,Denver Nuggets,125.0,115.0,10.0,True
+2020-12-30,3.14,1.39,Oklahoma City Thunder,Orlando Magic,107.0,118.0,-11.0,False
+2020-12-30,3.0,1.42,Miami Heat,Milwaukee Bucks,97.0,144.0,-47.0,False
+2020-12-30,1.64,2.35,Cleveland Cavaliers,New York Knicks,86.0,95.0,-9.0,False
+2020-12-30,2.5,1.57,Detroit Pistons,Golden State Warriors,106.0,116.0,-10.0,False
+2020-12-30,1.84,2.02,Indiana Pacers,Boston Celtics,111.0,116.0,-5.0,False
+2020-12-30,1.84,2.01,Philadelphia 76ers,Toronto Raptors,100.0,93.0,7.0,True
+2020-12-30,1.4,3.09,Washington Wizards,Chicago Bulls,107.0,115.0,-8.0,False
+2020-12-29,1.42,3.0,Los Angeles Lakers,Portland Trail Blazers,107.0,115.0,-8.0,False
+2020-12-29,1.38,3.15,Denver Nuggets,Houston Rockets,124.0,111.0,13.0,True
+2020-12-29,4.2,1.25,Oklahoma City Thunder,Utah Jazz,109.0,110.0,-1.0,False
+2020-12-29,1.19,4.93,Atlanta Hawks,Detroit Pistons,128.0,120.0,8.0,True
+2020-12-29,2.14,1.75,Brooklyn Nets,Memphis Grizzlies,111.0,116.0,-5.0,False
+2020-12-28,1.19,4.96,Los Angeles Lakers,Minnesota Timberwolves,127.0,91.0,36.0,True
+2020-12-28,2.31,1.66,Sacramento Kings,Phoenix Suns,100.0,116.0,-16.0,False
+2020-12-28,2.4,1.61,Chicago Bulls,Golden State Warriors,128.0,129.0,-1.0,False
+2020-12-28,2.24,1.7,Indiana Pacers,Boston Celtics,108.0,107.0,1.0,True
+2020-12-28,3.11,1.39,Cleveland Cavaliers,Philadelphia 76ers,118.0,94.0,24.0,True
+2020-12-28,7.7,1.1,New York Knicks,Milwaukee Bucks,130.0,110.0,20.0,True
+2020-12-28,5.59,1.16,Charlotte Hornets,Brooklyn Nets,106.0,104.0,2.0,True
+2020-12-28,1.49,2.72,New Orleans Pelicans,San Antonio Spurs,98.0,95.0,3.0,True
+2020-12-28,2.08,1.79,Washington Wizards,Orlando Magic,113.0,120.0,-7.0,False
+2020-12-28,1.65,2.33,Los Angeles Clippers,Dallas Mavericks,73.0,124.0,-51.0,False
+2020-12-27,1.31,3.63,Portland Trail Blazers,Houston Rockets,128.0,126.0,2.0,True
+2020-12-27,2.35,1.63,Sacramento Kings,Phoenix Suns,106.0,103.0,3.0,True
+2020-12-27,1.24,4.41,Utah Jazz,Minnesota Timberwolves,111.0,116.0,-5.0,False
+2020-12-27,2.18,1.73,San Antonio Spurs,Toronto Raptors,119.0,114.0,5.0,True
+2020-12-27,2.97,1.43,Chicago Bulls,Indiana Pacers,106.0,125.0,-19.0,False
+2020-12-27,3.98,1.27,New York Knicks,Philadelphia 76ers,89.0,109.0,-20.0,False
+2020-12-27,1.69,2.23,Charlotte Hornets,Oklahoma City Thunder,107.0,109.0,-2.0,False
+2020-12-26,1.88,1.97,Detroit Pistons,Cleveland Cavaliers,119.0,128.0,-9.0,False
+2020-12-26,1.79,2.09,Washington Wizards,Orlando Magic,120.0,130.0,-10.0,False
+2020-12-26,1.72,2.19,Memphis Grizzlies,Atlanta Hawks,112.0,122.0,-10.0,False
+2020-12-26,2.43,1.6,Denver Nuggets,Los Angeles Clippers,108.0,121.0,-13.0,False
+2020-12-26,1.37,3.23,Los Angeles Lakers,Dallas Mavericks,138.0,115.0,23.0,True
+2020-12-26,2.31,1.66,Boston Celtics,Brooklyn Nets,95.0,123.0,-28.0,False
+2020-12-26,1.18,5.17,Milwaukee Bucks,Golden State Warriors,138.0,99.0,39.0,True
+2020-12-26,1.67,2.28,Miami Heat,New Orleans Pelicans,111.0,98.0,13.0,True
+2020-12-24,1.85,2.01,Phoenix Suns,Dallas Mavericks,106.0,102.0,4.0,True
+2020-12-24,2.05,1.81,Portland Trail Blazers,Utah Jazz,100.0,120.0,-20.0,False
+2020-12-24,1.31,3.58,Denver Nuggets,Sacramento Kings,122.0,124.0,-2.0,False
+2020-12-24,2.07,1.8,Chicago Bulls,Atlanta Hawks,104.0,124.0,-20.0,False
+2020-12-24,1.78,2.1,Memphis Grizzlies,San Antonio Spurs,119.0,131.0,-12.0,False
+2020-12-24,1.47,2.79,Minnesota Timberwolves,Detroit Pistons,111.0,101.0,10.0,True
+2020-12-24,2.59,1.55,Boston Celtics,Milwaukee Bucks,122.0,121.0,1.0,True
+2020-12-24,1.6,2.43,Toronto Raptors,New Orleans Pelicans,99.0,113.0,-14.0,False
+2020-12-24,2.29,1.66,Cleveland Cavaliers,Charlotte Hornets,121.0,114.0,7.0,True
+2020-12-24,1.31,3.61,Indiana Pacers,New York Knicks,121.0,107.0,14.0,True
+2020-12-24,2.66,1.51,Orlando Magic,Miami Heat,113.0,107.0,6.0,True
+2020-12-24,1.33,3.47,Philadelphia 76ers,Washington Wizards,113.0,107.0,6.0,True
+2020-12-23,1.74,2.16,Los Angeles Lakers,Los Angeles Clippers,109.0,116.0,-7.0,False
+2020-12-23,1.31,3.63,Brooklyn Nets,Golden State Warriors,125.0,99.0,26.0,True
+2020-12-19,1.64,2.27,Memphis Grizzlies,Atlanta Hawks,116.0,117.0,-1.0,False
+2020-12-19,1.56,2.44,Orlando Magic,Charlotte Hornets,120.0,117.0,3.0,True
+2020-12-19,1.51,2.59,Washington Wizards,Detroit Pistons,99.0,96.0,3.0,True
+2020-12-19,2.39,1.59,Phoenix Suns,Los Angeles Lakers,113.0,114.0,-1.0,False
+2020-12-19,1.46,2.72,Denver Nuggets,Portland Trail Blazers,129.0,96.0,33.0,True
+2020-12-19,2.19,1.69,Boston Celtics,Brooklyn Nets,89.0,113.0,-24.0,False
+2020-12-19,1.89,1.92,New Orleans Pelicans,Milwaukee Bucks,127.0,113.0,14.0,True
+2020-12-19,1.99,1.82,Oklahoma City Thunder,Chicago Bulls,103.0,105.0,-2.0,False
+2020-12-19,1.74,2.11,New York Knicks,Cleveland Cavaliers,119.0,83.0,36.0,True
+2020-12-19,1.66,2.24,Toronto Raptors,Miami Heat,105.0,117.0,-12.0,False
+2020-12-19,2.03,1.79,Indiana Pacers,Philadelphia 76ers,107.0,113.0,-6.0,False
+2020-12-18,1.54,2.51,Los Angeles Clippers,Utah Jazz,105.0,125.0,-20.0,False
+2020-12-18,1.83,1.99,Sacramento Kings,Golden State Warriors,105.0,113.0,-8.0,False
+2020-12-18,1.35,3.19,Dallas Mavericks,Minnesota Timberwolves,127.0,129.0,-2.0,False
+2020-12-18,1.56,2.46,Houston Rockets,San Antonio Spurs,128.0,106.0,22.0,True
+2020-12-18,1.77,2.06,Memphis Grizzlies,Atlanta Hawks,128.0,106.0,22.0,True
+2020-12-18,1.54,2.51,Orlando Magic,Charlotte Hornets,115.0,123.0,-8.0,False
+2020-12-18,1.47,2.71,Washington Wizards,Detroit Pistons,86.0,97.0,-11.0,False
+2020-12-16,1.55,2.48,Denver Nuggets,Portland Trail Blazers,126.0,95.0,31.0,True
+2020-12-16,2.44,1.56,Phoenix Suns,Los Angeles Lakers,107.0,112.0,-5.0,False
+2020-12-16,1.9,1.9,Oklahoma City Thunder,Chicago Bulls,103.0,124.0,-21.0,False
+2020-12-16,1.64,2.26,New York Knicks,Cleveland Cavaliers,100.0,93.0,7.0,True
+2020-12-16,1.71,2.15,Sacramento Kings,Golden State Warriors,114.0,113.0,1.0,True
+2020-12-16,1.59,2.38,Houston Rockets,San Antonio Spurs,112.0,98.0,14.0,True
+2020-12-16,1.53,2.53,Philadelphia 76ers,Boston Celtics,108.0,99.0,9.0,True
+2020-12-14,2.0,1.8,Utah Jazz,Phoenix Suns,111.0,92.0,19.0,True
+2020-12-14,1.54,2.49,Milwaukee Bucks,Dallas Mavericks,112.0,128.0,-16.0,False
+2020-12-14,1.85,1.94,Minnesota Timberwolves,Memphis Grizzlies,104.0,123.0,-19.0,False
+2020-12-14,2.5,1.54,Charlotte Hornets,Toronto Raptors,109.0,112.0,-3.0,False
+2020-12-14,1.64,2.26,Miami Heat,New Orleans Pelicans,92.0,114.0,-22.0,False
+2020-12-14,2.86,1.42,Cleveland Cavaliers,Indiana Pacers,116.0,106.0,10.0,True
+2020-12-13,1.44,2.8,Portland Trail Blazers,Sacramento Kings,106.0,121.0,-15.0,False
+2020-12-13,2.6,1.51,Los Angeles Lakers,Los Angeles Clippers,131.0,106.0,25.0,True
+2020-12-13,2.18,1.69,Chicago Bulls,Houston Rockets,104.0,91.0,13.0,True
+2020-12-13,1.74,2.09,Detroit Pistons,New York Knicks,99.0,91.0,8.0,True
+2020-12-13,1.31,3.46,Brooklyn Nets,Washington Wizards,119.0,114.0,5.0,True
+2020-12-13,1.51,2.59,Atlanta Hawks,Orlando Magic,116.0,107.0,9.0,True
+2020-12-12,1.89,1.9,Utah Jazz,Phoenix Suns,119.0,105.0,14.0,True
+2020-12-12,2.3,1.62,Golden State Warriors,Denver Nuggets,107.0,105.0,2.0,True
+2020-12-12,1.54,2.5,Milwaukee Bucks,Dallas Mavericks,102.0,112.0,-10.0,False
+2020-12-12,1.75,2.06,Minnesota Timberwolves,Memphis Grizzlies,105.0,107.0,-2.0,False
+2020-12-12,2.68,1.47,Charlotte Hornets,Toronto Raptors,100.0,111.0,-11.0,False
+2020-12-12,2.74,1.45,Cleveland Cavaliers,Indiana Pacers,107.0,104.0,3.0,True
+2020-12-12,1.41,2.89,San Antonio Spurs,Oklahoma City Thunder,108.0,121.0,-13.0,False
+2020-12-12,1.45,2.76,Portland Trail Blazers,Sacramento Kings,127.0,102.0,25.0,True
+2020-12-12,3.05,1.38,Los Angeles Lakers,Los Angeles Clippers,87.0,81.0,6.0,True
+2020-12-12,1.58,2.4,Chicago Bulls,Houston Rockets,104.0,125.0,-21.0,False
+2020-12-12,1.36,3.14,Atlanta Hawks,Orlando Magic,112.0,116.0,-4.0,False
+2020-12-12,1.79,2.02,Detroit Pistons,New York Knicks,84.0,90.0,-6.0,False

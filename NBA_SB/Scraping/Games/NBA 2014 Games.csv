@@ -1,0 +1,1420 @@
+Date,Home Odds,Vis Odds,Home,Visitor,Home PTS,Vis PTS,Home Points Dif,Home Win
+2015-06-16,2.3,1.67,Cleveland Cavaliers,Golden State Warriors,97.0,105.0,-8.0,False
+2015-06-14,1.22,4.66,Golden State Warriors,Cleveland Cavaliers,104.0,91.0,13.0,True
+2015-06-11,2.59,1.55,Cleveland Cavaliers,Golden State Warriors,82.0,103.0,-21.0,False
+2015-06-09,2.11,1.79,Cleveland Cavaliers,Golden State Warriors,96.0,91.0,5.0,True
+2015-06-07,1.3,3.76,Golden State Warriors,Cleveland Cavaliers,93.0,95.0,-2.0,False
+2015-06-04,1.42,3.05,Golden State Warriors,Cleveland Cavaliers,108.0,100.0,8.0,True
+2015-05-27,1.19,5.02,Golden State Warriors,Houston Rockets,104.0,90.0,14.0,True
+2015-05-26,1.3,3.74,Cleveland Cavaliers,Atlanta Hawks,118.0,88.0,30.0,True
+2015-05-25,2.64,1.54,Houston Rockets,Golden State Warriors,128.0,115.0,13.0,True
+2015-05-24,1.25,4.13,Cleveland Cavaliers,Atlanta Hawks,114.0,111.0,3.0,True
+2015-05-23,1.81,2.06,Houston Rockets,Golden State Warriors,80.0,115.0,-35.0,False
+2015-05-22,1.62,2.4,Atlanta Hawks,Cleveland Cavaliers,82.0,94.0,-12.0,False
+2015-05-21,1.2,4.88,Golden State Warriors,Houston Rockets,99.0,98.0,1.0,True
+2015-05-20,1.73,2.19,Atlanta Hawks,Cleveland Cavaliers,89.0,97.0,-8.0,False
+2015-05-19,1.16,5.74,Golden State Warriors,Houston Rockets,110.0,106.0,4.0,True
+2015-05-17,2.17,1.74,Houston Rockets,Los Angeles Clippers,113.0,100.0,13.0,True
+2015-05-15,2.8,1.47,Memphis Grizzlies,Golden State Warriors,95.0,108.0,-13.0,False
+2015-05-15,1.72,2.21,Washington Wizards,Atlanta Hawks,91.0,94.0,-3.0,False
+2015-05-14,1.23,4.43,Los Angeles Clippers,Houston Rockets,107.0,119.0,-12.0,False
+2015-05-14,1.74,2.17,Chicago Bulls,Cleveland Cavaliers,73.0,94.0,-21.0,False
+2015-05-13,1.17,5.38,Golden State Warriors,Memphis Grizzlies,98.0,78.0,20.0,True
+2015-05-13,1.32,3.6,Atlanta Hawks,Washington Wizards,82.0,81.0,1.0,True
+2015-05-12,2.27,1.68,Houston Rockets,Los Angeles Clippers,124.0,103.0,21.0,True
+2015-05-12,1.42,3.02,Cleveland Cavaliers,Chicago Bulls,106.0,101.0,5.0,True
+2015-05-11,2.52,1.58,Memphis Grizzlies,Golden State Warriors,84.0,101.0,-17.0,False
+2015-05-11,2.71,1.5,Washington Wizards,Atlanta Hawks,101.0,106.0,-5.0,False
+2015-05-10,1.35,3.41,Los Angeles Clippers,Houston Rockets,128.0,95.0,33.0,True
+2015-05-10,2.36,1.64,Chicago Bulls,Cleveland Cavaliers,84.0,86.0,-2.0,False
+2015-05-09,2.62,1.53,Memphis Grizzlies,Golden State Warriors,99.0,89.0,10.0,True
+2015-05-09,2.63,1.54,Washington Wizards,Atlanta Hawks,103.0,101.0,2.0,True
+2015-05-08,1.38,3.2,Los Angeles Clippers,Houston Rockets,124.0,99.0,25.0,True
+2015-05-08,1.72,2.2,Chicago Bulls,Cleveland Cavaliers,99.0,96.0,3.0,True
+2015-05-06,1.26,4.04,Houston Rockets,Los Angeles Clippers,115.0,109.0,6.0,True
+2015-05-06,1.4,3.14,Cleveland Cavaliers,Chicago Bulls,106.0,91.0,15.0,True
+2015-05-05,1.17,5.46,Golden State Warriors,Memphis Grizzlies,90.0,97.0,-7.0,False
+2015-05-05,1.22,4.65,Atlanta Hawks,Washington Wizards,106.0,90.0,16.0,True
+2015-05-04,1.29,3.83,Houston Rockets,Los Angeles Clippers,101.0,117.0,-16.0,False
+2015-05-04,1.5,2.72,Cleveland Cavaliers,Chicago Bulls,92.0,99.0,-7.0,False
+2015-05-03,1.16,5.92,Golden State Warriors,Memphis Grizzlies,101.0,86.0,15.0,True
+2015-05-03,1.44,2.91,Atlanta Hawks,Washington Wizards,98.0,104.0,-6.0,False
+2015-05-02,1.69,2.26,Los Angeles Clippers,San Antonio Spurs,111.0,109.0,2.0,True
+2015-05-01,2.78,1.48,Brooklyn Nets,Atlanta Hawks,87.0,111.0,-24.0,False
+2015-04-30,1.4,3.14,San Antonio Spurs,Los Angeles Clippers,96.0,102.0,-6.0,False
+2015-04-30,2.49,1.59,Milwaukee Bucks,Chicago Bulls,66.0,120.0,-54.0,False
+2015-04-29,1.39,3.15,Memphis Grizzlies,Portland Trail Blazers,99.0,93.0,6.0,True
+2015-04-29,1.21,4.68,Atlanta Hawks,Brooklyn Nets,107.0,97.0,10.0,True
+2015-04-28,1.71,2.22,Los Angeles Clippers,San Antonio Spurs,107.0,111.0,-4.0,False
+2015-04-28,1.27,4.03,Houston Rockets,Dallas Mavericks,103.0,94.0,9.0,True
+2015-04-27,1.57,2.52,Portland Trail Blazers,Memphis Grizzlies,99.0,92.0,7.0,True
+2015-04-27,1.25,4.14,Chicago Bulls,Milwaukee Bucks,88.0,94.0,-6.0,False
+2015-04-27,2.83,1.46,Brooklyn Nets,Atlanta Hawks,120.0,115.0,5.0,True
+2015-04-26,2.28,1.68,Dallas Mavericks,Houston Rockets,121.0,109.0,12.0,True
+2015-04-26,1.38,3.16,Washington Wizards,Toronto Raptors,125.0,94.0,31.0,True
+2015-04-26,1.38,3.21,San Antonio Spurs,Los Angeles Clippers,105.0,114.0,-9.0,False
+2015-04-26,3.49,1.33,Boston Celtics,Cleveland Cavaliers,93.0,101.0,-8.0,False
+2015-04-25,1.62,2.4,Portland Trail Blazers,Memphis Grizzlies,109.0,115.0,-6.0,False
+2015-04-25,3.33,1.36,New Orleans Pelicans,Golden State Warriors,98.0,109.0,-11.0,False
+2015-04-25,2.53,1.57,Milwaukee Bucks,Chicago Bulls,92.0,90.0,2.0,True
+2015-04-25,2.39,1.63,Brooklyn Nets,Atlanta Hawks,91.0,83.0,8.0,True
+2015-04-24,1.48,2.75,San Antonio Spurs,Los Angeles Clippers,100.0,73.0,27.0,True
+2015-04-24,1.51,2.67,Washington Wizards,Toronto Raptors,106.0,99.0,7.0,True
+2015-04-24,1.94,1.91,Dallas Mavericks,Houston Rockets,128.0,130.0,-2.0,False
+2015-04-23,2.93,1.44,New Orleans Pelicans,Golden State Warriors,119.0,123.0,-4.0,False
+2015-04-23,2.24,1.7,Milwaukee Bucks,Chicago Bulls,106.0,113.0,-7.0,False
+2015-04-23,2.89,1.45,Boston Celtics,Cleveland Cavaliers,95.0,103.0,-8.0,False
+2015-04-22,1.78,2.11,Los Angeles Clippers,San Antonio Spurs,107.0,111.0,-4.0,False
+2015-04-22,1.38,3.23,Memphis Grizzlies,Portland Trail Blazers,97.0,82.0,15.0,True
+2015-04-22,1.2,4.85,Atlanta Hawks,Brooklyn Nets,96.0,91.0,5.0,True
+2015-04-21,1.36,3.3,Houston Rockets,Dallas Mavericks,111.0,99.0,12.0,True
+2015-04-21,1.45,2.83,Toronto Raptors,Washington Wizards,106.0,117.0,-11.0,False
+2015-04-21,1.12,6.67,Cleveland Cavaliers,Boston Celtics,99.0,91.0,8.0,True
+2015-04-20,1.07,9.75,Golden State Warriors,New Orleans Pelicans,97.0,87.0,10.0,True
+2015-04-20,1.26,4.08,Chicago Bulls,Milwaukee Bucks,91.0,82.0,9.0,True
+2015-04-19,1.79,2.08,Los Angeles Clippers,San Antonio Spurs,107.0,92.0,15.0,True
+2015-04-19,1.43,2.94,Memphis Grizzlies,Portland Trail Blazers,100.0,86.0,14.0,True
+2015-04-19,1.13,6.46,Atlanta Hawks,Brooklyn Nets,99.0,92.0,7.0,True
+2015-04-19,1.1,7.67,Cleveland Cavaliers,Boston Celtics,113.0,100.0,13.0,True
+2015-04-18,1.42,3.02,Houston Rockets,Dallas Mavericks,118.0,108.0,10.0,True
+2015-04-18,1.25,4.18,Chicago Bulls,Milwaukee Bucks,103.0,91.0,12.0,True
+2015-04-18,1.09,8.0,Golden State Warriors,New Orleans Pelicans,106.0,99.0,7.0,True
+2015-04-18,1.53,2.6,Toronto Raptors,Washington Wizards,86.0,93.0,-7.0,False
+2015-04-15,1.12,6.93,Golden State Warriors,Denver Nuggets,133.0,126.0,7.0,True
+2015-04-15,1.61,2.4,Los Angeles Lakers,Sacramento Kings,99.0,122.0,-23.0,False
+2015-04-15,2.18,1.72,Memphis Grizzlies,Indiana Pacers,95.0,83.0,12.0,True
+2015-04-15,1.21,4.61,Brooklyn Nets,Orlando Magic,101.0,88.0,13.0,True
+2015-04-15,1.45,2.83,Chicago Bulls,Atlanta Hawks,91.0,85.0,6.0,True
+2015-04-15,1.27,3.93,Cleveland Cavaliers,Washington Wizards,113.0,108.0,5.0,True
+2015-04-15,1.38,3.17,Dallas Mavericks,Portland Trail Blazers,114.0,98.0,16.0,True
+2015-04-15,1.11,7.23,Houston Rockets,Utah Jazz,117.0,91.0,26.0,True
+2015-04-15,1.42,2.97,Milwaukee Bucks,Boston Celtics,100.0,105.0,-5.0,False
+2015-04-15,11.33,1.06,Minnesota Timberwolves,Oklahoma City Thunder,113.0,138.0,-25.0,False
+2015-04-15,2.9,1.44,New Orleans Pelicans,San Antonio Spurs,108.0,103.0,5.0,True
+2015-04-15,4.43,1.23,New York Knicks,Detroit Pistons,90.0,112.0,-22.0,False
+2015-04-15,1.79,2.07,Philadelphia 76ers,Miami Heat,101.0,105.0,-4.0,False
+2015-04-15,1.16,5.6,Toronto Raptors,Charlotte Hornets,92.0,87.0,5.0,True
+2015-04-14,5.48,1.17,Phoenix Suns,Los Angeles Clippers,101.0,112.0,-11.0,False
+2015-04-14,1.29,3.82,Indiana Pacers,Washington Wizards,99.0,95.0,4.0,True
+2015-04-14,1.87,1.97,Boston Celtics,Toronto Raptors,95.0,93.0,2.0,True
+2015-04-13,1.27,3.99,Golden State Warriors,Memphis Grizzlies,111.0,107.0,4.0,True
+2015-04-13,1.02,17.14,Los Angeles Clippers,Denver Nuggets,110.0,103.0,7.0,True
+2015-04-13,1.61,2.41,Sacramento Kings,Los Angeles Lakers,102.0,92.0,10.0,True
+2015-04-13,1.38,3.21,Utah Jazz,Dallas Mavericks,109.0,92.0,17.0,True
+2015-04-13,11.38,1.05,Minnesota Timberwolves,New Orleans Pelicans,88.0,100.0,-12.0,False
+2015-04-13,1.26,4.01,Oklahoma City Thunder,Portland Trail Blazers,101.0,90.0,11.0,True
+2015-04-13,1.05,12.01,Atlanta Hawks,New York Knicks,108.0,112.0,-4.0,False
+2015-04-13,2.09,1.78,Brooklyn Nets,Chicago Bulls,86.0,113.0,-27.0,False
+2015-04-13,1.41,3.04,Miami Heat,Orlando Magic,100.0,93.0,7.0,True
+2015-04-13,6.49,1.13,Charlotte Hornets,Houston Rockets,90.0,100.0,-10.0,False
+2015-04-13,1.27,3.95,Cleveland Cavaliers,Detroit Pistons,109.0,97.0,12.0,True
+2015-04-13,2.44,1.6,Philadelphia 76ers,Milwaukee Bucks,97.0,107.0,-10.0,False
+2015-04-12,2.88,1.44,Los Angeles Lakers,Dallas Mavericks,106.0,120.0,-14.0,False
+2015-04-12,1.46,2.81,Houston Rockets,New Orleans Pelicans,121.0,114.0,7.0,True
+2015-04-12,1.03,16.77,San Antonio Spurs,Phoenix Suns,107.0,91.0,16.0,True
+2015-04-12,1.67,2.28,Indiana Pacers,Oklahoma City Thunder,116.0,104.0,12.0,True
+2015-04-12,1.21,4.66,Washington Wizards,Atlanta Hawks,108.0,99.0,9.0,True
+2015-04-12,1.22,4.52,Denver Nuggets,Sacramento Kings,122.0,111.0,11.0,True
+2015-04-12,1.26,4.02,Detroit Pistons,Charlotte Hornets,116.0,77.0,39.0,True
+2015-04-12,1.17,5.36,Boston Celtics,Cleveland Cavaliers,117.0,78.0,39.0,True
+2015-04-12,1.86,1.99,Milwaukee Bucks,Brooklyn Nets,96.0,73.0,23.0,True
+2015-04-11,1.02,20.37,Golden State Warriors,Minnesota Timberwolves,110.0,101.0,9.0,True
+2015-04-11,1.2,4.8,Los Angeles Clippers,Memphis Grizzlies,94.0,86.0,8.0,True
+2015-04-11,1.18,5.18,Portland Trail Blazers,Utah Jazz,105.0,111.0,-6.0,False
+2015-04-11,1.03,15.44,Chicago Bulls,Philadelphia 76ers,114.0,107.0,7.0,True
+2015-04-11,1.63,2.36,Miami Heat,Toronto Raptors,104.0,107.0,-3.0,False
+2015-04-11,1.13,6.45,Orlando Magic,New York Knicks,79.0,80.0,-1.0,False
+2015-04-10,1.47,2.8,Los Angeles Lakers,Minnesota Timberwolves,106.0,98.0,8.0,True
+2015-04-10,1.83,2.02,Denver Nuggets,Dallas Mavericks,143.0,144.0,-1.0,False
+2015-04-10,2.27,1.67,Utah Jazz,Memphis Grizzlies,88.0,89.0,-1.0,False
+2015-04-10,2.42,1.61,Houston Rockets,San Antonio Spurs,103.0,104.0,-1.0,False
+2015-04-10,1.22,4.45,New Orleans Pelicans,Phoenix Suns,90.0,75.0,15.0,True
+2015-04-10,1.07,10.09,Oklahoma City Thunder,Sacramento Kings,116.0,103.0,13.0,True
+2015-04-10,1.17,5.27,Atlanta Hawks,Charlotte Hornets,104.0,80.0,24.0,True
+2015-04-10,1.48,2.74,Brooklyn Nets,Washington Wizards,117.0,80.0,37.0,True
+2015-04-10,1.38,3.18,Cleveland Cavaliers,Boston Celtics,90.0,99.0,-9.0,False
+2015-04-10,2.87,1.44,Detroit Pistons,Indiana Pacers,103.0,107.0,-4.0,False
+2015-04-10,6.21,1.14,New York Knicks,Milwaukee Bucks,91.0,99.0,-8.0,False
+2015-04-10,2.84,1.45,Orlando Magic,Toronto Raptors,99.0,101.0,-2.0,False
+2015-04-09,1.15,5.71,Golden State Warriors,Portland Trail Blazers,116.0,105.0,11.0,True
+2015-04-09,1.82,2.04,Miami Heat,Chicago Bulls,78.0,89.0,-11.0,False
+2015-04-08,1.02,17.79,Portland Trail Blazers,Minnesota Timberwolves,116.0,91.0,25.0,True
+2015-04-08,1.24,4.26,Dallas Mavericks,Phoenix Suns,107.0,104.0,3.0,True
+2015-04-08,1.18,5.19,Denver Nuggets,Los Angeles Lakers,119.0,101.0,18.0,True
+2015-04-08,1.11,7.04,Utah Jazz,Sacramento Kings,103.0,91.0,12.0,True
+2015-04-08,1.36,3.28,San Antonio Spurs,Houston Rockets,110.0,98.0,12.0,True
+2015-04-08,1.5,2.68,Memphis Grizzlies,New Orleans Pelicans,110.0,74.0,36.0,True
+2015-04-08,3.28,1.36,Milwaukee Bucks,Cleveland Cavaliers,99.0,104.0,-5.0,False
+2015-04-08,1.54,2.58,Brooklyn Nets,Atlanta Hawks,111.0,114.0,-3.0,False
+2015-04-08,6.92,1.12,New York Knicks,Indiana Pacers,86.0,102.0,-16.0,False
+2015-04-08,3.76,1.29,Orlando Magic,Chicago Bulls,105.0,103.0,2.0,True
+2015-04-08,2.7,1.5,Philadelphia 76ers,Washington Wizards,90.0,119.0,-29.0,False
+2015-04-08,2.35,1.64,Charlotte Hornets,Toronto Raptors,74.0,92.0,-18.0,False
+2015-04-08,2.06,1.8,Detroit Pistons,Boston Celtics,103.0,113.0,-10.0,False
+2015-04-07,1.02,18.3,Los Angeles Clippers,Los Angeles Lakers,105.0,100.0,5.0,True
+2015-04-07,1.24,4.34,Sacramento Kings,Minnesota Timberwolves,116.0,111.0,5.0,True
+2015-04-07,2.66,1.51,New Orleans Pelicans,Golden State Warriors,103.0,100.0,3.0,True
+2015-04-07,3.04,1.41,Oklahoma City Thunder,San Antonio Spurs,88.0,113.0,-25.0,False
+2015-04-07,1.34,3.4,Atlanta Hawks,Phoenix Suns,96.0,69.0,27.0,True
+2015-04-07,1.36,3.29,Miami Heat,Charlotte Hornets,105.0,100.0,5.0,True
+2015-04-06,1.38,3.18,Brooklyn Nets,Portland Trail Blazers,106.0,96.0,10.0,True
+2015-04-05,10.12,1.07,Los Angeles Lakers,Los Angeles Clippers,78.0,106.0,-28.0,False
+2015-04-05,1.84,2.01,Sacramento Kings,Utah Jazz,95.0,101.0,-6.0,False
+2015-04-05,1.93,1.9,New York Knicks,Philadelphia 76ers,101.0,91.0,10.0,True
+2015-04-05,1.52,2.64,San Antonio Spurs,Golden State Warriors,107.0,92.0,15.0,True
+2015-04-05,1.36,3.3,Indiana Pacers,Miami Heat,112.0,89.0,23.0,True
+2015-04-05,1.25,4.09,Cleveland Cavaliers,Chicago Bulls,99.0,94.0,5.0,True
+2015-04-05,1.98,1.86,Oklahoma City Thunder,Houston Rockets,112.0,115.0,-3.0,False
+2015-04-04,1.8,2.07,Phoenix Suns,Utah Jazz,87.0,85.0,2.0,True
+2015-04-04,1.45,2.86,Portland Trail Blazers,New Orleans Pelicans,99.0,90.0,9.0,True
+2015-04-04,5.33,1.17,Denver Nuggets,Los Angeles Clippers,92.0,107.0,-15.0,False
+2015-04-04,3.31,1.36,Dallas Mavericks,Golden State Warriors,110.0,123.0,-13.0,False
+2015-04-04,1.21,4.72,Milwaukee Bucks,Orlando Magic,90.0,97.0,-7.0,False
+2015-04-04,1.27,3.94,Memphis Grizzlies,Washington Wizards,83.0,92.0,-9.0,False
+2015-04-04,1.17,5.33,Atlanta Hawks,Brooklyn Nets,131.0,99.0,32.0,True
+2015-04-04,2.58,1.54,Detroit Pistons,Miami Heat,99.0,98.0,1.0,True
+2015-04-04,1.71,2.21,Toronto Raptors,Boston Celtics,116.0,117.0,-1.0,False
+2015-04-04,1.36,3.34,Charlotte Hornets,Philadelphia 76ers,92.0,91.0,1.0,True
+2015-04-03,5.89,1.15,Los Angeles Lakers,Portland Trail Blazers,77.0,107.0,-30.0,False
+2015-04-03,3.3,1.36,Sacramento Kings,New Orleans Pelicans,95.0,101.0,-6.0,False
+2015-04-03,1.07,9.41,San Antonio Spurs,Denver Nuggets,123.0,93.0,30.0,True
+2015-04-03,1.19,4.98,Chicago Bulls,Detroit Pistons,88.0,82.0,6.0,True
+2015-04-03,1.44,2.9,Memphis Grizzlies,Oklahoma City Thunder,100.0,92.0,8.0,True
+2015-04-03,2.56,1.55,Minnesota Timberwolves,Orlando Magic,84.0,97.0,-13.0,False
+2015-04-03,1.47,2.78,Boston Celtics,Milwaukee Bucks,101.0,110.0,-9.0,False
+2015-04-03,1.77,2.1,Brooklyn Nets,Toronto Raptors,114.0,109.0,5.0,True
+2015-04-03,1.5,2.69,Indiana Pacers,Charlotte Hornets,93.0,74.0,19.0,True
+2015-04-03,1.05,11.48,Washington Wizards,New York Knicks,101.0,87.0,14.0,True
+2015-04-02,1.08,8.69,Golden State Warriors,Phoenix Suns,107.0,106.0,1.0,True
+2015-04-02,1.72,2.19,Dallas Mavericks,Houston Rockets,101.0,108.0,-7.0,False
+2015-04-02,1.17,5.47,Cleveland Cavaliers,Miami Heat,114.0,88.0,26.0,True
+2015-04-01,4.96,1.19,Los Angeles Lakers,New Orleans Pelicans,92.0,113.0,-21.0,False
+2015-04-01,1.65,2.32,Portland Trail Blazers,Los Angeles Clippers,122.0,126.0,-4.0,False
+2015-04-01,1.48,2.76,Utah Jazz,Denver Nuggets,98.0,84.0,14.0,True
+2015-04-01,1.15,5.86,Houston Rockets,Sacramento Kings,115.0,111.0,4.0,True
+2015-04-01,2.8,1.46,Milwaukee Bucks,Chicago Bulls,95.0,91.0,4.0,True
+2015-04-01,5.35,1.17,Minnesota Timberwolves,Toronto Raptors,99.0,113.0,-14.0,False
+2015-04-01,1.68,2.27,Oklahoma City Thunder,Dallas Mavericks,131.0,135.0,-4.0,False
+2015-04-01,1.56,2.53,Boston Celtics,Indiana Pacers,100.0,87.0,13.0,True
+2015-04-01,4.94,1.19,New York Knicks,Brooklyn Nets,98.0,100.0,-2.0,False
+2015-04-01,1.44,2.85,Charlotte Hornets,Detroit Pistons,102.0,78.0,24.0,True
+2015-04-01,5.49,1.16,Orlando Magic,San Antonio Spurs,91.0,103.0,-12.0,False
+2015-04-01,1.17,5.47,Washington Wizards,Philadelphia 76ers,106.0,93.0,13.0,True
+2015-03-31,1.66,2.32,Los Angeles Clippers,Golden State Warriors,106.0,110.0,-4.0,False
+2015-03-31,3.97,1.27,Miami Heat,San Antonio Spurs,81.0,95.0,-14.0,False
+2015-03-31,1.96,1.89,Brooklyn Nets,Indiana Pacers,111.0,106.0,5.0,True
+2015-03-31,2.1,1.78,Detroit Pistons,Atlanta Hawks,105.0,95.0,10.0,True
+2015-03-30,1.24,4.32,Portland Trail Blazers,Phoenix Suns,109.0,86.0,23.0,True
+2015-03-30,1.16,5.62,Memphis Grizzlies,Sacramento Kings,97.0,83.0,14.0,True
+2015-03-30,3.79,1.29,Minnesota Timberwolves,Utah Jazz,84.0,104.0,-20.0,False
+2015-03-30,1.23,4.4,Atlanta Hawks,Milwaukee Bucks,101.0,88.0,13.0,True
+2015-03-30,1.79,2.08,Toronto Raptors,Houston Rockets,99.0,96.0,3.0,True
+2015-03-30,1.66,2.3,Charlotte Hornets,Boston Celtics,104.0,116.0,-12.0,False
+2015-03-30,1.49,2.69,Philadelphia 76ers,Los Angeles Lakers,111.0,113.0,-2.0,False
+2015-03-29,1.76,2.13,Phoenix Suns,Oklahoma City Thunder,97.0,109.0,-12.0,False
+2015-03-29,1.77,2.1,Indiana Pacers,Dallas Mavericks,104.0,99.0,5.0,True
+2015-03-29,1.27,3.97,San Antonio Spurs,Memphis Grizzlies,103.0,89.0,14.0,True
+2015-03-29,3.09,1.4,Boston Celtics,Los Angeles Clippers,106.0,119.0,-13.0,False
+2015-03-29,1.71,2.21,Miami Heat,Detroit Pistons,109.0,102.0,7.0,True
+2015-03-29,1.02,17.82,Cleveland Cavaliers,Philadelphia 76ers,87.0,86.0,1.0,True
+2015-03-29,1.09,8.29,New Orleans Pelicans,Minnesota Timberwolves,110.0,88.0,22.0,True
+2015-03-29,1.27,3.96,Brooklyn Nets,Los Angeles Lakers,107.0,99.0,8.0,True
+2015-03-29,2.11,1.76,Washington Wizards,Houston Rockets,91.0,99.0,-8.0,False
+2015-03-28,1.23,4.41,Portland Trail Blazers,Denver Nuggets,120.0,114.0,6.0,True
+2015-03-28,2.87,1.43,Utah Jazz,Oklahoma City Thunder,94.0,89.0,5.0,True
+2015-03-28,2.71,1.49,Milwaukee Bucks,Golden State Warriors,95.0,108.0,-13.0,False
+2015-03-28,1.02,18.04,Chicago Bulls,New York Knicks,111.0,80.0,31.0,True
+2015-03-28,1.41,3.05,Charlotte Hornets,Atlanta Hawks,115.0,100.0,15.0,True
+2015-03-27,2.01,1.84,Phoenix Suns,Portland Trail Blazers,81.0,87.0,-6.0,False
+2015-03-27,1.76,2.12,Denver Nuggets,Utah Jazz,107.0,91.0,16.0,True
+2015-03-27,1.24,4.25,San Antonio Spurs,Dallas Mavericks,94.0,76.0,18.0,True
+2015-03-27,1.07,10.04,Houston Rockets,Minnesota Timberwolves,120.0,110.0,10.0,True
+2015-03-27,2.37,1.63,Memphis Grizzlies,Golden State Warriors,84.0,107.0,-23.0,False
+2015-03-27,1.36,3.3,New Orleans Pelicans,Sacramento Kings,102.0,88.0,14.0,True
+2015-03-27,1.26,4.06,Atlanta Hawks,Miami Heat,99.0,86.0,13.0,True
+2015-03-27,4.43,1.23,Brooklyn Nets,Cleveland Cavaliers,106.0,98.0,8.0,True
+2015-03-27,6.07,1.14,New York Knicks,Boston Celtics,92.0,96.0,-4.0,False
+2015-03-27,1.26,4.04,Toronto Raptors,Los Angeles Lakers,94.0,83.0,11.0,True
+2015-03-27,2.21,1.71,Orlando Magic,Detroit Pistons,97.0,111.0,-14.0,False
+2015-03-27,7.52,1.11,Philadelphia 76ers,Los Angeles Clippers,98.0,119.0,-21.0,False
+2015-03-27,1.52,2.63,Washington Wizards,Charlotte Hornets,110.0,107.0,3.0,True
+2015-03-26,1.58,2.49,Milwaukee Bucks,Indiana Pacers,111.0,107.0,4.0,True
+2015-03-25,1.25,4.14,Phoenix Suns,Sacramento Kings,99.0,108.0,-9.0,False
+2015-03-25,1.3,3.71,San Antonio Spurs,Oklahoma City Thunder,130.0,91.0,39.0,True
+2015-03-25,1.12,6.74,Denver Nuggets,Philadelphia 76ers,85.0,99.0,-14.0,False
+2015-03-25,1.81,2.05,Utah Jazz,Portland Trail Blazers,89.0,92.0,-3.0,False
+2015-03-25,1.97,1.89,Memphis Grizzlies,Cleveland Cavaliers,89.0,111.0,-22.0,False
+2015-03-25,1.85,2.0,Minnesota Timberwolves,Los Angeles Lakers,99.0,101.0,-2.0,False
+2015-03-25,1.9,1.94,New Orleans Pelicans,Houston Rockets,93.0,95.0,-2.0,False
+2015-03-25,1.26,4.03,Boston Celtics,Miami Heat,86.0,93.0,-7.0,False
+2015-03-25,4.49,1.22,Orlando Magic,Atlanta Hawks,83.0,95.0,-12.0,False
+2015-03-25,1.63,2.35,Washington Wizards,Indiana Pacers,101.0,103.0,-2.0,False
+2015-03-25,1.64,2.35,Charlotte Hornets,Brooklyn Nets,88.0,91.0,-3.0,False
+2015-03-25,14.2,1.03,New York Knicks,Los Angeles Clippers,80.0,111.0,-31.0,False
+2015-03-25,2.31,1.65,Toronto Raptors,Chicago Bulls,103.0,116.0,-13.0,False
+2015-03-24,3.46,1.33,Portland Trail Blazers,Golden State Warriors,108.0,122.0,-14.0,False
+2015-03-24,1.23,4.4,Sacramento Kings,Philadelphia 76ers,107.0,106.0,1.0,True
+2015-03-24,2.4,1.61,Dallas Mavericks,San Antonio Spurs,101.0,94.0,7.0,True
+2015-03-24,2.12,1.76,Milwaukee Bucks,Miami Heat,89.0,88.0,1.0,True
+2015-03-24,1.18,5.29,Oklahoma City Thunder,Los Angeles Lakers,127.0,117.0,10.0,True
+2015-03-24,2.5,1.57,Detroit Pistons,Toronto Raptors,108.0,104.0,4.0,True
+2015-03-23,1.13,6.36,Golden State Warriors,Washington Wizards,107.0,76.0,31.0,True
+2015-03-23,1.19,5.01,Utah Jazz,Minnesota Timberwolves,104.0,106.0,-2.0,False
+2015-03-23,1.32,3.52,Chicago Bulls,Charlotte Hornets,98.0,86.0,12.0,True
+2015-03-23,1.46,2.82,Brooklyn Nets,Boston Celtics,91.0,110.0,-19.0,False
+2015-03-23,11.22,1.06,New York Knicks,Memphis Grizzlies,82.0,103.0,-21.0,False
+2015-03-23,2.02,1.83,Indiana Pacers,Houston Rockets,100.0,110.0,-10.0,False
+2015-03-22,1.51,2.67,Los Angeles Lakers,Philadelphia 76ers,101.0,87.0,14.0,True
+2015-03-22,2.63,1.52,Phoenix Suns,Dallas Mavericks,98.0,92.0,6.0,True
+2015-03-22,2.75,1.48,Minnesota Timberwolves,Charlotte Hornets,98.0,109.0,-11.0,False
+2015-03-22,1.43,2.91,Boston Celtics,Detroit Pistons,97.0,105.0,-8.0,False
+2015-03-22,1.96,1.88,Orlando Magic,Denver Nuggets,100.0,119.0,-19.0,False
+2015-03-22,2.44,1.6,Sacramento Kings,Washington Wizards,109.0,86.0,23.0,True
+2015-03-22,1.09,8.32,Toronto Raptors,New York Knicks,106.0,89.0,17.0,True
+2015-03-22,1.19,4.99,Los Angeles Clippers,New Orleans Pelicans,107.0,100.0,7.0,True
+2015-03-22,1.79,2.08,Atlanta Hawks,San Antonio Spurs,95.0,114.0,-19.0,False
+2015-03-22,3.85,1.28,Milwaukee Bucks,Cleveland Cavaliers,90.0,108.0,-18.0,False
+2015-03-22,1.58,2.49,Oklahoma City Thunder,Miami Heat,93.0,75.0,18.0,True
+2015-03-21,1.21,4.62,Golden State Warriors,Utah Jazz,106.0,91.0,15.0,True
+2015-03-21,1.29,3.8,Houston Rockets,Phoenix Suns,102.0,117.0,-15.0,False
+2015-03-21,1.64,2.33,Memphis Grizzlies,Portland Trail Blazers,97.0,86.0,11.0,True
+2015-03-21,2.34,1.64,Detroit Pistons,Chicago Bulls,107.0,91.0,16.0,True
+2015-03-21,1.25,4.15,Indiana Pacers,Brooklyn Nets,111.0,123.0,-12.0,False
+2015-03-20,1.06,10.79,Golden State Warriors,New Orleans Pelicans,112.0,96.0,16.0,True
+2015-03-20,1.33,3.48,Los Angeles Clippers,Washington Wizards,113.0,99.0,14.0,True
+2015-03-20,2.75,1.49,Sacramento Kings,Charlotte Hornets,101.0,91.0,10.0,True
+2015-03-20,1.68,2.25,Dallas Mavericks,Memphis Grizzlies,101.0,112.0,-11.0,False
+2015-03-20,1.22,4.52,San Antonio Spurs,Boston Celtics,101.0,89.0,12.0,True
+2015-03-20,1.83,2.03,Chicago Bulls,Toronto Raptors,108.0,92.0,16.0,True
+2015-03-20,1.85,2.0,Oklahoma City Thunder,Atlanta Hawks,123.0,115.0,8.0,True
+2015-03-20,1.75,2.14,Brooklyn Nets,Milwaukee Bucks,129.0,127.0,2.0,True
+2015-03-20,1.15,5.82,Cleveland Cavaliers,Indiana Pacers,95.0,92.0,3.0,True
+2015-03-20,1.28,3.84,Miami Heat,Denver Nuggets,108.0,91.0,17.0,True
+2015-03-20,3.99,1.27,Orlando Magic,Portland Trail Blazers,111.0,104.0,7.0,True
+2015-03-20,1.42,2.99,Philadelphia 76ers,New York Knicks,97.0,81.0,16.0,True
+2015-03-19,2.62,1.53,Los Angeles Lakers,Utah Jazz,73.0,80.0,-7.0,False
+2015-03-19,1.67,2.28,Phoenix Suns,New Orleans Pelicans,74.0,72.0,2.0,True
+2015-03-19,1.32,3.54,Houston Rockets,Denver Nuggets,118.0,108.0,10.0,True
+2015-03-19,1.77,2.1,New York Knicks,Minnesota Timberwolves,92.0,95.0,-3.0,False
+2015-03-18,1.34,3.43,Golden State Warriors,Atlanta Hawks,114.0,95.0,19.0,True
+2015-03-18,1.66,2.3,Utah Jazz,Washington Wizards,84.0,88.0,-4.0,False
+2015-03-18,4.52,1.22,Sacramento Kings,Los Angeles Clippers,105.0,116.0,-11.0,False
+2015-03-18,1.87,1.98,Chicago Bulls,Indiana Pacers,103.0,86.0,17.0,True
+2015-03-18,1.08,8.68,Dallas Mavericks,Orlando Magic,107.0,102.0,5.0,True
+2015-03-18,3.07,1.4,Milwaukee Bucks,San Antonio Spurs,103.0,114.0,-11.0,False
+2015-03-18,1.34,3.39,Oklahoma City Thunder,Boston Celtics,122.0,118.0,4.0,True
+2015-03-18,2.19,1.71,Miami Heat,Portland Trail Blazers,108.0,104.0,4.0,True
+2015-03-18,1.14,6.21,Toronto Raptors,Minnesota Timberwolves,105.0,100.0,5.0,True
+2015-03-18,1.12,7.05,Cleveland Cavaliers,Brooklyn Nets,117.0,92.0,25.0,True
+2015-03-18,1.9,1.94,Philadelphia 76ers,Detroit Pistons,94.0,83.0,11.0,True
+2015-03-17,1.17,5.46,Los Angeles Clippers,Charlotte Hornets,99.0,92.0,7.0,True
+2015-03-17,1.14,6.06,Houston Rockets,Orlando Magic,107.0,94.0,13.0,True
+2015-03-17,1.32,3.54,New Orleans Pelicans,Milwaukee Bucks,85.0,84.0,1.0,True
+2015-03-17,2.65,1.51,Detroit Pistons,Memphis Grizzlies,105.0,95.0,10.0,True
+2015-03-17,13.8,1.04,New York Knicks,San Antonio Spurs,104.0,100.0,4.0,True
+2015-03-16,1.02,18.51,Golden State Warriors,Los Angeles Lakers,108.0,105.0,3.0,True
+2015-03-16,2.62,1.53,Sacramento Kings,Atlanta Hawks,103.0,110.0,-7.0,False
+2015-03-16,1.56,2.53,Utah Jazz,Charlotte Hornets,94.0,66.0,28.0,True
+2015-03-16,1.41,3.04,Dallas Mavericks,Oklahoma City Thunder,119.0,115.0,4.0,True
+2015-03-16,1.1,7.71,Memphis Grizzlies,Denver Nuggets,92.0,81.0,11.0,True
+2015-03-16,2.99,1.42,Miami Heat,Cleveland Cavaliers,106.0,92.0,14.0,True
+2015-03-16,2.65,1.51,Minnesota Timberwolves,Brooklyn Nets,106.0,122.0,-16.0,False
+2015-03-16,1.24,4.29,Boston Celtics,Philadelphia 76ers,108.0,89.0,19.0,True
+2015-03-16,1.49,2.72,Indiana Pacers,Toronto Raptors,98.0,117.0,-19.0,False
+2015-03-16,1.86,1.98,Washington Wizards,Portland Trail Blazers,105.0,97.0,8.0,True
+2015-03-15,3.28,1.36,Los Angeles Lakers,Atlanta Hawks,86.0,91.0,-5.0,False
+2015-03-15,1.12,6.75,Phoenix Suns,New York Knicks,102.0,89.0,13.0,True
+2015-03-15,1.06,10.84,San Antonio Spurs,Minnesota Timberwolves,123.0,97.0,26.0,True
+2015-03-15,1.82,2.04,Toronto Raptors,Portland Trail Blazers,97.0,113.0,-16.0,False
+2015-03-15,1.29,3.78,New Orleans Pelicans,Denver Nuggets,111.0,118.0,-7.0,False
+2015-03-15,5.49,1.16,Orlando Magic,Cleveland Cavaliers,108.0,123.0,-15.0,False
+2015-03-15,1.51,2.68,Los Angeles Clippers,Houston Rockets,98.0,100.0,-2.0,False
+2015-03-15,1.31,3.65,Oklahoma City Thunder,Chicago Bulls,109.0,100.0,9.0,True
+2015-03-14,1.02,18.13,Golden State Warriors,New York Knicks,125.0,94.0,31.0,True
+2015-03-14,1.27,3.99,Utah Jazz,Detroit Pistons,88.0,85.0,3.0,True
+2015-03-14,1.35,3.35,Memphis Grizzlies,Milwaukee Bucks,96.0,83.0,13.0,True
+2015-03-14,3.3,1.36,Philadelphia 76ers,Brooklyn Nets,87.0,94.0,-7.0,False
+2015-03-14,1.24,4.22,Indiana Pacers,Boston Celtics,89.0,93.0,-4.0,False
+2015-03-14,1.17,5.3,Washington Wizards,Sacramento Kings,113.0,97.0,16.0,True
+2015-03-13,3.2,1.38,Phoenix Suns,Atlanta Hawks,87.0,96.0,-9.0,False
+2015-03-13,1.26,4.0,Portland Trail Blazers,Detroit Pistons,118.0,99.0,19.0,True
+2015-03-13,1.68,2.25,Denver Nuggets,Golden State Warriors,114.0,103.0,11.0,True
+2015-03-13,1.74,2.17,Dallas Mavericks,Los Angeles Clippers,129.0,99.0,30.0,True
+2015-03-13,1.16,5.62,Oklahoma City Thunder,Minnesota Timberwolves,113.0,99.0,14.0,True
+2015-03-13,1.47,2.79,Boston Celtics,Orlando Magic,95.0,88.0,7.0,True
+2015-03-13,1.48,2.75,Toronto Raptors,Miami Heat,102.0,92.0,10.0,True
+2015-03-13,1.91,1.93,Charlotte Hornets,Chicago Bulls,101.0,91.0,10.0,True
+2015-03-13,2.6,1.53,Philadelphia 76ers,Sacramento Kings,114.0,107.0,7.0,True
+2015-03-12,1.35,3.35,Los Angeles Lakers,New York Knicks,94.0,101.0,-7.0,False
+2015-03-12,2.01,1.84,San Antonio Spurs,Cleveland Cavaliers,125.0,128.0,-3.0,False
+2015-03-12,2.18,1.73,Utah Jazz,Houston Rockets,109.0,91.0,18.0,True
+2015-03-12,1.26,4.02,Washington Wizards,Memphis Grizzlies,107.0,87.0,20.0,True
+2015-03-12,1.33,3.49,Indiana Pacers,Milwaukee Bucks,109.0,103.0,6.0,True
+2015-03-11,1.05,11.6,Golden State Warriors,Detroit Pistons,105.0,98.0,7.0,True
+2015-03-11,1.74,2.15,Portland Trail Blazers,Houston Rockets,105.0,100.0,5.0,True
+2015-03-11,1.48,2.75,Phoenix Suns,Minnesota Timberwolves,106.0,97.0,9.0,True
+2015-03-11,3.48,1.33,Denver Nuggets,Atlanta Hawks,115.0,102.0,13.0,True
+2015-03-11,1.27,4.0,Milwaukee Bucks,Orlando Magic,97.0,91.0,6.0,True
+2015-03-11,1.37,3.23,Oklahoma City Thunder,Los Angeles Clippers,108.0,120.0,-12.0,False
+2015-03-11,3.27,1.36,Boston Celtics,Memphis Grizzlies,95.0,92.0,3.0,True
+2015-03-11,1.55,2.57,Miami Heat,Brooklyn Nets,104.0,98.0,6.0,True
+2015-03-11,1.26,4.01,Charlotte Hornets,Sacramento Kings,106.0,113.0,-7.0,False
+2015-03-11,3.24,1.37,Philadelphia 76ers,Chicago Bulls,95.0,104.0,-9.0,False
+2015-03-10,2.43,1.6,Los Angeles Lakers,Detroit Pistons,93.0,85.0,8.0,True
+2015-03-10,1.08,9.29,Utah Jazz,New York Knicks,87.0,82.0,5.0,True
+2015-03-10,2.55,1.55,Dallas Mavericks,Cleveland Cavaliers,94.0,127.0,-33.0,False
+2015-03-10,1.33,3.49,San Antonio Spurs,Toronto Raptors,117.0,107.0,10.0,True
+2015-03-10,1.7,2.23,Brooklyn Nets,New Orleans Pelicans,91.0,111.0,-20.0,False
+2015-03-10,1.25,4.13,Indiana Pacers,Orlando Magic,118.0,86.0,32.0,True
+2015-03-09,1.3,3.74,Los Angeles Clippers,Minnesota Timberwolves,89.0,76.0,13.0,True
+2015-03-09,2.94,1.43,Phoenix Suns,Golden State Warriors,80.0,98.0,-18.0,False
+2015-03-09,1.18,5.27,Denver Nuggets,New York Knicks,106.0,78.0,28.0,True
+2015-03-09,2.87,1.44,Chicago Bulls,Memphis Grizzlies,91.0,101.0,-10.0,False
+2015-03-09,2.05,1.81,Milwaukee Bucks,New Orleans Pelicans,103.0,114.0,-11.0,False
+2015-03-09,1.13,6.57,Atlanta Hawks,Sacramento Kings,130.0,105.0,25.0,True
+2015-03-09,1.72,2.2,Miami Heat,Boston Celtics,90.0,100.0,-10.0,False
+2015-03-09,1.71,2.21,Charlotte Hornets,Washington Wizards,69.0,95.0,-26.0,False
+2015-03-08,3.68,1.3,Los Angeles Lakers,Dallas Mavericks,93.0,100.0,-7.0,False
+2015-03-08,1.36,3.31,Oklahoma City Thunder,Toronto Raptors,108.0,104.0,4.0,True
+2015-03-08,1.78,2.08,Brooklyn Nets,Utah Jazz,88.0,95.0,-7.0,False
+2015-03-08,1.97,1.87,Detroit Pistons,Charlotte Hornets,101.0,108.0,-7.0,False
+2015-03-08,2.22,1.7,Orlando Magic,Boston Celtics,103.0,98.0,5.0,True
+2015-03-08,1.24,4.33,Golden State Warriors,Los Angeles Clippers,106.0,98.0,8.0,True
+2015-03-08,1.19,4.95,San Antonio Spurs,Chicago Bulls,116.0,105.0,11.0,True
+2015-03-07,2.5,1.57,Denver Nuggets,Houston Rockets,100.0,114.0,-14.0,False
+2015-03-07,1.53,2.61,Milwaukee Bucks,Washington Wizards,91.0,85.0,6.0,True
+2015-03-07,2.85,1.45,Minnesota Timberwolves,Portland Trail Blazers,121.0,113.0,8.0,True
+2015-03-07,1.14,6.1,Cleveland Cavaliers,Phoenix Suns,89.0,79.0,10.0,True
+2015-03-07,1.86,2.0,Miami Heat,Sacramento Kings,114.0,109.0,5.0,True
+2015-03-07,4.44,1.22,New York Knicks,Indiana Pacers,86.0,92.0,-6.0,False
+2015-03-07,3.79,1.29,Philadelphia 76ers,Atlanta Hawks,92.0,84.0,8.0,True
+2015-03-07,1.82,2.04,New Orleans Pelicans,Memphis Grizzlies,95.0,89.0,6.0,True
+2015-03-07,1.13,6.55,Golden State Warriors,Dallas Mavericks,104.0,89.0,15.0,True
+2015-03-07,1.12,6.55,San Antonio Spurs,Denver Nuggets,120.0,111.0,9.0,True
+2015-03-07,1.73,2.17,Brooklyn Nets,Phoenix Suns,100.0,108.0,-8.0,False
+2015-03-07,1.29,3.76,Houston Rockets,Detroit Pistons,103.0,93.0,10.0,True
+2015-03-07,1.12,6.69,Memphis Grizzlies,Los Angeles Lakers,97.0,90.0,7.0,True
+2015-03-07,1.33,3.49,New Orleans Pelicans,Boston Celtics,98.0,104.0,-6.0,False
+2015-03-07,2.03,1.84,Atlanta Hawks,Cleveland Cavaliers,106.0,97.0,9.0,True
+2015-03-07,1.86,1.98,Charlotte Hornets,Toronto Raptors,103.0,94.0,9.0,True
+2015-03-07,1.43,2.94,Indiana Pacers,Chicago Bulls,98.0,84.0,14.0,True
+2015-03-07,1.45,2.88,Washington Wizards,Miami Heat,99.0,97.0,2.0,True
+2015-03-06,2.35,1.63,Orlando Magic,Sacramento Kings,119.0,114.0,5.0,True
+2015-03-06,3.59,1.31,Philadelphia 76ers,Utah Jazz,83.0,89.0,-6.0,False
+2015-03-06,1.67,2.28,Portland Trail Blazers,Dallas Mavericks,94.0,75.0,19.0,True
+2015-03-06,2.03,1.84,Chicago Bulls,Oklahoma City Thunder,108.0,105.0,3.0,True
+2015-03-05,1.07,10.06,Golden State Warriors,Milwaukee Bucks,102.0,93.0,9.0,True
+2015-03-05,1.98,1.86,Los Angeles Clippers,Portland Trail Blazers,93.0,98.0,-5.0,False
+2015-03-05,1.15,5.81,San Antonio Spurs,Sacramento Kings,112.0,85.0,27.0,True
+2015-03-05,1.63,2.36,Houston Rockets,Memphis Grizzlies,100.0,102.0,-2.0,False
+2015-03-05,1.2,4.86,Miami Heat,Los Angeles Lakers,100.0,94.0,6.0,True
+2015-03-05,1.34,3.4,Minnesota Timberwolves,Denver Nuggets,85.0,100.0,-15.0,False
+2015-03-05,1.48,2.75,New Orleans Pelicans,Detroit Pistons,88.0,85.0,3.0,True
+2015-03-05,1.04,12.89,Oklahoma City Thunder,Philadelphia 76ers,123.0,118.0,5.0,True
+2015-03-05,1.83,2.02,Boston Celtics,Utah Jazz,85.0,84.0,1.0,True
+2015-03-05,1.44,2.9,Brooklyn Nets,Charlotte Hornets,91.0,115.0,-24.0,False
+2015-03-05,2.76,1.48,Toronto Raptors,Cleveland Cavaliers,112.0,120.0,-8.0,False
+2015-03-05,1.07,9.77,Indiana Pacers,New York Knicks,105.0,82.0,23.0,True
+2015-03-05,2.56,1.55,Orlando Magic,Phoenix Suns,100.0,105.0,-5.0,False
+2015-03-03,2.88,1.44,Denver Nuggets,Milwaukee Bucks,106.0,95.0,11.0,True
+2015-03-03,2.01,1.84,Chicago Bulls,Washington Wizards,97.0,92.0,5.0,True
+2015-03-03,1.31,3.6,Memphis Grizzlies,Utah Jazz,82.0,93.0,-11.0,False
+2015-03-03,1.24,4.27,Atlanta Hawks,Houston Rockets,104.0,96.0,8.0,True
+2015-03-03,1.24,4.32,Charlotte Hornets,Los Angeles Lakers,104.0,103.0,1.0,True
+2015-03-03,1.13,6.62,Cleveland Cavaliers,Boston Celtics,110.0,79.0,31.0,True
+2015-03-03,2.6,1.53,New York Knicks,Sacramento Kings,86.0,124.0,-38.0,False
+2015-03-02,1.28,3.9,Dallas Mavericks,New Orleans Pelicans,102.0,93.0,9.0,True
+2015-03-02,3.18,1.38,Minnesota Timberwolves,Los Angeles Clippers,105.0,110.0,-5.0,False
+2015-03-02,2.97,1.42,Brooklyn Nets,Golden State Warriors,110.0,108.0,2.0,True
+2015-03-02,1.78,2.09,Miami Heat,Phoenix Suns,115.0,98.0,17.0,True
+2015-03-02,4.92,1.2,Philadelphia 76ers,Toronto Raptors,103.0,114.0,-11.0,False
+2015-03-01,2.6,1.53,Denver Nuggets,New Orleans Pelicans,92.0,99.0,-7.0,False
+2015-03-01,2.5,1.58,Los Angeles Lakers,Oklahoma City Thunder,101.0,108.0,-7.0,False
+2015-03-01,4.28,1.23,Boston Celtics,Golden State Warriors,101.0,106.0,-5.0,False
+2015-03-01,1.13,6.54,Indiana Pacers,Philadelphia 76ers,94.0,74.0,20.0,True
+2015-03-01,2.02,1.83,Orlando Magic,Charlotte Hornets,83.0,98.0,-15.0,False
+2015-03-01,4.0,1.27,Sacramento Kings,Portland Trail Blazers,99.0,110.0,-11.0,False
+2015-03-01,1.94,1.91,Houston Rockets,Cleveland Cavaliers,105.0,103.0,2.0,True
+2015-03-01,2.11,1.77,Chicago Bulls,Los Angeles Clippers,86.0,96.0,-10.0,False
+2015-02-28,1.74,2.15,Phoenix Suns,San Antonio Spurs,74.0,101.0,-27.0,False
+2015-02-28,1.6,2.43,Utah Jazz,Milwaukee Bucks,82.0,75.0,7.0,True
+2015-02-28,1.26,3.99,Dallas Mavericks,Brooklyn Nets,94.0,104.0,-10.0,False
+2015-02-28,3.01,1.42,Minnesota Timberwolves,Memphis Grizzlies,97.0,101.0,-4.0,False
+2015-02-28,2.18,1.72,Miami Heat,Atlanta Hawks,91.0,93.0,-2.0,False
+2015-02-28,5.93,1.15,New York Knicks,Toronto Raptors,103.0,98.0,5.0,True
+2015-02-28,1.5,2.68,Washington Wizards,Detroit Pistons,99.0,95.0,4.0,True
+2015-02-28,3.2,1.38,Los Angeles Lakers,Milwaukee Bucks,101.0,93.0,8.0,True
+2015-02-28,1.41,3.02,Portland Trail Blazers,Oklahoma City Thunder,115.0,112.0,3.0,True
+2015-02-28,4.9,1.2,Sacramento Kings,San Antonio Spurs,96.0,107.0,-11.0,False
+2015-02-28,2.63,1.52,Denver Nuggets,Utah Jazz,82.0,104.0,-22.0,False
+2015-02-28,1.5,2.69,Memphis Grizzlies,Los Angeles Clippers,79.0,97.0,-18.0,False
+2015-02-28,2.11,1.77,New Orleans Pelicans,Miami Heat,104.0,102.0,2.0,True
+2015-02-27,1.47,2.79,Chicago Bulls,Minnesota Timberwolves,96.0,89.0,7.0,True
+2015-02-27,1.28,3.87,Houston Rockets,Brooklyn Nets,102.0,98.0,4.0,True
+2015-02-27,1.13,6.31,Atlanta Hawks,Orlando Magic,95.0,88.0,7.0,True
+2015-02-27,1.79,2.07,Boston Celtics,Charlotte Hornets,106.0,98.0,8.0,True
+2015-02-27,1.07,9.53,Detroit Pistons,New York Knicks,115.0,121.0,-6.0,False
+2015-02-27,2.12,1.76,Toronto Raptors,Golden State Warriors,89.0,113.0,-24.0,False
+2015-02-27,1.73,2.17,Indiana Pacers,Cleveland Cavaliers,93.0,86.0,7.0,True
+2015-02-27,3.85,1.28,Philadelphia 76ers,Washington Wizards,89.0,81.0,8.0,True
+2015-02-27,2.81,1.46,Phoenix Suns,Oklahoma City Thunder,117.0,113.0,4.0,True
+2015-02-27,1.66,2.31,Cleveland Cavaliers,Golden State Warriors,110.0,99.0,11.0,True
+2015-02-26,1.7,2.22,Portland Trail Blazers,San Antonio Spurs,111.0,95.0,16.0,True
+2015-02-26,3.39,1.34,Sacramento Kings,Memphis Grizzlies,102.0,90.0,12.0,True
+2015-02-26,3.02,1.41,Denver Nuggets,Phoenix Suns,96.0,110.0,-14.0,False
+2015-02-26,1.19,5.01,Utah Jazz,Los Angeles Lakers,97.0,100.0,-3.0,False
+2015-02-26,1.32,3.59,Chicago Bulls,Charlotte Hornets,86.0,98.0,-12.0,False
+2015-02-26,1.64,2.36,Houston Rockets,Los Angeles Clippers,110.0,105.0,5.0,True
+2015-02-26,1.16,5.66,Milwaukee Bucks,Philadelphia 76ers,104.0,88.0,16.0,True
+2015-02-26,1.72,2.18,Minnesota Timberwolves,Washington Wizards,97.0,77.0,20.0,True
+2015-02-26,2.22,1.7,New Orleans Pelicans,Brooklyn Nets,102.0,96.0,6.0,True
+2015-02-26,1.22,4.49,Atlanta Hawks,Dallas Mavericks,104.0,87.0,17.0,True
+2015-02-26,1.14,6.08,Boston Celtics,New York Knicks,115.0,94.0,21.0,True
+2015-02-26,2.44,1.59,Orlando Magic,Miami Heat,90.0,93.0,-3.0,False
+2015-02-24,1.52,2.63,Dallas Mavericks,Toronto Raptors,99.0,92.0,7.0,True
+2015-02-24,1.3,3.72,Oklahoma City Thunder,Indiana Pacers,105.0,92.0,13.0,True
+2015-02-24,3.4,1.34,Detroit Pistons,Cleveland Cavaliers,93.0,102.0,-9.0,False
+2015-02-24,3.35,1.35,Washington Wizards,Golden State Warriors,107.0,114.0,-7.0,False
+2015-02-24,1.62,2.39,Los Angeles Clippers,Memphis Grizzlies,87.0,90.0,-3.0,False
+2015-02-24,2.17,1.73,Denver Nuggets,Brooklyn Nets,82.0,110.0,-28.0,False
+2015-02-24,1.28,3.9,Phoenix Suns,Boston Celtics,110.0,115.0,-5.0,False
+2015-02-24,2.98,1.42,Utah Jazz,San Antonio Spurs,90.0,81.0,9.0,True
+2015-02-24,1.32,3.52,Chicago Bulls,Milwaukee Bucks,87.0,71.0,16.0,True
+2015-02-24,1.25,4.13,Houston Rockets,Minnesota Timberwolves,113.0,102.0,11.0,True
+2015-02-24,3.65,1.31,New Orleans Pelicans,Toronto Raptors,100.0,97.0,3.0,True
+2015-02-24,1.13,6.51,Miami Heat,Philadelphia 76ers,119.0,108.0,11.0,True
+2015-02-22,2.34,1.64,Los Angeles Lakers,Boston Celtics,118.0,111.0,7.0,True
+2015-02-22,1.83,2.03,Portland Trail Blazers,Memphis Grizzlies,92.0,98.0,-6.0,False
+2015-02-22,1.19,4.98,Dallas Mavericks,Charlotte Hornets,92.0,81.0,11.0,True
+2015-02-22,1.23,4.38,Oklahoma City Thunder,Denver Nuggets,119.0,94.0,25.0,True
+2015-02-22,2.51,1.57,Indiana Pacers,Golden State Warriors,104.0,98.0,6.0,True
+2015-02-22,1.24,4.35,Orlando Magic,Philadelphia 76ers,103.0,98.0,5.0,True
+2015-02-22,2.16,1.74,Detroit Pistons,Washington Wizards,106.0,89.0,17.0,True
+2015-02-22,2.79,1.46,Milwaukee Bucks,Atlanta Hawks,86.0,97.0,-11.0,False
+2015-02-22,16.89,1.03,New York Knicks,Cleveland Cavaliers,83.0,101.0,-18.0,False
+2015-02-22,1.17,5.26,Los Angeles Clippers,Sacramento Kings,126.0,99.0,27.0,True
+2015-02-22,1.26,4.05,Chicago Bulls,Phoenix Suns,112.0,107.0,5.0,True
+2015-02-22,1.76,2.13,Houston Rockets,Toronto Raptors,98.0,76.0,22.0,True
+2015-02-22,1.74,2.16,Miami Heat,New Orleans Pelicans,91.0,105.0,-14.0,False
+2015-02-22,2.58,1.54,Charlotte Hornets,Oklahoma City Thunder,103.0,110.0,-7.0,False
+2015-02-21,1.28,3.87,Golden State Warriors,San Antonio Spurs,110.0,99.0,11.0,True
+2015-02-21,2.32,1.65,Los Angeles Lakers,Brooklyn Nets,105.0,114.0,-9.0,False
+2015-02-21,1.59,2.46,Sacramento Kings,Boston Celtics,109.0,101.0,8.0,True
+2015-02-21,2.67,1.51,Utah Jazz,Portland Trail Blazers,92.0,76.0,16.0,True
+2015-02-21,1.71,2.2,Dallas Mavericks,Houston Rockets,111.0,100.0,11.0,True
+2015-02-21,1.25,4.15,Milwaukee Bucks,Denver Nuggets,89.0,81.0,8.0,True
+2015-02-21,1.8,2.06,Minnesota Timberwolves,Phoenix Suns,111.0,109.0,2.0,True
+2015-02-21,2.35,1.64,Washington Wizards,Cleveland Cavaliers,89.0,127.0,-38.0,False
+2015-02-21,1.44,2.9,Atlanta Hawks,Toronto Raptors,80.0,105.0,-25.0,False
+2015-02-21,3.11,1.4,Detroit Pistons,Chicago Bulls,100.0,91.0,9.0,True
+2015-02-21,3.6,1.31,New York Knicks,Miami Heat,87.0,111.0,-24.0,False
+2015-02-21,2.95,1.43,Orlando Magic,New Orleans Pelicans,95.0,84.0,11.0,True
+2015-02-21,4.25,1.24,Philadelphia 76ers,Indiana Pacers,95.0,106.0,-11.0,False
+2015-02-20,2.26,1.68,Los Angeles Clippers,San Antonio Spurs,119.0,115.0,4.0,True
+2015-02-20,1.47,2.77,Oklahoma City Thunder,Dallas Mavericks,104.0,89.0,15.0,True
+2015-02-15,2.49,1.57,East,West,158.0,163.0,-5.0,False
+2015-02-12,2.07,1.8,Chicago Bulls,Cleveland Cavaliers,113.0,98.0,15.0,True
+2015-02-12,1.66,2.3,Los Angeles Clippers,Houston Rockets,110.0,95.0,15.0,True
+2015-02-12,1.06,10.63,Portland Trail Blazers,Los Angeles Lakers,102.0,86.0,16.0,True
+2015-02-12,1.46,2.8,Dallas Mavericks,Utah Jazz,87.0,82.0,5.0,True
+2015-02-12,1.1,7.83,Cleveland Cavaliers,Miami Heat,113.0,93.0,20.0,True
+2015-02-12,1.18,5.2,Milwaukee Bucks,Sacramento Kings,111.0,103.0,8.0,True
+2015-02-12,4.82,1.2,Minnesota Timberwolves,Golden State Warriors,91.0,94.0,-3.0,False
+2015-02-12,2.0,1.85,New Orleans Pelicans,Indiana Pacers,93.0,106.0,-13.0,False
+2015-02-12,1.52,2.64,Oklahoma City Thunder,Memphis Grizzlies,105.0,89.0,16.0,True
+2015-02-12,3.48,1.33,Boston Celtics,Atlanta Hawks,89.0,88.0,1.0,True
+2015-02-12,3.27,1.37,Detroit Pistons,San Antonio Spurs,87.0,104.0,-17.0,False
+2015-02-12,1.49,2.72,Toronto Raptors,Washington Wizards,95.0,93.0,2.0,True
+2015-02-12,1.41,3.02,Orlando Magic,New York Knicks,89.0,83.0,6.0,True
+2015-02-11,1.87,1.98,Los Angeles Lakers,Denver Nuggets,96.0,106.0,-10.0,False
+2015-02-11,1.15,5.98,Chicago Bulls,Sacramento Kings,104.0,86.0,18.0,True
+2015-02-11,1.09,8.39,Memphis Grizzlies,Brooklyn Nets,95.0,86.0,9.0,True
+2015-02-11,1.73,2.18,Phoenix Suns,Houston Rockets,118.0,127.0,-9.0,False
+2015-02-11,1.79,2.09,Charlotte Hornets,Detroit Pistons,78.0,106.0,-28.0,False
+2015-02-09,3.26,1.37,Denver Nuggets,Oklahoma City Thunder,114.0,124.0,-10.0,False
+2015-02-09,1.25,4.18,Dallas Mavericks,Los Angeles Clippers,98.0,115.0,-17.0,False
+2015-02-09,1.47,2.78,Milwaukee Bucks,Brooklyn Nets,103.0,97.0,6.0,True
+2015-02-09,3.2,1.38,Minnesota Timberwolves,Atlanta Hawks,105.0,117.0,-12.0,False
+2015-02-09,1.69,2.24,New Orleans Pelicans,Utah Jazz,96.0,100.0,-4.0,False
+2015-02-09,1.5,2.69,Miami Heat,New York Knicks,109.0,95.0,14.0,True
+2015-02-09,2.62,1.53,Indiana Pacers,San Antonio Spurs,93.0,95.0,-2.0,False
+2015-02-09,15.25,1.03,Philadelphia 76ers,Golden State Warriors,84.0,89.0,-5.0,False
+2015-02-09,1.16,5.74,Washington Wizards,Orlando Magic,96.0,80.0,16.0,True
+2015-02-08,3.79,1.29,Sacramento Kings,Phoenix Suns,85.0,83.0,2.0,True
+2015-02-08,1.54,2.59,Houston Rockets,Portland Trail Blazers,98.0,109.0,-11.0,False
+2015-02-08,2.07,1.8,Toronto Raptors,San Antonio Spurs,87.0,82.0,5.0,True
+2015-02-08,2.1,1.77,Charlotte Hornets,Indiana Pacers,102.0,103.0,-1.0,False
+2015-02-08,1.28,3.87,Detroit Pistons,Minnesota Timberwolves,101.0,112.0,-11.0,False
+2015-02-08,1.68,2.27,Memphis Grizzlies,Atlanta Hawks,94.0,88.0,6.0,True
+2015-02-08,3.29,1.36,Orlando Magic,Chicago Bulls,97.0,98.0,-1.0,False
+2015-02-08,1.05,12.07,Cleveland Cavaliers,Los Angeles Lakers,120.0,105.0,15.0,True
+2015-02-08,1.3,3.78,Oklahoma City Thunder,Los Angeles Clippers,131.0,108.0,23.0,True
+2015-02-07,1.43,2.94,Utah Jazz,Sacramento Kings,102.0,90.0,12.0,True
+2015-02-07,1.71,2.21,Dallas Mavericks,Portland Trail Blazers,111.0,101.0,10.0,True
+2015-02-07,1.37,3.27,Milwaukee Bucks,Boston Celtics,96.0,93.0,3.0,True
+2015-02-07,13.19,1.04,New York Knicks,Golden State Warriors,92.0,106.0,-14.0,False
+2015-02-07,4.03,1.26,Philadelphia 76ers,Charlotte Hornets,89.0,81.0,8.0,True
+2015-02-07,2.1,1.77,New Orleans Pelicans,Chicago Bulls,72.0,107.0,-35.0,False
+2015-02-07,1.37,3.23,Washington Wizards,Brooklyn Nets,114.0,77.0,37.0,True
+2015-02-06,1.09,8.23,San Antonio Spurs,Miami Heat,98.0,85.0,13.0,True
+2015-02-06,1.46,2.8,Phoenix Suns,Utah Jazz,100.0,93.0,7.0,True
+2015-02-06,1.47,2.79,Houston Rockets,Milwaukee Bucks,117.0,111.0,6.0,True
+2015-02-06,4.25,1.24,Minnesota Timberwolves,Memphis Grizzlies,90.0,89.0,1.0,True
+2015-02-06,1.37,3.22,Oklahoma City Thunder,New Orleans Pelicans,113.0,116.0,-3.0,False
+2015-02-06,2.11,1.77,Atlanta Hawks,Golden State Warriors,124.0,116.0,8.0,True
+2015-02-06,1.25,4.16,Boston Celtics,Philadelphia 76ers,107.0,96.0,11.0,True
+2015-02-06,1.37,3.27,Detroit Pistons,Denver Nuggets,98.0,88.0,10.0,True
+2015-02-06,1.37,3.24,Brooklyn Nets,New York Knicks,92.0,88.0,4.0,True
+2015-02-06,3.09,1.4,Indiana Pacers,Cleveland Cavaliers,103.0,99.0,4.0,True
+2015-02-06,1.5,2.68,Orlando Magic,Los Angeles Lakers,103.0,97.0,6.0,True
+2015-02-06,1.96,1.88,Toronto Raptors,Los Angeles Clippers,123.0,107.0,16.0,True
+2015-02-06,1.49,2.72,Portland Trail Blazers,Phoenix Suns,108.0,87.0,21.0,True
+2015-02-06,2.32,1.65,Sacramento Kings,Dallas Mavericks,78.0,101.0,-23.0,False
+2015-02-06,1.54,2.59,Cleveland Cavaliers,Los Angeles Clippers,105.0,94.0,11.0,True
+2015-02-06,2.09,1.78,Charlotte Hornets,Washington Wizards,94.0,87.0,7.0,True
+2015-02-05,1.26,4.04,Golden State Warriors,Dallas Mavericks,128.0,114.0,14.0,True
+2015-02-05,3.29,1.36,Utah Jazz,Memphis Grizzlies,90.0,100.0,-10.0,False
+2015-02-05,1.06,10.9,San Antonio Spurs,Orlando Magic,110.0,103.0,7.0,True
+2015-02-05,1.68,2.27,Houston Rockets,Chicago Bulls,101.0,90.0,11.0,True
+2015-02-05,1.21,4.65,Milwaukee Bucks,Los Angeles Lakers,113.0,105.0,8.0,True
+2015-02-05,1.8,2.07,Minnesota Timberwolves,Miami Heat,102.0,101.0,1.0,True
+2015-02-05,1.58,2.48,New Orleans Pelicans,Oklahoma City Thunder,91.0,102.0,-11.0,False
+2015-02-05,1.41,3.04,Atlanta Hawks,Washington Wizards,105.0,96.0,9.0,True
+2015-02-05,1.61,2.4,Boston Celtics,Denver Nuggets,104.0,100.0,4.0,True
+2015-02-05,1.3,3.69,Toronto Raptors,Brooklyn Nets,93.0,109.0,-16.0,False
+2015-02-05,1.55,2.57,Indiana Pacers,Detroit Pistons,114.0,109.0,5.0,True
+2015-02-04,1.24,4.23,Portland Trail Blazers,Utah Jazz,103.0,102.0,1.0,True
+2015-02-04,5.49,1.17,Sacramento Kings,Golden State Warriors,96.0,121.0,-25.0,False
+2015-02-04,1.58,2.48,Detroit Pistons,Miami Heat,108.0,91.0,17.0,True
+2015-02-04,1.95,1.89,New York Knicks,Boston Celtics,97.0,108.0,-11.0,False
+2015-02-04,3.63,1.31,Philadelphia 76ers,Denver Nuggets,105.0,98.0,7.0,True
+2015-02-02,2.22,1.7,Phoenix Suns,Memphis Grizzlies,101.0,102.0,-1.0,False
+2015-02-02,1.16,5.79,Dallas Mavericks,Minnesota Timberwolves,100.0,94.0,6.0,True
+2015-02-02,2.34,1.64,New Orleans Pelicans,Atlanta Hawks,115.0,100.0,15.0,True
+2015-02-02,1.15,5.95,Oklahoma City Thunder,Orlando Magic,104.0,97.0,7.0,True
+2015-02-02,4.24,1.24,Brooklyn Nets,Los Angeles Clippers,102.0,100.0,2.0,True
+2015-02-02,1.41,3.04,Toronto Raptors,Milwaukee Bucks,75.0,82.0,-7.0,False
+2015-02-02,1.03,16.88,Cleveland Cavaliers,Philadelphia 76ers,97.0,84.0,13.0,True
+2015-02-02,1.27,3.9,Washington Wizards,Charlotte Hornets,88.0,92.0,-4.0,False
+2015-02-01,1.67,2.28,New York Knicks,Los Angeles Lakers,92.0,80.0,12.0,True
+2015-02-01,1.61,2.42,Boston Celtics,Miami Heat,75.0,83.0,-8.0,False
+2015-02-01,1.16,5.59,Golden State Warriors,Phoenix Suns,106.0,87.0,19.0,True
+2015-01-31,1.51,2.66,Denver Nuggets,Charlotte Hornets,86.0,104.0,-18.0,False
+2015-01-31,1.48,2.75,San Antonio Spurs,Los Angeles Clippers,85.0,105.0,-20.0,False
+2015-01-31,2.11,1.77,Milwaukee Bucks,Portland Trail Blazers,95.0,88.0,7.0,True
+2015-01-31,1.56,2.53,Memphis Grizzlies,Oklahoma City Thunder,85.0,74.0,11.0,True
+2015-01-31,6.01,1.14,Minnesota Timberwolves,Cleveland Cavaliers,90.0,106.0,-16.0,False
+2015-01-31,1.03,16.22,Atlanta Hawks,Philadelphia 76ers,91.0,85.0,6.0,True
+2015-01-31,2.61,1.53,Detroit Pistons,Houston Rockets,114.0,101.0,13.0,True
+2015-01-31,1.45,2.86,Indiana Pacers,Sacramento Kings,94.0,99.0,-5.0,False
+2015-01-31,3.59,1.31,Orlando Magic,Dallas Mavericks,93.0,108.0,-15.0,False
+2015-01-31,1.47,2.77,Washington Wizards,Toronto Raptors,116.0,120.0,-4.0,False
+2015-01-31,1.36,3.27,Phoenix Suns,Chicago Bulls,99.0,93.0,6.0,True
+2015-01-31,5.37,1.17,Utah Jazz,Golden State Warriors,110.0,100.0,10.0,True
+2015-01-31,3.76,1.29,Miami Heat,Dallas Mavericks,72.0,93.0,-21.0,False
+2015-01-31,3.74,1.3,New Orleans Pelicans,Los Angeles Clippers,108.0,103.0,5.0,True
+2015-01-31,1.45,2.86,Atlanta Hawks,Portland Trail Blazers,105.0,99.0,6.0,True
+2015-01-31,3.53,1.32,Boston Celtics,Houston Rockets,87.0,93.0,-6.0,False
+2015-01-31,3.65,1.3,Brooklyn Nets,Toronto Raptors,122.0,127.0,-5.0,False
+2015-01-31,1.17,5.41,Cleveland Cavaliers,Sacramento Kings,101.0,90.0,11.0,True
+2015-01-31,2.52,1.56,Philadelphia 76ers,Minnesota Timberwolves,103.0,94.0,9.0,True
+2015-01-30,4.99,1.19,Los Angeles Lakers,Chicago Bulls,123.0,118.0,5.0,True
+2015-01-30,1.18,5.13,Memphis Grizzlies,Denver Nuggets,99.0,69.0,30.0,True
+2015-01-30,1.29,3.74,Indiana Pacers,New York Knicks,103.0,82.0,21.0,True
+2015-01-30,2.49,1.58,Orlando Magic,Milwaukee Bucks,100.0,115.0,-15.0,False
+2015-01-29,1.4,3.02,Phoenix Suns,Washington Wizards,106.0,98.0,8.0,True
+2015-01-29,3.47,1.33,Utah Jazz,Los Angeles Clippers,89.0,94.0,-5.0,False
+2015-01-29,1.08,8.89,San Antonio Spurs,Charlotte Hornets,95.0,86.0,9.0,True
+2015-01-29,1.06,11.21,Atlanta Hawks,Brooklyn Nets,113.0,102.0,11.0,True
+2015-01-29,1.57,2.51,Houston Rockets,Dallas Mavericks,99.0,94.0,5.0,True
+2015-01-29,2.56,1.55,Minnesota Timberwolves,Boston Celtics,110.0,98.0,12.0,True
+2015-01-29,1.42,2.99,New Orleans Pelicans,Denver Nuggets,85.0,93.0,-8.0,False
+2015-01-29,4.27,1.24,New York Knicks,Oklahoma City Thunder,100.0,92.0,8.0,True
+2015-01-29,1.43,2.91,Toronto Raptors,Sacramento Kings,119.0,102.0,17.0,True
+2015-01-29,1.67,2.27,Cleveland Cavaliers,Portland Trail Blazers,99.0,94.0,5.0,True
+2015-01-29,3.81,1.28,Philadelphia 76ers,Detroit Pistons,89.0,69.0,20.0,True
+2015-01-28,1.13,6.41,Golden State Warriors,Chicago Bulls,111.0,113.0,-2.0,False
+2015-01-28,4.59,1.21,Los Angeles Lakers,Washington Wizards,92.0,98.0,-6.0,False
+2015-01-28,1.42,3.0,Dallas Mavericks,Memphis Grizzlies,90.0,109.0,-19.0,False
+2015-01-28,4.36,1.23,Detroit Pistons,Cleveland Cavaliers,95.0,103.0,-8.0,False
+2015-01-28,1.79,2.07,Miami Heat,Milwaukee Bucks,102.0,109.0,-7.0,False
+2015-01-28,2.33,1.65,Indiana Pacers,Toronto Raptors,91.0,104.0,-13.0,False
+2015-01-27,1.06,10.36,Los Angeles Clippers,Denver Nuggets,102.0,98.0,4.0,True
+2015-01-27,1.3,3.68,Utah Jazz,Boston Celtics,90.0,99.0,-9.0,False
+2015-01-27,1.1,7.59,Memphis Grizzlies,Orlando Magic,103.0,94.0,9.0,True
+2015-01-27,1.04,13.21,New Orleans Pelicans,Philadelphia 76ers,99.0,74.0,25.0,True
+2015-01-27,1.06,10.21,Oklahoma City Thunder,Minnesota Timberwolves,92.0,84.0,8.0,True
+2015-01-25,4.43,1.23,Los Angeles Lakers,Houston Rockets,87.0,99.0,-12.0,False
+2015-01-25,2.35,1.64,Denver Nuggets,Washington Wizards,115.0,117.0,-2.0,False
+2015-01-25,1.02,18.5,Golden State Warriors,Boston Celtics,114.0,111.0,3.0,True
+2015-01-25,1.12,6.92,San Antonio Spurs,Milwaukee Bucks,101.0,95.0,6.0,True
+2015-01-25,1.26,4.06,Toronto Raptors,Detroit Pistons,114.0,110.0,4.0,True
+2015-01-25,1.02,17.29,Atlanta Hawks,Minnesota Timberwolves,112.0,100.0,12.0,True
+2015-01-25,2.4,1.61,New Orleans Pelicans,Dallas Mavericks,109.0,106.0,3.0,True
+2015-01-25,2.06,1.8,Orlando Magic,Indiana Pacers,99.0,106.0,-7.0,False
+2015-01-25,2.21,1.71,Phoenix Suns,Los Angeles Clippers,100.0,120.0,-20.0,False
+2015-01-25,1.63,2.37,Cleveland Cavaliers,Oklahoma City Thunder,108.0,98.0,10.0,True
+2015-01-25,1.28,3.83,Chicago Bulls,Miami Heat,84.0,96.0,-12.0,False
+2015-01-25,2.37,1.63,Portland Trail Blazers,Washington Wizards,103.0,96.0,7.0,True
+2015-01-25,1.57,2.51,Utah Jazz,Brooklyn Nets,108.0,73.0,35.0,True
+2015-01-25,1.02,18.22,Memphis Grizzlies,Philadelphia 76ers,101.0,83.0,18.0,True
+2015-01-25,2.26,1.68,Milwaukee Bucks,Detroit Pistons,101.0,86.0,15.0,True
+2015-01-25,1.23,4.42,Charlotte Hornets,New York Knicks,76.0,71.0,5.0,True
+2015-01-24,1.04,13.68,Golden State Warriors,Sacramento Kings,126.0,101.0,25.0,True
+2015-01-24,1.36,3.22,Denver Nuggets,Boston Celtics,99.0,100.0,-1.0,False
+2015-01-24,1.71,2.18,Phoenix Suns,Houston Rockets,111.0,113.0,-2.0,False
+2015-01-24,1.05,11.88,San Antonio Spurs,Los Angeles Lakers,99.0,85.0,14.0,True
+2015-01-24,1.41,3.01,Dallas Mavericks,Chicago Bulls,98.0,102.0,-4.0,False
+2015-01-24,3.17,1.38,Minnesota Timberwolves,New Orleans Pelicans,84.0,92.0,-8.0,False
+2015-01-24,1.6,2.44,Atlanta Hawks,Oklahoma City Thunder,103.0,93.0,10.0,True
+2015-01-24,1.16,5.65,Cleveland Cavaliers,Charlotte Hornets,129.0,90.0,39.0,True
+2015-01-24,1.62,2.39,Miami Heat,Indiana Pacers,89.0,87.0,2.0,True
+2015-01-24,2.28,1.67,New York Knicks,Orlando Magic,113.0,106.0,7.0,True
+2015-01-24,8.45,1.09,Philadelphia 76ers,Toronto Raptors,86.0,91.0,-5.0,False
+2015-01-23,1.07,9.5,Los Angeles Clippers,Brooklyn Nets,123.0,84.0,39.0,True
+2015-01-23,1.33,3.51,Portland Trail Blazers,Boston Celtics,89.0,90.0,-1.0,False
+2015-01-23,2.9,1.43,Chicago Bulls,San Antonio Spurs,104.0,81.0,23.0,True
+2015-01-23,1.25,4.16,Milwaukee Bucks,Utah Jazz,99.0,101.0,-2.0,False
+2015-01-22,1.27,3.95,Golden State Warriors,Houston Rockets,126.0,113.0,13.0,True
+2015-01-22,1.45,2.85,Sacramento Kings,Brooklyn Nets,100.0,103.0,-3.0,False
+2015-01-22,1.3,3.71,Phoenix Suns,Portland Trail Blazers,118.0,113.0,5.0,True
+2015-01-22,1.4,3.09,Memphis Grizzlies,Toronto Raptors,92.0,86.0,6.0,True
+2015-01-22,4.79,1.2,Minnesota Timberwolves,Dallas Mavericks,75.0,98.0,-23.0,False
+2015-01-22,1.32,3.56,New Orleans Pelicans,Los Angeles Lakers,96.0,80.0,16.0,True
+2015-01-22,1.91,1.94,Washington Wizards,Oklahoma City Thunder,103.0,105.0,-2.0,False
+2015-01-22,1.15,5.88,Atlanta Hawks,Indiana Pacers,110.0,91.0,19.0,True
+2015-01-22,1.27,3.97,Detroit Pistons,Orlando Magic,128.0,118.0,10.0,True
+2015-01-22,1.4,3.07,Charlotte Hornets,Miami Heat,78.0,76.0,2.0,True
+2015-01-22,1.18,5.2,Cleveland Cavaliers,Utah Jazz,106.0,92.0,14.0,True
+2015-01-22,2.32,1.65,Philadelphia 76ers,New York Knicks,91.0,98.0,-7.0,False
+2015-01-20,4.45,1.23,Denver Nuggets,San Antonio Spurs,99.0,109.0,-10.0,False
+2015-01-20,3.7,1.3,Miami Heat,Oklahoma City Thunder,86.0,94.0,-8.0,False
+2015-01-20,1.17,5.44,Phoenix Suns,Los Angeles Lakers,115.0,100.0,15.0,True
+2015-01-20,1.2,4.91,Portland Trail Blazers,Sacramento Kings,98.0,94.0,4.0,True
+2015-01-20,1.83,2.02,Milwaukee Bucks,Toronto Raptors,89.0,92.0,-3.0,False
+2015-01-20,1.52,2.64,Cleveland Cavaliers,Chicago Bulls,108.0,94.0,14.0,True
+2015-01-20,1.18,5.23,Houston Rockets,Indiana Pacers,110.0,98.0,12.0,True
+2015-01-20,2.64,1.51,New York Knicks,New Orleans Pelicans,99.0,92.0,7.0,True
+2015-01-20,1.66,2.29,Memphis Grizzlies,Dallas Mavericks,95.0,103.0,-8.0,False
+2015-01-20,1.06,10.35,Golden State Warriors,Denver Nuggets,122.0,79.0,43.0,True
+2015-01-20,1.11,7.4,Los Angeles Clippers,Boston Celtics,102.0,93.0,9.0,True
+2015-01-20,1.31,3.64,Atlanta Hawks,Detroit Pistons,93.0,82.0,11.0,True
+2015-01-19,1.41,3.01,Charlotte Hornets,Minnesota Timberwolves,105.0,80.0,25.0,True
+2015-01-19,1.06,10.89,Washington Wizards,Philadelphia 76ers,111.0,76.0,35.0,True
+2015-01-18,1.11,7.43,San Antonio Spurs,Utah Jazz,89.0,69.0,20.0,True
+2015-01-18,4.64,1.21,Orlando Magic,Oklahoma City Thunder,99.0,127.0,-28.0,False
+2015-01-18,1.15,6.04,Toronto Raptors,New Orleans Pelicans,93.0,95.0,-2.0,False
+2015-01-18,5.06,1.19,Sacramento Kings,Los Angeles Clippers,108.0,117.0,-9.0,False
+2015-01-18,1.12,6.85,Denver Nuggets,Minnesota Timberwolves,105.0,113.0,-8.0,False
+2015-01-18,1.7,2.22,Memphis Grizzlies,Portland Trail Blazers,102.0,98.0,4.0,True
+2015-01-18,2.93,1.43,Brooklyn Nets,Washington Wizards,90.0,99.0,-9.0,False
+2015-01-18,2.34,1.64,Chicago Bulls,Atlanta Hawks,99.0,107.0,-8.0,False
+2015-01-18,1.8,2.07,Houston Rockets,Golden State Warriors,106.0,131.0,-25.0,False
+2015-01-18,1.09,8.64,Detroit Pistons,Philadelphia 76ers,107.0,89.0,18.0,True
+2015-01-18,2.15,1.74,Charlotte Hornets,Indiana Pacers,80.0,71.0,9.0,True
+2015-01-17,1.26,4.01,Los Angeles Clippers,Cleveland Cavaliers,121.0,126.0,-5.0,False
+2015-01-17,1.64,2.35,Sacramento Kings,Miami Heat,83.0,95.0,-12.0,False
+2015-01-17,1.06,10.16,Phoenix Suns,Minnesota Timberwolves,110.0,99.0,11.0,True
+2015-01-17,1.27,3.91,Utah Jazz,Los Angeles Lakers,94.0,85.0,9.0,True
+2015-01-17,1.27,4.0,Dallas Mavericks,Denver Nuggets,97.0,89.0,8.0,True
+2015-01-17,1.54,2.59,San Antonio Spurs,Portland Trail Blazers,110.0,96.0,14.0,True
+2015-01-17,1.95,1.89,Oklahoma City Thunder,Golden State Warriors,127.0,115.0,12.0,True
+2015-01-17,2.77,1.47,Boston Celtics,Chicago Bulls,103.0,119.0,-16.0,False
+2015-01-17,2.09,1.78,Toronto Raptors,Atlanta Hawks,89.0,110.0,-21.0,False
+2015-01-17,1.88,1.96,Indiana Pacers,Detroit Pistons,96.0,98.0,-2.0,False
+2015-01-17,2.88,1.44,Orlando Magic,Memphis Grizzlies,96.0,106.0,-10.0,False
+2015-01-17,3.41,1.34,Philadelphia 76ers,New Orleans Pelicans,96.0,81.0,15.0,True
+2015-01-17,1.18,5.17,Washington Wizards,Brooklyn Nets,80.0,102.0,-22.0,False
+2015-01-16,3.18,1.38,Los Angeles Lakers,Cleveland Cavaliers,102.0,109.0,-7.0,False
+2015-01-16,2.24,1.69,Houston Rockets,Oklahoma City Thunder,112.0,101.0,11.0,True
+2015-01-16,1.29,3.72,Milwaukee Bucks,New York Knicks,95.0,79.0,16.0,True
+2015-01-15,1.05,11.77,Golden State Warriors,Miami Heat,104.0,89.0,15.0,True
+2015-01-15,1.59,2.46,Portland Trail Blazers,Los Angeles Clippers,94.0,100.0,-6.0,False
+2015-01-15,1.47,2.77,Denver Nuggets,Dallas Mavericks,114.0,107.0,7.0,True
+2015-01-15,2.96,1.43,Boston Celtics,Atlanta Hawks,91.0,105.0,-14.0,False
+2015-01-15,1.42,2.99,Chicago Bulls,Washington Wizards,99.0,105.0,-6.0,False
+2015-01-15,3.43,1.34,Brooklyn Nets,Memphis Grizzlies,92.0,103.0,-11.0,False
+2015-01-15,1.55,2.55,Detroit Pistons,New Orleans Pelicans,94.0,105.0,-11.0,False
+2015-01-15,1.02,18.95,Toronto Raptors,Philadelphia 76ers,100.0,84.0,16.0,True
+2015-01-15,2.7,1.5,Charlotte Hornets,San Antonio Spurs,93.0,98.0,-5.0,False
+2015-01-15,4.66,1.21,Orlando Magic,Houston Rockets,120.0,113.0,7.0,True
+2015-01-14,2.19,1.72,Los Angeles Lakers,Miami Heat,75.0,78.0,-3.0,False
+2015-01-14,2.8,1.46,Sacramento Kings,Dallas Mavericks,104.0,108.0,-4.0,False
+2015-01-14,1.55,2.57,Phoenix Suns,Cleveland Cavaliers,107.0,100.0,7.0,True
+2015-01-14,4.1,1.26,Utah Jazz,Golden State Warriors,105.0,116.0,-11.0,False
+2015-01-14,1.14,6.24,Indiana Pacers,Minnesota Timberwolves,101.0,110.0,-9.0,False
+2015-01-14,5.64,1.16,Philadelphia 76ers,Atlanta Hawks,87.0,105.0,-18.0,False
+2015-01-14,1.91,1.92,Washington Wizards,San Antonio Spurs,101.0,93.0,8.0,True
+2015-01-12,1.14,6.28,Chicago Bulls,Orlando Magic,114.0,121.0,-7.0,False
+2015-01-12,2.86,1.45,Boston Celtics,New Orleans Pelicans,108.0,100.0,8.0,True
+2015-01-12,3.48,1.33,Brooklyn Nets,Houston Rockets,99.0,113.0,-14.0,False
+2015-01-12,1.42,2.98,Toronto Raptors,Detroit Pistons,111.0,114.0,-3.0,False
+2015-01-11,3.12,1.39,Los Angeles Lakers,Portland Trail Blazers,94.0,106.0,-12.0,False
+2015-01-11,1.63,2.36,Sacramento Kings,Cleveland Cavaliers,103.0,84.0,19.0,True
+2015-01-11,1.61,2.4,Memphis Grizzlies,Phoenix Suns,122.0,110.0,12.0,True
+2015-01-11,1.17,5.4,Los Angeles Clippers,Miami Heat,90.0,104.0,-14.0,False
+2015-01-11,1.55,2.56,Atlanta Hawks,Washington Wizards,120.0,89.0,31.0,True
+2015-01-11,1.05,11.96,Portland Trail Blazers,Orlando Magic,103.0,92.0,11.0,True
+2015-01-11,1.39,3.13,Chicago Bulls,Milwaukee Bucks,95.0,87.0,8.0,True
+2015-01-11,1.13,6.51,Houston Rockets,Utah Jazz,97.0,82.0,15.0,True
+2015-01-11,5.71,1.16,Minnesota Timberwolves,San Antonio Spurs,93.0,108.0,-15.0,False
+2015-01-11,1.43,2.97,Detroit Pistons,Brooklyn Nets,98.0,93.0,5.0,True
+2015-01-11,3.47,1.33,Philadelphia 76ers,Indiana Pacers,93.0,92.0,1.0,True
+2015-01-11,1.12,7.07,Toronto Raptors,Boston Celtics,109.0,96.0,13.0,True
+2015-01-11,1.64,2.35,Los Angeles Clippers,Dallas Mavericks,120.0,100.0,20.0,True
+2015-01-11,3.68,1.3,New York Knicks,Charlotte Hornets,82.0,110.0,-28.0,False
+2015-01-10,1.07,9.4,Golden State Warriors,Cleveland Cavaliers,112.0,94.0,18.0,True
+2015-01-10,1.79,2.06,Los Angeles Lakers,Orlando Magic,101.0,84.0,17.0,True
+2015-01-10,1.5,2.67,Sacramento Kings,Denver Nuggets,108.0,118.0,-10.0,False
+2015-01-10,1.19,4.92,Milwaukee Bucks,Minnesota Timberwolves,98.0,84.0,14.0,True
+2015-01-10,1.49,2.72,San Antonio Spurs,Phoenix Suns,100.0,95.0,5.0,True
+2015-01-10,1.85,2.0,New Orleans Pelicans,Memphis Grizzlies,106.0,95.0,11.0,True
+2015-01-10,1.12,6.88,Oklahoma City Thunder,Utah Jazz,99.0,94.0,5.0,True
+2015-01-10,1.88,1.96,Washington Wizards,Chicago Bulls,102.0,86.0,16.0,True
+2015-01-10,1.16,5.69,Brooklyn Nets,Philadelphia 76ers,88.0,90.0,-2.0,False
+2015-01-10,2.25,1.69,Detroit Pistons,Atlanta Hawks,103.0,106.0,-3.0,False
+2015-01-10,1.42,2.98,Indiana Pacers,Boston Celtics,107.0,103.0,4.0,True
+2015-01-09,1.24,4.31,Portland Trail Blazers,Miami Heat,99.0,83.0,16.0,True
+2015-01-09,8.24,1.09,New York Knicks,Houston Rockets,96.0,120.0,-24.0,False
+2015-01-09,1.09,8.08,Toronto Raptors,Charlotte Hornets,95.0,103.0,-8.0,False
+2015-01-08,1.12,6.94,Golden State Warriors,Indiana Pacers,117.0,102.0,15.0,True
+2015-01-08,1.15,5.82,Los Angeles Clippers,Los Angeles Lakers,114.0,89.0,25.0,True
+2015-01-08,3.72,1.3,Sacramento Kings,Oklahoma City Thunder,104.0,83.0,21.0,True
+2015-01-08,4.11,1.25,Minnesota Timberwolves,Phoenix Suns,111.0,113.0,-2.0,False
+2015-01-08,1.33,3.51,Denver Nuggets,Orlando Magic,93.0,90.0,3.0,True
+2015-01-08,1.21,4.64,Dallas Mavericks,Detroit Pistons,95.0,108.0,-13.0,False
+2015-01-08,1.14,6.05,Chicago Bulls,Utah Jazz,77.0,97.0,-20.0,False
+2015-01-08,1.57,2.52,Atlanta Hawks,Memphis Grizzlies,96.0,86.0,10.0,True
+2015-01-08,1.49,2.72,Brooklyn Nets,Boston Celtics,81.0,89.0,-8.0,False
+2015-01-08,2.69,1.49,Charlotte Hornets,New Orleans Pelicans,98.0,94.0,4.0,True
+2015-01-08,3.18,1.38,Cleveland Cavaliers,Houston Rockets,93.0,105.0,-12.0,False
+2015-01-08,3.4,1.34,Philadelphia 76ers,Milwaukee Bucks,77.0,97.0,-20.0,False
+2015-01-08,1.04,13.7,Washington Wizards,New York Knicks,101.0,91.0,10.0,True
+2015-01-06,1.26,4.07,San Antonio Spurs,Detroit Pistons,104.0,105.0,-1.0,False
+2015-01-06,2.67,1.51,Milwaukee Bucks,Phoenix Suns,96.0,102.0,-6.0,False
+2015-01-06,1.63,2.35,Golden State Warriors,Oklahoma City Thunder,117.0,91.0,26.0,True
+2015-01-06,1.44,2.9,Los Angeles Clippers,Atlanta Hawks,98.0,107.0,-9.0,False
+2015-01-06,1.08,8.78,Portland Trail Blazers,Los Angeles Lakers,98.0,94.0,4.0,True
+2015-01-06,1.81,2.05,Utah Jazz,Indiana Pacers,101.0,105.0,-4.0,False
+2015-01-06,1.04,12.78,Memphis Grizzlies,New York Knicks,105.0,83.0,22.0,True
+2015-01-06,2.72,1.49,Minnesota Timberwolves,Denver Nuggets,101.0,110.0,-9.0,False
+2015-01-06,1.65,2.32,New Orleans Pelicans,Washington Wizards,85.0,92.0,-7.0,False
+2015-01-05,1.67,2.28,Chicago Bulls,Houston Rockets,114.0,105.0,9.0,True
+2015-01-05,1.43,2.94,Boston Celtics,Charlotte Hornets,95.0,104.0,-9.0,False
+2015-01-05,3.6,1.31,Brooklyn Nets,Dallas Mavericks,88.0,96.0,-8.0,False
+2015-01-05,2.69,1.5,Philadelphia 76ers,Cleveland Cavaliers,95.0,92.0,3.0,True
+2015-01-04,1.9,1.93,Los Angeles Lakers,Indiana Pacers,88.0,87.0,1.0,True
+2015-01-04,1.87,1.97,Phoenix Suns,Toronto Raptors,125.0,109.0,16.0,True
+2015-01-04,3.59,1.31,New York Knicks,Milwaukee Bucks,82.0,95.0,-13.0,False
+2015-01-04,1.63,2.37,Detroit Pistons,Sacramento Kings,114.0,95.0,19.0,True
+2015-01-04,2.15,1.74,Miami Heat,Brooklyn Nets,88.0,84.0,4.0,True
+2015-01-04,3.68,1.3,Cleveland Cavaliers,Dallas Mavericks,90.0,109.0,-19.0,False
+2015-01-04,1.01,21.66,Los Angeles Clippers,Philadelphia 76ers,127.0,91.0,36.0,True
+2015-01-04,1.39,3.15,Portland Trail Blazers,Atlanta Hawks,107.0,115.0,-8.0,False
+2015-01-04,1.82,2.04,Denver Nuggets,Memphis Grizzlies,114.0,85.0,29.0,True
+2015-01-04,1.42,2.99,San Antonio Spurs,Washington Wizards,101.0,92.0,9.0,True
+2015-01-04,1.18,5.26,Chicago Bulls,Boston Celtics,109.0,104.0,5.0,True
+2015-01-04,1.33,3.44,Houston Rockets,Miami Heat,115.0,79.0,36.0,True
+2015-01-04,1.82,2.04,Minnesota Timberwolves,Utah Jazz,89.0,101.0,-12.0,False
+2015-01-04,1.56,2.53,Orlando Magic,Charlotte Hornets,90.0,98.0,-8.0,False
+2015-01-03,1.52,2.66,Golden State Warriors,Toronto Raptors,126.0,105.0,21.0,True
+2015-01-03,2.6,1.53,Los Angeles Lakers,Memphis Grizzlies,106.0,109.0,-3.0,False
+2015-01-03,1.06,11.02,Phoenix Suns,Philadelphia 76ers,112.0,96.0,16.0,True
+2015-01-03,2.61,1.53,Utah Jazz,Atlanta Hawks,92.0,98.0,-6.0,False
+2015-01-03,1.8,2.06,Milwaukee Bucks,Indiana Pacers,91.0,94.0,-3.0,False
+2015-01-03,2.1,1.78,New Orleans Pelicans,Houston Rockets,111.0,83.0,28.0,True
+2015-01-03,1.3,3.71,Oklahoma City Thunder,Washington Wizards,109.0,102.0,7.0,True
+2015-01-03,3.14,1.39,Boston Celtics,Dallas Mavericks,101.0,119.0,-18.0,False
+2015-01-03,2.66,1.51,New York Knicks,Detroit Pistons,81.0,97.0,-16.0,False
+2015-01-03,2.02,1.83,Charlotte Hornets,Cleveland Cavaliers,87.0,91.0,-4.0,False
+2015-01-03,2.23,1.7,Orlando Magic,Brooklyn Nets,98.0,100.0,-2.0,False
+2015-01-01,1.15,5.74,Chicago Bulls,Denver Nuggets,106.0,101.0,5.0,True
+2015-01-01,2.6,1.53,Minnesota Timberwolves,Sacramento Kings,107.0,110.0,-3.0,False
+2014-12-31,1.3,3.71,Oklahoma City Thunder,Phoenix Suns,137.0,134.0,3.0,True
+2014-12-31,1.97,1.87,Cleveland Cavaliers,Milwaukee Bucks,80.0,96.0,-16.0,False
+2014-12-31,1.11,7.22,Houston Rockets,Charlotte Hornets,102.0,83.0,19.0,True
+2014-12-31,1.48,2.75,San Antonio Spurs,New Orleans Pelicans,95.0,93.0,2.0,True
+2014-12-31,1.09,8.15,Los Angeles Clippers,New York Knicks,99.0,78.0,21.0,True
+2014-12-31,1.59,2.46,Indiana Pacers,Miami Heat,106.0,95.0,11.0,True
+2014-12-31,2.09,1.78,Boston Celtics,Sacramento Kings,106.0,84.0,22.0,True
+2014-12-31,1.02,16.85,Golden State Warriors,Philadelphia 76ers,126.0,86.0,40.0,True
+2014-12-31,1.62,2.38,Portland Trail Blazers,Toronto Raptors,102.0,97.0,5.0,True
+2014-12-31,1.43,2.92,Denver Nuggets,Los Angeles Lakers,103.0,111.0,-8.0,False
+2014-12-31,1.34,3.41,Utah Jazz,Minnesota Timberwolves,100.0,94.0,6.0,True
+2014-12-31,1.48,2.75,Dallas Mavericks,Washington Wizards,114.0,87.0,27.0,True
+2014-12-31,1.18,5.23,Chicago Bulls,Brooklyn Nets,82.0,96.0,-14.0,False
+2014-12-31,1.88,1.96,Memphis Grizzlies,San Antonio Spurs,95.0,87.0,8.0,True
+2014-12-31,1.81,2.05,New Orleans Pelicans,Phoenix Suns,110.0,106.0,4.0,True
+2014-12-31,1.36,3.28,Atlanta Hawks,Cleveland Cavaliers,109.0,101.0,8.0,True
+2014-12-31,2.03,1.83,Orlando Magic,Detroit Pistons,86.0,109.0,-23.0,False
+2014-12-30,1.1,7.64,Los Angeles Clippers,Utah Jazz,101.0,97.0,4.0,True
+2014-12-30,1.59,2.45,Houston Rockets,Washington Wizards,103.0,104.0,-1.0,False
+2014-12-29,1.89,1.96,Brooklyn Nets,Sacramento Kings,107.0,99.0,8.0,True
+2014-12-29,1.44,2.91,Miami Heat,Orlando Magic,101.0,102.0,-1.0,False
+2014-12-29,1.68,2.26,Charlotte Hornets,Milwaukee Bucks,94.0,104.0,-10.0,False
+2014-12-29,2.74,1.48,Indiana Pacers,Chicago Bulls,90.0,92.0,-2.0,False
+2014-12-28,2.77,1.47,Los Angeles Lakers,Phoenix Suns,107.0,116.0,-9.0,False
+2014-12-28,2.22,1.7,Denver Nuggets,Toronto Raptors,102.0,116.0,-14.0,False
+2014-12-28,1.12,7.0,Portland Trail Blazers,New York Knicks,101.0,79.0,22.0,True
+2014-12-28,1.76,2.13,Dallas Mavericks,Oklahoma City Thunder,112.0,107.0,5.0,True
+2014-12-28,1.85,2.0,San Antonio Spurs,Houston Rockets,110.0,106.0,4.0,True
+2014-12-28,1.29,3.81,Cleveland Cavaliers,Detroit Pistons,80.0,103.0,-23.0,False
+2014-12-28,1.01,22.05,Golden State Warriors,Minnesota Timberwolves,110.0,97.0,13.0,True
+2014-12-28,1.4,3.06,Sacramento Kings,New York Knicks,135.0,129.0,6.0,True
+2014-12-28,1.17,5.36,Utah Jazz,Philadelphia 76ers,88.0,71.0,17.0,True
+2014-12-28,2.58,1.54,Milwaukee Bucks,Atlanta Hawks,85.0,90.0,-5.0,False
+2014-12-28,1.65,2.33,Brooklyn Nets,Indiana Pacers,85.0,110.0,-25.0,False
+2014-12-28,1.18,5.14,Chicago Bulls,New Orleans Pelicans,107.0,100.0,7.0,True
+2014-12-28,2.37,1.62,Miami Heat,Memphis Grizzlies,95.0,103.0,-8.0,False
+2014-12-28,1.39,3.14,Charlotte Hornets,Orlando Magic,94.0,102.0,-8.0,False
+2014-12-28,1.19,5.07,Washington Wizards,Boston Celtics,101.0,88.0,13.0,True
+2014-12-28,1.52,2.63,Los Angeles Clippers,Toronto Raptors,98.0,110.0,-12.0,False
+2014-12-27,1.1,8.01,Portland Trail Blazers,Philadelphia 76ers,114.0,93.0,21.0,True
+2014-12-27,2.76,1.47,Sacramento Kings,Phoenix Suns,106.0,115.0,-9.0,False
+2014-12-27,1.16,5.56,Denver Nuggets,Minnesota Timberwolves,106.0,102.0,4.0,True
+2014-12-27,1.09,8.64,Dallas Mavericks,Los Angeles Lakers,102.0,98.0,4.0,True
+2014-12-27,1.8,2.07,Memphis Grizzlies,Houston Rockets,111.0,117.0,-6.0,False
+2014-12-27,1.69,2.25,New Orleans Pelicans,San Antonio Spurs,97.0,90.0,7.0,True
+2014-12-27,1.35,3.38,Oklahoma City Thunder,Charlotte Hornets,98.0,75.0,23.0,True
+2014-12-27,1.21,4.67,Atlanta Hawks,Milwaukee Bucks,77.0,107.0,-30.0,False
+2014-12-27,2.31,1.66,Detroit Pistons,Indiana Pacers,119.0,109.0,10.0,True
+2014-12-27,2.49,1.58,Orlando Magic,Cleveland Cavaliers,89.0,98.0,-9.0,False
+2014-12-27,1.78,2.09,Boston Celtics,Brooklyn Nets,107.0,109.0,-2.0,False
+2014-12-26,1.76,2.13,Los Angeles Clippers,Golden State Warriors,100.0,86.0,14.0,True
+2014-12-26,1.12,6.86,Chicago Bulls,Los Angeles Lakers,113.0,93.0,20.0,True
+2014-12-26,3.1,1.4,Miami Heat,Cleveland Cavaliers,101.0,91.0,10.0,True
+2014-12-26,1.38,3.18,San Antonio Spurs,Oklahoma City Thunder,106.0,114.0,-8.0,False
+2014-12-26,2.8,1.46,New York Knicks,Washington Wizards,91.0,102.0,-11.0,False
+2014-12-24,5.82,1.15,Los Angeles Lakers,Golden State Warriors,115.0,105.0,10.0,True
+2014-12-24,1.85,2.0,Phoenix Suns,Dallas Mavericks,124.0,115.0,9.0,True
+2014-12-24,1.43,2.93,Milwaukee Bucks,Charlotte Hornets,101.0,108.0,-7.0,False
+2014-12-24,1.53,2.61,Oklahoma City Thunder,Portland Trail Blazers,111.0,115.0,-4.0,False
+2014-12-24,1.79,2.08,Atlanta Hawks,Los Angeles Clippers,107.0,104.0,3.0,True
+2014-12-24,1.58,2.48,Brooklyn Nets,Denver Nuggets,102.0,96.0,6.0,True
+2014-12-24,1.29,3.82,Miami Heat,Philadelphia 76ers,87.0,91.0,-4.0,False
+2014-12-24,1.05,12.15,Cleveland Cavaliers,Minnesota Timberwolves,125.0,104.0,21.0,True
+2014-12-24,2.03,1.83,Indiana Pacers,New Orleans Pelicans,96.0,84.0,12.0,True
+2014-12-24,1.78,2.09,Orlando Magic,Boston Celtics,100.0,95.0,5.0,True
+2014-12-24,1.68,2.26,Washington Wizards,Chicago Bulls,91.0,99.0,-8.0,False
+2014-12-23,1.12,6.98,Golden State Warriors,Sacramento Kings,128.0,108.0,20.0,True
+2014-12-23,1.54,2.59,Dallas Mavericks,Atlanta Hawks,102.0,105.0,-3.0,False
+2014-12-23,1.89,1.95,San Antonio Spurs,Los Angeles Clippers,125.0,118.0,7.0,True
+2014-12-22,1.56,2.54,Chicago Bulls,Toronto Raptors,129.0,120.0,9.0,True
+2014-12-22,1.49,2.71,Houston Rockets,Portland Trail Blazers,110.0,95.0,15.0,True
+2014-12-22,1.24,4.28,Memphis Grizzlies,Utah Jazz,91.0,97.0,-6.0,False
+2014-12-22,1.73,2.18,Charlotte Hornets,Denver Nuggets,110.0,82.0,28.0,True
+2014-12-21,2.45,1.59,Minnesota Timberwolves,Indiana Pacers,96.0,100.0,-4.0,False
+2014-12-21,1.32,3.58,Oklahoma City Thunder,New Orleans Pelicans,99.0,101.0,-2.0,False
+2014-12-21,1.74,2.15,Brooklyn Nets,Detroit Pistons,110.0,105.0,5.0,True
+2014-12-21,2.37,1.63,Miami Heat,Boston Celtics,100.0,84.0,16.0,True
+2014-12-21,1.21,4.61,Orlando Magic,Philadelphia 76ers,88.0,96.0,-8.0,False
+2014-12-21,1.32,3.57,Sacramento Kings,Los Angeles Lakers,108.0,101.0,7.0,True
+2014-12-21,1.42,2.99,Washington Wizards,Phoenix Suns,92.0,104.0,-12.0,False
+2014-12-21,1.51,2.65,Cleveland Cavaliers,Memphis Grizzlies,105.0,91.0,14.0,True
+2014-12-21,1.09,8.34,Toronto Raptors,New York Knicks,118.0,108.0,10.0,True
+2014-12-21,1.18,5.36,Los Angeles Clippers,Milwaukee Bucks,106.0,102.0,4.0,True
+2014-12-21,1.64,2.33,Denver Nuggets,Indiana Pacers,76.0,73.0,3.0,True
+2014-12-21,1.15,6.01,Dallas Mavericks,San Antonio Spurs,99.0,93.0,6.0,True
+2014-12-21,1.47,2.78,Houston Rockets,Atlanta Hawks,97.0,104.0,-7.0,False
+2014-12-21,1.6,2.43,Charlotte Hornets,Utah Jazz,104.0,86.0,18.0,True
+2014-12-21,1.46,2.82,New Orleans Pelicans,Portland Trail Blazers,88.0,114.0,-26.0,False
+2014-12-21,3.06,1.41,New York Knicks,Phoenix Suns,90.0,99.0,-9.0,False
+2014-12-20,3.01,1.41,Los Angeles Lakers,Oklahoma City Thunder,103.0,104.0,-1.0,False
+2014-12-20,2.39,1.61,Denver Nuggets,Los Angeles Clippers,109.0,106.0,3.0,True
+2014-12-20,1.36,3.29,Memphis Grizzlies,Chicago Bulls,97.0,103.0,-6.0,False
+2014-12-20,1.51,2.66,San Antonio Spurs,Portland Trail Blazers,119.0,129.0,-10.0,False
+2014-12-20,1.39,3.13,Boston Celtics,Minnesota Timberwolves,114.0,98.0,16.0,True
+2014-12-20,1.14,6.28,Cleveland Cavaliers,Brooklyn Nets,95.0,91.0,4.0,True
+2014-12-20,3.66,1.31,Detroit Pistons,Toronto Raptors,100.0,110.0,-10.0,False
+2014-12-20,3.04,1.41,Miami Heat,Washington Wizards,103.0,105.0,-2.0,False
+2014-12-20,1.57,2.51,Orlando Magic,Utah Jazz,94.0,101.0,-7.0,False
+2014-12-20,2.56,1.52,Philadelphia 76ers,Charlotte Hornets,91.0,109.0,-18.0,False
+2014-12-19,1.71,2.21,Golden State Warriors,Oklahoma City Thunder,114.0,109.0,5.0,True
+2014-12-19,1.3,3.73,Sacramento Kings,Milwaukee Bucks,107.0,108.0,-1.0,False
+2014-12-19,1.49,2.71,Houston Rockets,New Orleans Pelicans,90.0,99.0,-9.0,False
+2014-12-19,1.08,8.87,Chicago Bulls,New York Knicks,103.0,97.0,6.0,True
+2014-12-18,2.27,1.68,Denver Nuggets,Houston Rockets,111.0,115.0,-4.0,False
+2014-12-18,1.13,6.42,Los Angeles Clippers,Indiana Pacers,102.0,100.0,2.0,True
+2014-12-18,1.18,5.17,Portland Trail Blazers,Milwaukee Bucks,104.0,97.0,7.0,True
+2014-12-18,1.65,2.34,San Antonio Spurs,Memphis Grizzlies,116.0,117.0,-1.0,False
+2014-12-18,1.1,7.79,Toronto Raptors,Brooklyn Nets,105.0,89.0,16.0,True
+2014-12-18,1.6,2.44,Boston Celtics,Orlando Magic,109.0,92.0,17.0,True
+2014-12-18,3.54,1.32,Detroit Pistons,Dallas Mavericks,106.0,117.0,-11.0,False
+2014-12-18,1.6,2.43,Miami Heat,Utah Jazz,87.0,105.0,-18.0,False
+2014-12-18,2.26,1.68,Charlotte Hornets,Phoenix Suns,106.0,111.0,-5.0,False
+2014-12-18,1.33,3.51,Cleveland Cavaliers,Atlanta Hawks,98.0,127.0,-29.0,False
+2014-12-17,4.01,1.26,Sacramento Kings,Oklahoma City Thunder,92.0,104.0,-12.0,False
+2014-12-17,1.63,2.37,Memphis Grizzlies,Golden State Warriors,105.0,98.0,7.0,True
+2014-12-17,1.17,5.42,New Orleans Pelicans,Utah Jazz,119.0,111.0,8.0,True
+2014-12-17,3.73,1.3,New York Knicks,Dallas Mavericks,87.0,107.0,-20.0,False
+2014-12-17,1.38,3.2,Brooklyn Nets,Miami Heat,91.0,95.0,-4.0,False
+2014-12-17,1.09,8.23,Washington Wizards,Minnesota Timberwolves,109.0,95.0,14.0,True
+2014-12-16,1.1,7.56,Los Angeles Clippers,Detroit Pistons,113.0,91.0,22.0,True
+2014-12-16,1.25,4.15,Portland Trail Blazers,San Antonio Spurs,108.0,95.0,13.0,True
+2014-12-16,1.46,2.82,Phoenix Suns,Milwaukee Bucks,94.0,96.0,-2.0,False
+2014-12-16,1.73,2.18,Atlanta Hawks,Chicago Bulls,93.0,86.0,7.0,True
+2014-12-16,1.33,3.5,Toronto Raptors,Orlando Magic,95.0,82.0,13.0,True
+2014-12-16,1.14,6.05,Cleveland Cavaliers,Charlotte Hornets,97.0,88.0,9.0,True
+2014-12-16,1.49,2.7,Indiana Pacers,Los Angeles Lakers,110.0,91.0,19.0,True
+2014-12-16,2.74,1.48,Philadelphia 76ers,Boston Celtics,87.0,105.0,-18.0,False
+2014-12-14,2.79,1.47,Denver Nuggets,San Antonio Spurs,91.0,99.0,-8.0,False
+2014-12-14,3.47,1.33,New York Knicks,Toronto Raptors,90.0,95.0,-5.0,False
+2014-12-14,2.43,1.6,Minnesota Timberwolves,Los Angeles Lakers,94.0,100.0,-6.0,False
+2014-12-14,1.3,3.71,Oklahoma City Thunder,Phoenix Suns,112.0,88.0,24.0,True
+2014-12-14,3.39,1.34,Miami Heat,Chicago Bulls,75.0,93.0,-18.0,False
+2014-12-14,3.41,1.34,New Orleans Pelicans,Golden State Warriors,122.0,128.0,-6.0,False
+2014-12-14,1.13,6.65,Washington Wizards,Utah Jazz,93.0,84.0,9.0,True
+2014-12-14,1.44,2.92,Sacramento Kings,Detroit Pistons,90.0,95.0,-5.0,False
+2014-12-14,1.32,3.52,Houston Rockets,Denver Nuggets,108.0,96.0,12.0,True
+2014-12-14,3.02,1.41,Milwaukee Bucks,Los Angeles Clippers,111.0,106.0,5.0,True
+2014-12-14,5.6,1.16,Philadelphia 76ers,Memphis Grizzlies,115.0,120.0,-5.0,False
+2014-12-14,1.56,2.53,Charlotte Hornets,Brooklyn Nets,87.0,114.0,-27.0,False
+2014-12-14,2.78,1.47,Indiana Pacers,Portland Trail Blazers,85.0,95.0,-10.0,False
+2014-12-14,2.32,1.65,Orlando Magic,Atlanta Hawks,100.0,99.0,1.0,True
+2014-12-14,1.93,1.91,Dallas Mavericks,Golden State Warriors,98.0,105.0,-7.0,False
+2014-12-12,1.1,7.75,San Antonio Spurs,Los Angeles Lakers,110.0,112.0,-2.0,False
+2014-12-12,1.19,5.03,Phoenix Suns,Detroit Pistons,103.0,105.0,-2.0,False
+2014-12-12,1.8,2.06,Utah Jazz,Miami Heat,95.0,100.0,-5.0,False
+2014-12-12,1.17,5.46,Memphis Grizzlies,Charlotte Hornets,113.0,107.0,6.0,True
+2014-12-12,4.3,1.24,Minnesota Timberwolves,Oklahoma City Thunder,92.0,111.0,-19.0,False
+2014-12-12,1.84,2.03,New Orleans Pelicans,Cleveland Cavaliers,119.0,114.0,5.0,True
+2014-12-12,1.21,4.68,Atlanta Hawks,Orlando Magic,87.0,81.0,6.0,True
+2014-12-12,1.38,3.23,Boston Celtics,New York Knicks,95.0,101.0,-6.0,False
+2014-12-12,1.33,3.44,Brooklyn Nets,Philadelphia 76ers,88.0,70.0,18.0,True
+2014-12-12,1.22,4.52,Toronto Raptors,Indiana Pacers,106.0,94.0,12.0,True
+2014-12-12,1.72,2.18,Chicago Bulls,Portland Trail Blazers,115.0,106.0,9.0,True
+2014-12-12,2.21,1.7,Washington Wizards,Los Angeles Clippers,104.0,96.0,8.0,True
+2014-12-12,1.93,1.91,Sacramento Kings,Houston Rockets,109.0,113.0,-4.0,False
+2014-12-12,1.35,3.34,Oklahoma City Thunder,Cleveland Cavaliers,103.0,94.0,9.0,True
+2014-12-11,1.44,2.91,Denver Nuggets,Miami Heat,102.0,82.0,20.0,True
+2014-12-11,1.23,4.41,Golden State Warriors,Houston Rockets,105.0,93.0,12.0,True
+2014-12-11,1.17,5.3,San Antonio Spurs,New York Knicks,109.0,95.0,14.0,True
+2014-12-11,1.14,6.11,Chicago Bulls,Brooklyn Nets,105.0,80.0,25.0,True
+2014-12-11,1.31,3.64,Dallas Mavericks,New Orleans Pelicans,112.0,107.0,5.0,True
+2014-12-11,5.96,1.15,Minnesota Timberwolves,Portland Trail Blazers,90.0,82.0,8.0,True
+2014-12-11,1.07,9.33,Atlanta Hawks,Philadelphia 76ers,95.0,79.0,16.0,True
+2014-12-11,1.66,2.29,Charlotte Hornets,Boston Celtics,96.0,87.0,9.0,True
+2014-12-11,3.35,1.35,Indiana Pacers,Los Angeles Clippers,96.0,103.0,-7.0,False
+2014-12-11,2.84,1.46,Orlando Magic,Washington Wizards,89.0,91.0,-2.0,False
+2014-12-10,1.62,2.39,Los Angeles Lakers,Sacramento Kings,98.0,95.0,3.0,True
+2014-12-10,1.54,2.59,Phoenix Suns,Miami Heat,97.0,103.0,-6.0,False
+2014-12-10,4.96,1.19,Utah Jazz,San Antonio Spurs,100.0,96.0,4.0,True
+2014-12-09,1.68,2.26,Memphis Grizzlies,Dallas Mavericks,114.0,105.0,9.0,True
+2014-12-09,1.38,3.22,New Orleans Pelicans,New York Knicks,104.0,93.0,11.0,True
+2014-12-09,1.16,5.57,Oklahoma City Thunder,Milwaukee Bucks,114.0,101.0,13.0,True
+2014-12-09,4.13,1.25,Detroit Pistons,Portland Trail Blazers,86.0,98.0,-12.0,False
+2014-12-09,1.37,3.25,Cleveland Cavaliers,Toronto Raptors,105.0,101.0,4.0,True
+2014-12-09,1.28,3.86,Los Angeles Clippers,Phoenix Suns,121.0,120.0,1.0,True
+2014-12-09,1.45,2.85,Sacramento Kings,Utah Jazz,101.0,92.0,9.0,True
+2014-12-09,12.71,1.04,Minnesota Timberwolves,Golden State Warriors,86.0,102.0,-16.0,False
+2014-12-09,4.26,1.24,Brooklyn Nets,Cleveland Cavaliers,88.0,110.0,-22.0,False
+2014-12-09,1.19,5.03,Toronto Raptors,Denver Nuggets,112.0,107.0,5.0,True
+2014-12-09,1.9,1.94,Indiana Pacers,Atlanta Hawks,92.0,108.0,-16.0,False
+2014-12-09,1.22,4.5,Washington Wizards,Boston Celtics,133.0,132.0,1.0,True
+2014-12-07,2.26,1.68,Los Angeles Lakers,New Orleans Pelicans,87.0,104.0,-17.0,False
+2014-12-07,1.21,4.61,Dallas Mavericks,Milwaukee Bucks,125.0,102.0,23.0,True
+2014-12-07,3.3,1.36,New York Knicks,Portland Trail Blazers,99.0,103.0,-4.0,False
+2014-12-07,5.43,1.17,Detroit Pistons,Oklahoma City Thunder,94.0,96.0,-2.0,False
+2014-12-07,1.28,3.9,Memphis Grizzlies,Miami Heat,103.0,87.0,16.0,True
+2014-12-07,1.4,3.08,Atlanta Hawks,Denver Nuggets,96.0,84.0,12.0,True
+2014-12-07,2.46,1.59,Boston Celtics,Washington Wizards,101.0,93.0,8.0,True
+2014-12-07,1.21,4.7,Los Angeles Clippers,New Orleans Pelicans,120.0,100.0,20.0,True
+2014-12-07,1.4,3.08,Sacramento Kings,Orlando Magic,96.0,105.0,-9.0,False
+2014-12-07,1.06,10.63,San Antonio Spurs,Minnesota Timberwolves,123.0,101.0,22.0,True
+2014-12-07,2.19,1.72,Chicago Bulls,Golden State Warriors,102.0,112.0,-10.0,False
+2014-12-07,2.12,1.76,Houston Rockets,Phoenix Suns,100.0,95.0,5.0,True
+2014-12-07,1.19,5.04,Detroit Pistons,Philadelphia 76ers,101.0,108.0,-7.0,False
+2014-12-06,1.63,2.36,Sacramento Kings,Indiana Pacers,102.0,101.0,1.0,True
+2014-12-06,1.47,2.76,Utah Jazz,Orlando Magic,93.0,98.0,-5.0,False
+2014-12-06,1.41,3.02,Dallas Mavericks,Phoenix Suns,106.0,118.0,-12.0,False
+2014-12-06,2.06,1.8,Milwaukee Bucks,Miami Heat,109.0,85.0,24.0,True
+2014-12-06,1.84,2.01,Memphis Grizzlies,San Antonio Spurs,101.0,107.0,-6.0,False
+2014-12-06,3.62,1.31,Minnesota Timberwolves,Houston Rockets,112.0,114.0,-2.0,False
+2014-12-06,1.64,2.32,Boston Celtics,Los Angeles Lakers,113.0,96.0,17.0,True
+2014-12-06,1.98,1.86,Brooklyn Nets,Atlanta Hawks,75.0,98.0,-23.0,False
+2014-12-06,1.53,2.61,Toronto Raptors,Cleveland Cavaliers,91.0,105.0,-14.0,False
+2014-12-06,1.49,2.7,Charlotte Hornets,New York Knicks,103.0,102.0,1.0,True
+2014-12-06,9.49,1.07,Philadelphia 76ers,Oklahoma City Thunder,91.0,103.0,-12.0,False
+2014-12-06,1.54,2.59,Washington Wizards,Denver Nuggets,119.0,89.0,30.0,True
+2014-12-05,1.2,4.8,Golden State Warriors,New Orleans Pelicans,112.0,85.0,27.0,True
+2014-12-05,1.23,4.42,Portland Trail Blazers,Indiana Pacers,88.0,82.0,6.0,True
+2014-12-05,3.81,1.29,New York Knicks,Cleveland Cavaliers,87.0,90.0,-3.0,False
+2014-12-04,1.04,13.53,Los Angeles Clippers,Orlando Magic,114.0,86.0,28.0,True
+2014-12-04,2.54,1.56,Utah Jazz,Toronto Raptors,104.0,123.0,-19.0,False
+2014-12-04,2.81,1.46,Houston Rockets,Memphis Grizzlies,105.0,96.0,9.0,True
+2014-12-04,2.49,1.58,Milwaukee Bucks,Dallas Mavericks,105.0,107.0,-2.0,False
+2014-12-04,1.34,3.4,Minnesota Timberwolves,Philadelphia 76ers,77.0,85.0,-8.0,False
+2014-12-04,1.5,2.69,Boston Celtics,Detroit Pistons,109.0,102.0,7.0,True
+2014-12-04,4.37,1.23,Brooklyn Nets,San Antonio Spurs,95.0,93.0,2.0,True
+2014-12-04,1.5,2.69,Miami Heat,Atlanta Hawks,102.0,112.0,-10.0,False
+2014-12-04,2.5,1.58,Charlotte Hornets,Chicago Bulls,95.0,102.0,-7.0,False
+2014-12-04,1.22,4.49,Washington Wizards,Los Angeles Lakers,111.0,95.0,16.0,True
+2014-12-03,1.05,12.57,Golden State Warriors,Orlando Magic,98.0,97.0,1.0,True
+2014-12-03,2.24,1.69,Sacramento Kings,Toronto Raptors,109.0,117.0,-8.0,False
+2014-12-03,2.36,1.62,Denver Nuggets,Portland Trail Blazers,103.0,105.0,-2.0,False
+2014-12-03,1.48,2.75,Phoenix Suns,Indiana Pacers,116.0,99.0,17.0,True
+2014-12-03,1.83,2.02,Chicago Bulls,Dallas Mavericks,129.0,132.0,-3.0,False
+2014-12-03,2.4,1.61,New Orleans Pelicans,Oklahoma City Thunder,112.0,104.0,8.0,True
+2014-12-03,1.33,3.47,Atlanta Hawks,Boston Celtics,109.0,105.0,4.0,True
+2014-12-03,1.79,2.07,Detroit Pistons,Los Angeles Lakers,96.0,106.0,-10.0,False
+2014-12-03,1.98,1.86,New York Knicks,Brooklyn Nets,93.0,98.0,-5.0,False
+2014-12-03,1.13,6.54,Cleveland Cavaliers,Milwaukee Bucks,111.0,108.0,3.0,True
+2014-12-02,1.05,13.11,Los Angeles Clippers,Minnesota Timberwolves,127.0,101.0,26.0,True
+2014-12-02,2.47,1.58,Utah Jazz,Denver Nuggets,101.0,103.0,-2.0,False
+2014-12-02,6.63,1.13,Philadelphia 76ers,San Antonio Spurs,103.0,109.0,-6.0,False
+2014-12-02,1.51,2.66,Washington Wizards,Miami Heat,107.0,86.0,21.0,True
+2014-11-30,3.57,1.32,Los Angeles Lakers,Toronto Raptors,129.0,122.0,7.0,True
+2014-11-30,1.07,9.48,Portland Trail Blazers,Minnesota Timberwolves,107.0,93.0,14.0,True
+2014-11-30,1.2,4.78,Phoenix Suns,Orlando Magic,90.0,93.0,-3.0,False
+2014-11-30,2.27,1.68,New York Knicks,Miami Heat,79.0,86.0,-7.0,False
+2014-11-30,2.74,1.48,Sacramento Kings,Memphis Grizzlies,85.0,97.0,-12.0,False
+2014-11-30,4.43,1.23,Detroit Pistons,Golden State Warriors,93.0,104.0,-11.0,False
+2014-11-30,2.24,1.69,Brooklyn Nets,Chicago Bulls,84.0,102.0,-18.0,False
+2014-11-30,3.92,1.28,Boston Celtics,San Antonio Spurs,89.0,111.0,-22.0,False
+2014-11-29,1.61,2.42,Milwaukee Bucks,Houston Rockets,103.0,117.0,-14.0,False
+2014-11-29,2.84,1.45,Utah Jazz,Los Angeles Clippers,96.0,112.0,-16.0,False
+2014-11-29,1.33,3.45,Atlanta Hawks,Charlotte Hornets,105.0,75.0,30.0,True
+2014-11-29,1.18,5.14,Cleveland Cavaliers,Indiana Pacers,109.0,97.0,12.0,True
+2014-11-29,8.03,1.1,Philadelphia 76ers,Dallas Mavericks,103.0,110.0,-7.0,False
+2014-11-29,1.58,2.49,Washington Wizards,New Orleans Pelicans,83.0,80.0,3.0,True
+2014-11-29,1.42,2.92,Los Angeles Lakers,Minnesota Timberwolves,119.0,120.0,-1.0,False
+2014-11-29,1.61,2.4,Portland Trail Blazers,Memphis Grizzlies,99.0,112.0,-13.0,False
+2014-11-29,1.78,2.09,Denver Nuggets,Phoenix Suns,122.0,97.0,25.0,True
+2014-11-29,1.14,6.02,San Antonio Spurs,Sacramento Kings,112.0,104.0,8.0,True
+2014-11-29,2.61,1.53,Houston Rockets,Los Angeles Clippers,85.0,102.0,-17.0,False
+2014-11-29,1.47,2.77,Indiana Pacers,Orlando Magic,98.0,83.0,15.0,True
+2014-11-29,1.26,4.03,Oklahoma City Thunder,New York Knicks,105.0,78.0,27.0,True
+2014-11-29,1.7,2.22,Atlanta Hawks,New Orleans Pelicans,100.0,91.0,9.0,True
+2014-11-29,1.75,2.13,Detroit Pistons,Milwaukee Bucks,88.0,104.0,-16.0,False
+2014-11-29,1.6,2.44,Toronto Raptors,Dallas Mavericks,102.0,106.0,-4.0,False
+2014-11-29,4.43,1.23,Charlotte Hornets,Golden State Warriors,101.0,106.0,-5.0,False
+2014-11-29,2.41,1.61,Boston Celtics,Chicago Bulls,102.0,109.0,-7.0,False
+2014-11-27,3.57,1.32,Los Angeles Lakers,Memphis Grizzlies,93.0,99.0,-6.0,False
+2014-11-27,1.3,3.68,Phoenix Suns,Denver Nuggets,120.0,112.0,8.0,True
+2014-11-27,1.08,8.98,San Antonio Spurs,Indiana Pacers,106.0,100.0,6.0,True
+2014-11-27,1.53,2.6,Houston Rockets,Sacramento Kings,102.0,89.0,13.0,True
+2014-11-27,2.01,1.84,Minnesota Timberwolves,Milwaukee Bucks,86.0,103.0,-17.0,False
+2014-11-27,1.53,2.61,Oklahoma City Thunder,Utah Jazz,97.0,82.0,15.0,True
+2014-11-27,2.43,1.6,Atlanta Hawks,Toronto Raptors,115.0,126.0,-11.0,False
+2014-11-27,1.06,11.02,Dallas Mavericks,New York Knicks,109.0,102.0,7.0,True
+2014-11-27,4.47,1.22,Detroit Pistons,Los Angeles Clippers,98.0,104.0,-6.0,False
+2014-11-27,3.03,1.41,Charlotte Hornets,Portland Trail Blazers,97.0,105.0,-8.0,False
+2014-11-26,1.29,3.75,Cleveland Cavaliers,Washington Wizards,113.0,87.0,26.0,True
+2014-11-26,4.1,1.26,Orlando Magic,Golden State Warriors,96.0,111.0,-15.0,False
+2014-11-26,3.63,1.31,Philadelphia 76ers,Brooklyn Nets,91.0,99.0,-8.0,False
+2014-11-25,1.55,2.55,Denver Nuggets,Chicago Bulls,114.0,109.0,5.0,True
+2014-11-25,1.6,2.44,Milwaukee Bucks,Detroit Pistons,98.0,86.0,12.0,True
+2014-11-25,1.39,3.14,New Orleans Pelicans,Sacramento Kings,89.0,99.0,-10.0,False
+2014-11-25,3.68,1.3,Miami Heat,Golden State Warriors,97.0,114.0,-17.0,False
+2014-11-25,1.53,2.6,Washington Wizards,Atlanta Hawks,102.0,106.0,-4.0,False
+2014-11-24,2.43,1.6,Utah Jazz,Chicago Bulls,95.0,97.0,-2.0,False
+2014-11-24,1.06,10.75,Dallas Mavericks,Indiana Pacers,100.0,111.0,-11.0,False
+2014-11-24,1.39,3.12,Houston Rockets,New York Knicks,91.0,86.0,5.0,True
+2014-11-24,1.49,2.71,Toronto Raptors,Phoenix Suns,104.0,100.0,4.0,True
+2014-11-24,2.57,1.55,Charlotte Hornets,Los Angeles Clippers,92.0,113.0,-21.0,False
+2014-11-24,1.15,5.95,Cleveland Cavaliers,Orlando Magic,106.0,74.0,32.0,True
+2014-11-24,8.59,1.09,Philadelphia 76ers,Portland Trail Blazers,104.0,114.0,-10.0,False
+2014-11-23,2.06,1.8,Los Angeles Lakers,Denver Nuggets,94.0,101.0,-7.0,False
+2014-11-23,4.04,1.26,Oklahoma City Thunder,Golden State Warriors,86.0,91.0,-5.0,False
+2014-11-23,2.74,1.49,Boston Celtics,Portland Trail Blazers,88.0,94.0,-6.0,False
+2014-11-23,1.73,2.17,Memphis Grizzlies,Los Angeles Clippers,107.0,91.0,16.0,True
+2014-11-23,1.86,1.98,Miami Heat,Charlotte Hornets,94.0,93.0,1.0,True
+2014-11-22,2.21,1.71,Utah Jazz,New Orleans Pelicans,94.0,106.0,-12.0,False
+2014-11-22,2.37,1.63,Milwaukee Bucks,Washington Wizards,100.0,111.0,-11.0,False
+2014-11-22,1.14,6.09,San Antonio Spurs,Brooklyn Nets,99.0,87.0,12.0,True
+2014-11-22,2.56,1.55,Houston Rockets,Dallas Mavericks,95.0,92.0,3.0,True
+2014-11-22,4.45,1.22,Minnesota Timberwolves,Sacramento Kings,101.0,113.0,-12.0,False
+2014-11-22,1.66,2.31,Cleveland Cavaliers,Toronto Raptors,93.0,110.0,-17.0,False
+2014-11-22,1.12,6.83,New York Knicks,Philadelphia 76ers,91.0,83.0,8.0,True
+2014-11-22,2.15,1.74,Indiana Pacers,Phoenix Suns,83.0,106.0,-23.0,False
+2014-11-22,2.05,1.81,Orlando Magic,Miami Heat,92.0,99.0,-7.0,False
+2014-11-22,1.1,7.67,Golden State Warriors,Utah Jazz,101.0,88.0,13.0,True
+2014-11-22,1.25,4.12,Portland Trail Blazers,Chicago Bulls,105.0,87.0,18.0,True
+2014-11-22,2.2,1.71,Denver Nuggets,New Orleans Pelicans,117.0,97.0,20.0,True
+2014-11-22,1.14,6.15,Dallas Mavericks,Los Angeles Lakers,140.0,106.0,34.0,True
+2014-11-22,1.37,3.2,Memphis Grizzlies,Boston Celtics,117.0,100.0,17.0,True
+2014-11-22,6.1,1.14,Minnesota Timberwolves,San Antonio Spurs,92.0,121.0,-29.0,False
+2014-11-22,1.86,1.99,Oklahoma City Thunder,Brooklyn Nets,92.0,94.0,-2.0,False
+2014-11-22,2.02,1.84,Washington Wizards,Cleveland Cavaliers,91.0,78.0,13.0,True
+2014-11-22,1.4,3.1,Atlanta Hawks,Detroit Pistons,99.0,89.0,10.0,True
+2014-11-22,1.22,4.44,Toronto Raptors,Milwaukee Bucks,124.0,82.0,42.0,True
+2014-11-22,1.58,2.47,Charlotte Hornets,Orlando Magic,100.0,105.0,-5.0,False
+2014-11-22,4.65,1.21,Philadelphia 76ers,Phoenix Suns,96.0,122.0,-26.0,False
+2014-11-21,1.68,2.26,Sacramento Kings,Chicago Bulls,103.0,88.0,15.0,True
+2014-11-21,2.55,1.55,Miami Heat,Los Angeles Clippers,93.0,110.0,-17.0,False
+2014-11-19,1.12,6.85,Houston Rockets,Los Angeles Lakers,92.0,98.0,-6.0,False
+2014-11-19,1.31,3.64,Denver Nuggets,Oklahoma City Thunder,107.0,100.0,7.0,True
+2014-11-19,1.87,1.98,Minnesota Timberwolves,New York Knicks,115.0,99.0,16.0,True
+2014-11-19,1.36,3.3,Brooklyn Nets,Milwaukee Bucks,118.0,122.0,-4.0,False
+2014-11-19,2.24,1.69,Detroit Pistons,Phoenix Suns,86.0,88.0,-2.0,False
+2014-11-19,1.45,2.91,Toronto Raptors,Memphis Grizzlies,96.0,92.0,4.0,True
+2014-11-19,3.16,1.38,Philadelphia 76ers,Boston Celtics,90.0,101.0,-11.0,False
+2014-11-19,1.81,2.06,Cleveland Cavaliers,San Antonio Spurs,90.0,92.0,-2.0,False
+2014-11-19,1.72,2.18,Indiana Pacers,Charlotte Hornets,88.0,86.0,2.0,True
+2014-11-19,2.79,1.47,Orlando Magic,Los Angeles Clippers,90.0,114.0,-24.0,False
+2014-11-19,2.23,1.69,Washington Wizards,Dallas Mavericks,102.0,105.0,-3.0,False
+2014-11-19,1.68,2.26,Sacramento Kings,New Orleans Pelicans,100.0,106.0,-6.0,False
+2014-11-19,1.66,2.29,Utah Jazz,Oklahoma City Thunder,98.0,81.0,17.0,True
+2014-11-19,1.78,2.09,Milwaukee Bucks,New York Knicks,117.0,113.0,4.0,True
+2014-11-19,1.24,4.29,Atlanta Hawks,Los Angeles Lakers,109.0,114.0,-5.0,False
+2014-11-18,1.35,3.37,Los Angeles Clippers,Chicago Bulls,89.0,105.0,-16.0,False
+2014-11-18,1.6,2.41,Portland Trail Blazers,New Orleans Pelicans,102.0,93.0,9.0,True
+2014-11-18,1.02,18.0,San Antonio Spurs,Philadelphia 76ers,100.0,75.0,25.0,True
+2014-11-18,1.53,2.61,Memphis Grizzlies,Houston Rockets,119.0,93.0,26.0,True
+2014-11-18,2.07,1.79,Boston Celtics,Phoenix Suns,114.0,118.0,-4.0,False
+2014-11-18,1.29,3.79,Brooklyn Nets,Miami Heat,83.0,95.0,-12.0,False
+2014-11-18,1.53,2.62,Detroit Pistons,Orlando Magic,93.0,107.0,-14.0,False
+2014-11-18,2.55,1.55,Charlotte Hornets,Dallas Mavericks,80.0,107.0,-27.0,False
+2014-11-18,1.11,7.36,Cleveland Cavaliers,Denver Nuggets,97.0,106.0,-9.0,False
+2014-11-16,4.1,1.25,Los Angeles Lakers,Golden State Warriors,115.0,136.0,-21.0,False
+2014-11-16,2.78,1.47,Oklahoma City Thunder,Houston Rockets,65.0,69.0,-4.0,False
+2014-11-16,1.49,2.74,Miami Heat,Milwaukee Bucks,84.0,91.0,-7.0,False
+2014-11-16,1.81,2.07,New York Knicks,Denver Nuggets,109.0,93.0,16.0,True
+2014-11-16,1.13,6.35,Golden State Warriors,Charlotte Hornets,112.0,87.0,25.0,True
+2014-11-16,1.31,3.6,Los Angeles Clippers,Phoenix Suns,120.0,107.0,13.0,True
+2014-11-16,1.69,2.24,Portland Trail Blazers,Brooklyn Nets,97.0,87.0,10.0,True
+2014-11-16,2.06,1.8,Sacramento Kings,San Antonio Spurs,94.0,91.0,3.0,True
+2014-11-16,1.12,6.98,Dallas Mavericks,Minnesota Timberwolves,131.0,117.0,14.0,True
+2014-11-16,1.21,4.68,Chicago Bulls,Indiana Pacers,90.0,99.0,-9.0,False
+2014-11-16,1.2,4.91,Memphis Grizzlies,Detroit Pistons,95.0,88.0,7.0,True
+2014-11-16,1.33,3.44,Cleveland Cavaliers,Atlanta Hawks,127.0,94.0,33.0,True
+2014-11-16,1.13,6.53,Toronto Raptors,Utah Jazz,111.0,93.0,18.0,True
+2014-11-16,1.21,4.69,Washington Wizards,Orlando Magic,98.0,93.0,5.0,True
+2014-11-15,4.37,1.23,Los Angeles Lakers,San Antonio Spurs,80.0,93.0,-13.0,False
+2014-11-15,1.36,3.28,Phoenix Suns,Charlotte Hornets,95.0,103.0,-8.0,False
+2014-11-15,1.03,16.65,Houston Rockets,Philadelphia 76ers,88.0,87.0,1.0,True
+2014-11-15,1.26,4.08,New Orleans Pelicans,Minnesota Timberwolves,139.0,91.0,48.0,True
+2014-11-15,1.66,2.3,Oklahoma City Thunder,Detroit Pistons,89.0,96.0,-7.0,False
+2014-11-15,1.52,2.62,Atlanta Hawks,Miami Heat,114.0,103.0,11.0,True
+2014-11-15,3.07,1.4,Boston Celtics,Cleveland Cavaliers,121.0,122.0,-1.0,False
+2014-11-15,1.59,2.45,New York Knicks,Utah Jazz,100.0,102.0,-2.0,False
+2014-11-15,1.68,2.25,Indiana Pacers,Denver Nuggets,87.0,108.0,-21.0,False
+2014-11-15,1.68,2.25,Orlando Magic,Milwaukee Bucks,101.0,85.0,16.0,True
+2014-11-14,1.18,5.34,Golden State Warriors,Brooklyn Nets,107.0,99.0,8.0,True
+2014-11-14,1.06,10.49,Dallas Mavericks,Philadelphia 76ers,123.0,70.0,53.0,True
+2014-11-14,1.43,2.94,Memphis Grizzlies,Sacramento Kings,111.0,110.0,1.0,True
+2014-11-14,1.74,2.15,Toronto Raptors,Chicago Bulls,93.0,100.0,-7.0,False
+2014-11-13,3.17,1.38,Minnesota Timberwolves,Houston Rockets,101.0,113.0,-12.0,False
+2014-11-13,1.71,2.21,Denver Nuggets,Portland Trail Blazers,113.0,130.0,-17.0,False
+2014-11-13,1.52,2.64,Phoenix Suns,Brooklyn Nets,112.0,104.0,8.0,True
+2014-11-13,1.15,5.85,New Orleans Pelicans,Los Angeles Lakers,109.0,102.0,7.0,True
+2014-11-13,1.31,3.58,Atlanta Hawks,Utah Jazz,100.0,97.0,3.0,True
+2014-11-12,1.31,3.62,Boston Celtics,Oklahoma City Thunder,94.0,109.0,-15.0,False
+2014-11-12,1.24,4.26,Miami Heat,Indiana Pacers,75.0,81.0,-6.0,False
+2014-11-12,1.37,3.25,New York Knicks,Orlando Magic,95.0,97.0,-2.0,False
+2014-11-12,1.38,3.21,Washington Wizards,Detroit Pistons,107.0,103.0,4.0,True
+2014-11-12,1.3,3.68,Golden State Warriors,San Antonio Spurs,100.0,113.0,-13.0,False
+2014-11-12,1.34,3.4,Portland Trail Blazers,Charlotte Hornets,102.0,100.0,2.0,True
+2014-11-12,1.27,3.93,Dallas Mavericks,Sacramento Kings,106.0,98.0,8.0,True
+2014-11-12,1.17,5.49,Memphis Grizzlies,Los Angeles Lakers,107.0,102.0,5.0,True
+2014-11-12,1.72,2.18,Milwaukee Bucks,Oklahoma City Thunder,85.0,78.0,7.0,True
+2014-11-12,1.14,6.24,Toronto Raptors,Orlando Magic,104.0,100.0,4.0,True
+2014-11-11,1.76,2.12,Los Angeles Clippers,San Antonio Spurs,85.0,89.0,-4.0,False
+2014-11-11,1.17,5.29,Chicago Bulls,Detroit Pistons,102.0,91.0,11.0,True
+2014-11-11,2.11,1.77,New York Knicks,Atlanta Hawks,85.0,91.0,-6.0,False
+2014-11-11,1.42,2.99,Cleveland Cavaliers,New Orleans Pelicans,118.0,111.0,7.0,True
+2014-11-11,1.7,2.22,Indiana Pacers,Utah Jazz,97.0,86.0,11.0,True
+2014-11-09,2.18,1.72,Los Angeles Lakers,Charlotte Hornets,107.0,92.0,15.0,True
+2014-11-09,1.21,4.74,Portland Trail Blazers,Denver Nuggets,116.0,100.0,16.0,True
+2014-11-09,1.71,2.21,Phoenix Suns,Golden State Warriors,107.0,95.0,12.0,True
+2014-11-09,1.28,3.88,Dallas Mavericks,Miami Heat,96.0,105.0,-9.0,False
+2014-11-09,2.15,1.74,Oklahoma City Thunder,Sacramento Kings,101.0,93.0,8.0,True
+2014-11-09,1.06,10.4,Toronto Raptors,Philadelphia 76ers,120.0,88.0,32.0,True
+2014-11-09,1.59,2.45,Detroit Pistons,Utah Jazz,96.0,97.0,-1.0,False
+2014-11-09,1.24,4.31,Brooklyn Nets,Orlando Magic,104.0,96.0,8.0,True
+2014-11-08,2.71,1.49,Milwaukee Bucks,Memphis Grizzlies,93.0,92.0,1.0,True
+2014-11-08,1.3,3.67,San Antonio Spurs,New Orleans Pelicans,99.0,100.0,-1.0,False
+2014-11-08,1.2,4.95,Chicago Bulls,Boston Celtics,101.0,106.0,-5.0,False
+2014-11-08,2.34,1.64,Houston Rockets,Golden State Warriors,87.0,98.0,-11.0,False
+2014-11-08,1.36,3.32,Atlanta Hawks,New York Knicks,103.0,96.0,7.0,True
+2014-11-08,1.29,3.81,Miami Heat,Minnesota Timberwolves,102.0,92.0,10.0,True
+2014-11-08,2.35,1.63,Indiana Pacers,Washington Wizards,90.0,97.0,-7.0,False
+2014-11-08,1.53,2.62,Los Angeles Clippers,Portland Trail Blazers,106.0,102.0,4.0,True
+2014-11-08,3.12,1.4,Denver Nuggets,Cleveland Cavaliers,101.0,110.0,-9.0,False
+2014-11-08,1.48,2.74,Phoenix Suns,Sacramento Kings,112.0,114.0,-2.0,False
+2014-11-08,2.25,1.68,Utah Jazz,Dallas Mavericks,82.0,105.0,-23.0,False
+2014-11-08,3.57,1.32,Oklahoma City Thunder,Memphis Grizzlies,89.0,91.0,-2.0,False
+2014-11-08,1.42,2.96,Boston Celtics,Indiana Pacers,101.0,98.0,3.0,True
+2014-11-08,1.42,2.99,Brooklyn Nets,New York Knicks,110.0,99.0,11.0,True
+2014-11-08,1.52,2.62,Detroit Pistons,Milwaukee Bucks,98.0,95.0,3.0,True
+2014-11-08,1.61,2.42,Toronto Raptors,Washington Wizards,103.0,84.0,19.0,True
+2014-11-08,1.8,2.06,Charlotte Hornets,Atlanta Hawks,122.0,119.0,3.0,True
+2014-11-08,2.53,1.56,Orlando Magic,Minnesota Timberwolves,112.0,103.0,9.0,True
+2014-11-08,5.53,1.16,Philadelphia 76ers,Chicago Bulls,115.0,118.0,-3.0,False
+2014-11-07,1.78,2.1,Portland Trail Blazers,Dallas Mavericks,108.0,87.0,21.0,True
+2014-11-07,1.34,3.41,Houston Rockets,San Antonio Spurs,98.0,81.0,17.0,True
+2014-11-06,1.48,2.74,Golden State Warriors,Los Angeles Clippers,121.0,104.0,17.0,True
+2014-11-06,1.59,2.44,Sacramento Kings,Denver Nuggets,131.0,109.0,22.0,True
+2014-11-06,1.82,2.04,Phoenix Suns,Memphis Grizzlies,91.0,102.0,-11.0,False
+2014-11-06,2.91,1.44,Utah Jazz,Cleveland Cavaliers,102.0,100.0,2.0,True
+2014-11-06,1.25,4.14,San Antonio Spurs,Atlanta Hawks,94.0,92.0,2.0,True
+2014-11-06,2.74,1.48,Milwaukee Bucks,Chicago Bulls,86.0,95.0,-9.0,False
+2014-11-05,1.19,5.01,Washington Wizards,Indiana Pacers,96.0,94.0,2.0,True
+2014-11-05,1.76,2.12,Boston Celtics,Toronto Raptors,107.0,110.0,-3.0,False
+2014-11-05,1.47,2.76,Brooklyn Nets,Minnesota Timberwolves,91.0,98.0,-7.0,False
+2014-11-05,1.57,2.52,Detroit Pistons,New York Knicks,98.0,95.0,3.0,True
+2014-11-05,1.87,1.98,Charlotte Hornets,Miami Heat,96.0,89.0,7.0,True
+2014-11-05,2.23,1.69,Philadelphia 76ers,Orlando Magic,89.0,91.0,-2.0,False
+2014-11-05,3.06,1.41,Los Angeles Lakers,Phoenix Suns,106.0,112.0,-6.0,False
+2014-11-05,2.23,1.7,Portland Trail Blazers,Cleveland Cavaliers,101.0,82.0,19.0,True
+2014-11-05,1.16,5.62,Chicago Bulls,Orlando Magic,98.0,90.0,8.0,True
+2014-11-05,1.55,2.55,New Orleans Pelicans,Charlotte Hornets,100.0,91.0,9.0,True
+2014-11-05,1.74,2.15,Miami Heat,Houston Rockets,91.0,108.0,-17.0,False
+2014-11-05,2.05,1.81,New York Knicks,Washington Wizards,83.0,98.0,-15.0,False
+2014-11-05,1.12,6.77,Toronto Raptors,Oklahoma City Thunder,100.0,88.0,12.0,True
+2014-11-05,1.54,2.58,Indiana Pacers,Milwaukee Bucks,81.0,87.0,-6.0,False
+2014-11-04,1.19,4.97,Los Angeles Clippers,Utah Jazz,107.0,101.0,6.0,True
+2014-11-04,1.36,3.28,Denver Nuggets,Sacramento Kings,105.0,110.0,-5.0,False
+2014-11-04,1.19,5.04,Dallas Mavericks,Boston Celtics,118.0,113.0,5.0,True
+2014-11-04,1.57,2.51,Memphis Grizzlies,New Orleans Pelicans,93.0,81.0,12.0,True
+2014-11-04,1.34,3.38,Brooklyn Nets,Oklahoma City Thunder,116.0,85.0,31.0,True
+2014-11-04,6.37,1.13,Philadelphia 76ers,Houston Rockets,93.0,104.0,-11.0,False
+2014-11-02,1.66,2.31,Portland Trail Blazers,Golden State Warriors,90.0,95.0,-5.0,False
+2014-11-02,1.61,2.4,New York Knicks,Charlotte Hornets,96.0,93.0,3.0,True
+2014-11-02,1.79,2.08,Miami Heat,Toronto Raptors,107.0,102.0,5.0,True
+2014-11-02,1.2,4.85,Los Angeles Clippers,Sacramento Kings,92.0,98.0,-6.0,False
+2014-11-01,1.07,10.01,Golden State Warriors,Los Angeles Lakers,127.0,104.0,23.0,True
+2014-11-01,2.13,1.75,Utah Jazz,Phoenix Suns,118.0,91.0,27.0,True
+2014-11-01,1.3,3.67,Houston Rockets,Boston Celtics,104.0,90.0,14.0,True
+2014-11-01,2.15,1.74,Minnesota Timberwolves,Chicago Bulls,105.0,106.0,-1.0,False
+2014-11-01,2.67,1.51,Oklahoma City Thunder,Denver Nuggets,102.0,91.0,11.0,True
+2014-11-01,1.16,5.72,Atlanta Hawks,Indiana Pacers,102.0,92.0,10.0,True
+2014-11-01,1.66,2.29,Detroit Pistons,Brooklyn Nets,90.0,102.0,-12.0,False
+2014-11-01,1.66,2.3,Charlotte Hornets,Memphis Grizzlies,69.0,71.0,-2.0,False
+2014-11-01,1.95,1.89,New Orleans Pelicans,Dallas Mavericks,104.0,109.0,-5.0,False
+2014-11-01,3.05,1.4,Orlando Magic,Toronto Raptors,95.0,108.0,-13.0,False
+2014-11-01,4.68,1.21,Philadelphia 76ers,Miami Heat,96.0,114.0,-18.0,False
+2014-11-01,1.22,4.58,Washington Wizards,Milwaukee Bucks,108.0,97.0,11.0,True
+2014-10-31,6.89,1.12,Los Angeles Lakers,Los Angeles Clippers,111.0,118.0,-7.0,False
+2014-10-31,1.96,1.88,Phoenix Suns,San Antonio Spurs,94.0,89.0,5.0,True
+2014-10-31,2.63,1.52,Sacramento Kings,Portland Trail Blazers,103.0,94.0,9.0,True
+2014-10-31,1.23,4.41,Milwaukee Bucks,Philadelphia 76ers,93.0,81.0,12.0,True
+2014-10-31,1.58,2.49,Chicago Bulls,Cleveland Cavaliers,108.0,114.0,-6.0,False
+2014-10-31,3.09,1.4,Indiana Pacers,Memphis Grizzlies,89.0,97.0,-8.0,False
+2014-10-30,1.08,9.02,Los Angeles Clippers,Oklahoma City Thunder,93.0,90.0,3.0,True
+2014-10-30,1.15,5.95,Dallas Mavericks,Utah Jazz,120.0,102.0,18.0,True
+2014-10-30,1.07,9.28,Cleveland Cavaliers,New York Knicks,90.0,95.0,-5.0,False
+2014-10-30,1.45,2.83,Minnesota Timberwolves,Detroit Pistons,97.0,91.0,6.0,True
+2014-10-30,2.7,1.5,Orlando Magic,Washington Wizards,98.0,105.0,-7.0,False
+2014-10-29,1.21,4.49,Portland Trail Blazers,Oklahoma City Thunder,106.0,89.0,17.0,True
+2014-10-29,1.1,7.74,Phoenix Suns,Los Angeles Lakers,119.0,99.0,20.0,True
+2014-10-29,2.7,1.5,Sacramento Kings,Golden State Warriors,77.0,95.0,-18.0,False
+2014-10-29,1.37,3.17,Denver Nuggets,Detroit Pistons,89.0,79.0,10.0,True
+2014-10-29,2.33,1.65,Utah Jazz,Houston Rockets,93.0,104.0,-11.0,False
+2014-10-29,1.3,3.69,Memphis Grizzlies,Minnesota Timberwolves,105.0,101.0,4.0,True
+2014-10-29,2.64,1.52,New York Knicks,Chicago Bulls,80.0,104.0,-24.0,False
+2014-10-29,1.91,1.92,Boston Celtics,Brooklyn Nets,121.0,105.0,16.0,True
+2014-10-29,1.48,2.73,Miami Heat,Washington Wizards,107.0,95.0,12.0,True
+2014-10-29,1.54,2.6,Toronto Raptors,Atlanta Hawks,109.0,102.0,7.0,True
+2014-10-29,1.26,4.07,Charlotte Hornets,Milwaukee Bucks,108.0,106.0,2.0,True
+2014-10-29,1.29,3.75,Indiana Pacers,Philadelphia 76ers,103.0,91.0,12.0,True
+2014-10-28,3.4,1.34,Los Angeles Lakers,Houston Rockets,90.0,108.0,-18.0,False
+2014-10-28,1.2,4.86,New Orleans Pelicans,Orlando Magic,101.0,84.0,17.0,True
+2014-10-28,1.61,2.39,San Antonio Spurs,Dallas Mavericks,101.0,100.0,1.0,True
+2014-10-24,1.44,2.89,Golden State Warriors,Denver Nuggets,119.0,112.0,7.0,True
+2014-10-24,1.5,2.71,Los Angeles Clippers,Portland Trail Blazers,89.0,99.0,-10.0,False
+2014-10-24,2.69,1.5,Los Angeles Lakers,Sacramento Kings,92.0,93.0,-1.0,False
+2014-10-24,2.09,1.78,Utah Jazz,Phoenix Suns,100.0,105.0,-5.0,False
+2014-10-24,1.44,2.88,Chicago Bulls,Minnesota Timberwolves,112.0,113.0,-1.0,False
+2014-10-24,1.64,2.36,Houston Rockets,San Antonio Spurs,96.0,87.0,9.0,True
+2014-10-24,1.53,2.61,Memphis Grizzlies,Miami Heat,98.0,104.0,-6.0,False
+2014-10-24,1.5,2.7,Toronto Raptors,New York Knicks,83.0,80.0,3.0,True
+2014-10-24,2.69,1.5,Orlando Magic,Dallas Mavericks,92.0,117.0,-25.0,False
+2014-10-23,1.52,2.63,New Orleans Pelicans,Dallas Mavericks,88.0,85.0,3.0,True
+2014-10-23,1.44,2.86,Detroit Pistons,Philadelphia 76ers,109.0,103.0,6.0,True
+2014-10-23,1.58,2.49,Charlotte Hornets,Indiana Pacers,79.0,88.0,-9.0,False
+2014-10-22,1.55,2.54,Los Angeles Clippers,Phoenix Suns,108.0,105.0,3.0,True
+2014-10-22,2.5,1.57,Los Angeles Lakers,Portland Trail Blazers,94.0,86.0,8.0,True
+2014-10-22,1.63,2.36,San Antonio Spurs,Atlanta Hawks,107.0,117.0,-10.0,False
+2014-10-22,1.9,1.93,Memphis Grizzlies,Cleveland Cavaliers,96.0,92.0,4.0,True
+2014-10-22,1.55,2.54,Milwaukee Bucks,Minnesota Timberwolves,91.0,110.0,-19.0,False
+2014-10-22,1.5,2.66,Boston Celtics,Brooklyn Nets,100.0,86.0,14.0,True
+2014-10-22,1.62,2.38,New York Knicks,Washington Wizards,103.0,100.0,3.0,True
+2014-10-22,1.63,2.34,Orlando Magic,Houston Rockets,89.0,90.0,-1.0,False
+2014-10-21,1.52,2.63,Golden State Warriors,Los Angeles Clippers,125.0,107.0,18.0,True
+2014-10-21,2.79,1.46,Los Angeles Lakers,Phoenix Suns,108.0,114.0,-6.0,False
+2014-10-21,2.45,1.59,Denver Nuggets,Portland Trail Blazers,75.0,93.0,-18.0,False
+2014-10-21,2.17,1.73,Miami Heat,Houston Rockets,90.0,85.0,5.0,True
+2014-10-21,1.65,2.31,Minnesota Timberwolves,Indiana Pacers,107.0,89.0,18.0,True
+2014-10-21,1.67,2.26,Oklahoma City Thunder,Utah Jazz,91.0,105.0,-14.0,False
+2014-10-20,1.62,2.37,Dallas Mavericks,Memphis Grizzlies,108.0,103.0,5.0,True
+2014-10-20,1.58,2.48,San Antonio Spurs,Sacramento Kings,106.0,99.0,7.0,True
+2014-10-20,1.45,2.85,Atlanta Hawks,Charlotte Hornets,117.0,114.0,3.0,True
+2014-10-20,1.62,2.38,Brooklyn Nets,Philadelphia 76ers,99.0,88.0,11.0,True
+2014-10-20,1.6,2.42,New York Knicks,Milwaukee Bucks,107.0,120.0,-13.0,False
+2014-10-20,1.53,2.6,Cleveland Cavaliers,Chicago Bulls,107.0,98.0,9.0,True
+2014-10-20,2.49,1.57,Washington Wizards,New Orleans Pelicans,84.0,88.0,-4.0,False
+2014-10-19,2.58,1.53,Los Angeles Lakers,Utah Jazz,98.0,91.0,7.0,True
+2014-10-19,1.46,2.81,Chicago Bulls,Charlotte Hornets,101.0,96.0,5.0,True
+2014-10-19,1.61,2.39,Houston Rockets,Golden State Warriors,90.0,83.0,7.0,True
+2014-10-19,1.6,2.41,Oklahoma City Thunder,Minnesota Timberwolves,94.0,112.0,-18.0,False
+2014-10-19,1.76,2.13,Brooklyn Nets,Boston Celtics,90.0,95.0,-5.0,False
+2014-10-18,1.78,2.08,Los Angeles Clippers,Denver Nuggets,93.0,104.0,-11.0,False
+2014-10-18,1.41,3.01,San Antonio Spurs,Miami Heat,108.0,111.0,-3.0,False
+2014-10-18,1.66,2.29,Atlanta Hawks,Detroit Pistons,100.0,104.0,-4.0,False
+2014-10-18,2.03,1.82,Philadelphia 76ers,Orlando Magic,95.0,84.0,11.0,True
+2014-10-18,1.4,3.03,Indiana Pacers,Dallas Mavericks,98.0,93.0,5.0,True
+2014-10-17,1.49,2.71,Los Angeles Clippers,Utah Jazz,101.0,97.0,4.0,True
+2014-10-17,2.2,1.7,Miami Heat,Golden State Warriors,115.0,108.0,7.0,True
+2014-10-17,1.61,2.4,Minnesota Timberwolves,Milwaukee Bucks,98.0,105.0,-7.0,False
+2014-10-17,2.16,1.73,Oklahoma City Thunder,Toronto Raptors,90.0,109.0,-19.0,False
+2014-10-17,1.67,2.27,Cleveland Cavaliers,Dallas Mavericks,102.0,108.0,-6.0,False
+2014-10-17,1.84,2.01,Orlando Magic,Detroit Pistons,99.0,87.0,12.0,True
+2014-10-17,1.54,2.57,Washington Wizards,Charlotte Hornets,86.0,96.0,-10.0,False
+2014-10-16,1.83,2.02,Los Angeles Lakers,Utah Jazz,86.0,119.0,-33.0,False
+2014-10-16,1.53,2.6,Phoenix Suns,San Antonio Spurs,121.0,90.0,31.0,True
+2014-10-16,1.52,2.63,Chicago Bulls,Atlanta Hawks,85.0,84.0,1.0,True
+2014-10-16,1.59,2.44,Golden State Warriors,Denver Nuggets,104.0,101.0,3.0,True
+2014-10-16,1.56,2.53,New Orleans Pelicans,Oklahoma City Thunder,120.0,86.0,34.0,True
+2014-10-16,1.82,2.02,Philadelphia 76ers,Boston Celtics,91.0,111.0,-20.0,False
+2014-10-15,2.19,1.71,Boston Celtics,Toronto Raptors,89.0,92.0,-3.0,False
+2014-10-15,1.43,2.91,Cleveland Cavaliers,Indiana Pacers,98.0,93.0,5.0,True
+2014-10-15,1.6,2.41,Charlotte Hornets,Detroit Pistons,84.0,104.0,-20.0,False
+2014-10-15,1.72,2.18,Brooklyn Nets,Sacramento Kings,129.0,117.0,12.0,True
+2014-10-14,1.63,2.36,New Orleans Pelicans,Houston Rockets,117.0,98.0,19.0,True
+2014-10-14,1.9,1.93,Oklahoma City Thunder,Memphis Grizzlies,117.0,107.0,10.0,True
+2014-10-14,1.64,2.33,Miami Heat,Atlanta Hawks,103.0,109.0,-6.0,False
+2014-10-14,1.37,3.18,Cleveland Cavaliers,Milwaukee Bucks,106.0,100.0,6.0,True
+2014-10-14,2.27,1.67,Philadelphia 76ers,New York Knicks,77.0,84.0,-7.0,False
+2014-10-13,2.33,1.64,Utah Jazz,Los Angeles Clippers,102.0,89.0,13.0,True
+2014-10-13,1.52,2.63,Chicago Bulls,Denver Nuggets,110.0,90.0,20.0,True
+2014-10-13,1.64,2.33,Houston Rockets,Phoenix Suns,95.0,92.0,3.0,True
+2014-10-13,1.71,2.19,New York Knicks,Toronto Raptors,76.0,81.0,-5.0,False
+2014-10-13,1.54,2.59,Charlotte Hornets,Orlando Magic,99.0,97.0,2.0,True
+2014-10-12,2.37,1.62,Los Angeles Lakers,Golden State Warriors,75.0,116.0,-41.0,False
+2014-10-12,1.74,2.14,Portland Trail Blazers,Los Angeles Clippers,119.0,114.0,5.0,True
+2014-10-12,1.71,2.19,Dallas Mavericks,Indiana Pacers,106.0,98.0,8.0,True
+2014-10-12,1.65,2.32,Washington Wizards,Detroit Pistons,91.0,89.0,2.0,True
+2014-10-12,1.9,1.94,Sacramento Kings,Brooklyn Nets,95.0,97.0,-2.0,False
+2014-10-11,3.07,1.4,Milwaukee Bucks,Chicago Bulls,85.0,91.0,-6.0,False
+2014-10-11,1.6,2.44,Memphis Grizzlies,Atlanta Hawks,93.0,88.0,5.0,True
+2014-10-11,1.7,2.22,Boston Celtics,New York Knicks,80.0,96.0,-16.0,False
+2014-10-11,3.1,1.4,Miami Heat,Cleveland Cavaliers,119.0,122.0,-3.0,False
+2014-10-10,1.69,2.25,Phoenix Suns,Denver Nuggets,97.0,89.0,8.0,True
+2014-10-10,2.23,1.69,Dallas Mavericks,Oklahoma City Thunder,109.0,118.0,-9.0,False
+2014-10-10,1.53,2.63,Minnesota Timberwolves,Philadelphia 76ers,116.0,110.0,6.0,True
+2014-10-10,1.55,2.57,Toronto Raptors,Boston Celtics,116.0,109.0,7.0,True
+2014-10-10,2.19,1.72,Charlotte Hornets,Washington Wizards,99.0,86.0,13.0,True
+2014-10-10,1.53,2.62,Indiana Pacers,Orlando Magic,93.0,96.0,-3.0,False
+2014-10-09,2.51,1.57,Los Angeles Lakers,Golden State Warriors,105.0,120.0,-15.0,False
+2014-10-09,1.42,2.97,Portland Trail Blazers,Utah Jazz,105.0,109.0,-4.0,False
+2014-10-09,1.59,2.46,Houston Rockets,Memphis Grizzlies,113.0,93.0,20.0,True
+2014-10-09,1.55,2.57,Detroit Pistons,Milwaukee Bucks,94.0,80.0,14.0,True
+2014-10-08,2.01,1.84,Denver Nuggets,Oklahoma City Thunder,114.0,101.0,13.0,True
+2014-10-08,2.45,1.59,Milwaukee Bucks,Memphis Grizzlies,86.0,83.0,3.0,True
+2014-10-08,1.97,1.86,Boston Celtics,New York Knicks,106.0,86.0,20.0,True
+2014-10-08,1.8,2.06,New Orleans Pelicans,Washington Wizards,89.0,94.0,-5.0,False
+2014-10-08,2.37,1.62,Philadelphia 76ers,Charlotte Hornets,106.0,92.0,14.0,True
+2014-10-07,1.54,2.58,Los Angeles Clippers,Golden State Warriors,94.0,112.0,-18.0,False
+2014-10-07,1.77,2.1,Sacramento Kings,Toronto Raptors,113.0,106.0,7.0,True
+2014-10-07,2.45,1.59,Utah Jazz,Portland Trail Blazers,92.0,73.0,19.0,True
+2014-10-07,1.63,2.35,Dallas Mavericks,Houston Rockets,108.0,111.0,-3.0,False
+2014-10-07,1.73,2.16,Detroit Pistons,Chicago Bulls,111.0,109.0,2.0,True
+2014-10-07,1.35,3.31,Miami Heat,Orlando Magic,101.0,108.0,-7.0,False
+2014-10-07,1.58,2.47,Indiana Pacers,Minnesota Timberwolves,103.0,90.0,13.0,True
+2014-10-06,2.34,1.63,Los Angeles Lakers,Denver Nuggets,98.0,95.0,3.0,True
+2014-10-06,1.45,2.85,Chicago Bulls,Washington Wizards,81.0,85.0,-4.0,False
+2014-10-06,1.8,2.05,Atlanta Hawks,New Orleans Pelicans,93.0,87.0,6.0,True
+2014-10-06,1.54,2.59,Boston Celtics,Philadelphia 76ers,98.0,78.0,20.0,True
+2014-10-05,1.56,2.51,Toronto Raptors,Sacramento Kings,99.0,94.0,5.0,True
+2014-10-04,1.76,2.12,Miami Heat,New Orleans Pelicans,86.0,98.0,-12.0,False

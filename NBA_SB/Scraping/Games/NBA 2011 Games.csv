@@ -1,0 +1,1106 @@
+Date,Home Odds,Vis Odds,Home,Visitor,Home PTS,Vis PTS,Home Points Dif,Home Win
+2012-06-21,1.6,2.42,Miami Heat,Oklahoma City Thunder,121.0,106.0,15.0,True
+2012-06-19,1.66,2.29,Miami Heat,Oklahoma City Thunder,104.0,98.0,6.0,True
+2012-06-17,1.53,2.59,Miami Heat,Oklahoma City Thunder,91.0,85.0,6.0,True
+2012-06-14,1.46,2.78,Oklahoma City Thunder,Miami Heat,96.0,100.0,-4.0,False
+2012-06-12,1.42,2.94,Oklahoma City Thunder,Miami Heat,105.0,94.0,11.0,True
+2012-06-09,1.22,4.51,Miami Heat,Boston Celtics,101.0,88.0,13.0,True
+2012-06-07,2.13,1.74,Boston Celtics,Miami Heat,79.0,98.0,-19.0,False
+2012-06-06,1.44,2.87,Oklahoma City Thunder,San Antonio Spurs,107.0,99.0,8.0,True
+2012-06-05,1.23,4.26,Miami Heat,Boston Celtics,90.0,94.0,-4.0,False
+2012-06-04,1.44,2.87,San Antonio Spurs,Oklahoma City Thunder,103.0,108.0,-5.0,False
+2012-06-03,2.08,1.77,Boston Celtics,Miami Heat,93.0,91.0,2.0,True
+2012-06-02,1.53,2.6,Oklahoma City Thunder,San Antonio Spurs,109.0,103.0,6.0,True
+2012-06-01,1.7,2.2,Boston Celtics,Miami Heat,101.0,91.0,10.0,True
+2012-05-31,1.47,2.73,Oklahoma City Thunder,San Antonio Spurs,102.0,82.0,20.0,True
+2012-05-30,1.22,4.45,Miami Heat,Boston Celtics,115.0,111.0,4.0,True
+2012-05-29,1.47,2.76,San Antonio Spurs,Oklahoma City Thunder,120.0,111.0,9.0,True
+2012-05-28,1.21,4.63,Miami Heat,Boston Celtics,93.0,79.0,14.0,True
+2012-05-27,1.39,3.07,San Antonio Spurs,Oklahoma City Thunder,101.0,98.0,3.0,True
+2012-05-26,1.32,3.51,Boston Celtics,Philadelphia 76ers,85.0,75.0,10.0,True
+2012-05-24,2.21,1.7,Indiana Pacers,Miami Heat,93.0,105.0,-12.0,False
+2012-05-23,1.85,1.96,Philadelphia 76ers,Boston Celtics,82.0,75.0,7.0,True
+2012-05-22,1.27,3.89,Miami Heat,Indiana Pacers,115.0,83.0,32.0,True
+2012-05-21,1.26,3.95,Oklahoma City Thunder,Los Angeles Lakers,106.0,90.0,16.0,True
+2012-05-21,1.4,3.03,Boston Celtics,Philadelphia 76ers,101.0,85.0,16.0,True
+2012-05-20,3.55,1.29,Los Angeles Clippers,San Antonio Spurs,99.0,102.0,-3.0,False
+2012-05-20,2.05,1.77,Indiana Pacers,Miami Heat,93.0,101.0,-8.0,False
+2012-05-19,2.1,1.76,Los Angeles Lakers,Oklahoma City Thunder,100.0,103.0,-3.0,False
+2012-05-19,2.77,1.47,Los Angeles Clippers,San Antonio Spurs,86.0,96.0,-10.0,False
+2012-05-18,1.67,2.27,Los Angeles Lakers,Oklahoma City Thunder,99.0,96.0,3.0,True
+2012-05-18,1.74,2.13,Philadelphia 76ers,Boston Celtics,92.0,83.0,9.0,True
+2012-05-17,1.11,6.83,San Antonio Spurs,Los Angeles Clippers,105.0,88.0,17.0,True
+2012-05-17,2.14,1.74,Indiana Pacers,Miami Heat,94.0,75.0,19.0,True
+2012-05-16,1.22,4.5,Oklahoma City Thunder,Los Angeles Lakers,77.0,75.0,2.0,True
+2012-05-16,1.74,2.13,Philadelphia 76ers,Boston Celtics,91.0,107.0,-16.0,False
+2012-05-15,1.1,7.62,San Antonio Spurs,Los Angeles Clippers,108.0,92.0,16.0,True
+2012-05-15,1.3,3.62,Miami Heat,Indiana Pacers,75.0,78.0,-3.0,False
+2012-05-14,1.23,4.3,Oklahoma City Thunder,Los Angeles Lakers,119.0,90.0,29.0,True
+2012-05-14,1.47,2.74,Boston Celtics,Philadelphia 76ers,81.0,82.0,-1.0,False
+2012-05-13,1.2,4.69,Miami Heat,Indiana Pacers,95.0,86.0,9.0,True
+2012-05-13,1.25,4.13,Memphis Grizzlies,Los Angeles Clippers,72.0,82.0,-10.0,False
+2012-05-12,1.35,3.34,Los Angeles Lakers,Denver Nuggets,96.0,87.0,9.0,True
+2012-05-12,1.39,3.06,Boston Celtics,Philadelphia 76ers,92.0,91.0,1.0,True
+2012-05-11,2.11,1.75,Los Angeles Clippers,Memphis Grizzlies,88.0,90.0,-2.0,False
+2012-05-10,1.68,2.23,Denver Nuggets,Los Angeles Lakers,113.0,96.0,17.0,True
+2012-05-10,1.29,3.74,Boston Celtics,Atlanta Hawks,83.0,80.0,3.0,True
+2012-05-10,1.57,2.47,Philadelphia 76ers,Chicago Bulls,79.0,78.0,1.0,True
+2012-05-09,1.31,3.56,Memphis Grizzlies,Los Angeles Clippers,92.0,80.0,12.0,True
+2012-05-09,1.07,9.41,Miami Heat,New York Knicks,106.0,94.0,12.0,True
+2012-05-08,1.36,3.23,Los Angeles Lakers,Denver Nuggets,99.0,102.0,-3.0,False
+2012-05-08,1.44,2.85,Chicago Bulls,Philadelphia 76ers,77.0,69.0,8.0,True
+2012-05-08,1.78,2.06,Atlanta Hawks,Boston Celtics,87.0,86.0,1.0,True
+2012-05-08,1.12,6.39,Indiana Pacers,Orlando Magic,105.0,87.0,18.0,True
+2012-05-07,1.81,2.03,Los Angeles Clippers,Memphis Grizzlies,101.0,97.0,4.0,True
+2012-05-07,3.92,1.27,Utah Jazz,San Antonio Spurs,81.0,87.0,-6.0,False
+2012-05-06,1.72,2.17,Denver Nuggets,Los Angeles Lakers,88.0,92.0,-4.0,False
+2012-05-06,1.37,3.15,Boston Celtics,Atlanta Hawks,101.0,79.0,22.0,True
+2012-05-06,4.05,1.26,New York Knicks,Miami Heat,89.0,87.0,2.0,True
+2012-05-06,1.62,2.37,Philadelphia 76ers,Chicago Bulls,89.0,82.0,7.0,True
+2012-05-05,2.96,1.42,Utah Jazz,San Antonio Spurs,90.0,102.0,-12.0,False
+2012-05-05,2.08,1.77,Dallas Mavericks,Oklahoma City Thunder,97.0,103.0,-6.0,False
+2012-05-05,1.64,2.31,Los Angeles Clippers,Memphis Grizzlies,87.0,86.0,1.0,True
+2012-05-05,2.77,1.47,Orlando Magic,Indiana Pacers,99.0,101.0,-2.0,False
+2012-05-04,1.58,2.47,Denver Nuggets,Los Angeles Lakers,99.0,84.0,15.0,True
+2012-05-04,1.95,1.87,Philadelphia 76ers,Chicago Bulls,79.0,74.0,5.0,True
+2012-05-04,1.21,4.51,Boston Celtics,Atlanta Hawks,90.0,84.0,6.0,True
+2012-05-03,1.6,2.42,Dallas Mavericks,Oklahoma City Thunder,79.0,95.0,-16.0,False
+2012-05-03,2.94,1.42,New York Knicks,Miami Heat,70.0,87.0,-17.0,False
+2012-05-02,1.31,3.56,Memphis Grizzlies,Los Angeles Clippers,105.0,98.0,7.0,True
+2012-05-02,2.37,1.62,Orlando Magic,Indiana Pacers,74.0,97.0,-23.0,False
+2012-05-02,1.08,8.39,San Antonio Spurs,Utah Jazz,114.0,83.0,31.0,True
+2012-05-01,1.41,3.02,Los Angeles Lakers,Denver Nuggets,104.0,100.0,4.0,True
+2012-05-01,1.34,3.37,Chicago Bulls,Philadelphia 76ers,92.0,109.0,-17.0,False
+2012-05-01,1.49,2.68,Atlanta Hawks,Boston Celtics,80.0,87.0,-7.0,False
+2012-04-30,1.34,3.4,Oklahoma City Thunder,Dallas Mavericks,102.0,99.0,3.0,True
+2012-04-30,1.17,5.25,Indiana Pacers,Orlando Magic,93.0,78.0,15.0,True
+2012-04-30,1.13,5.99,Miami Heat,New York Knicks,104.0,94.0,10.0,True
+2012-04-29,1.46,2.81,Memphis Grizzlies,Los Angeles Clippers,98.0,99.0,-1.0,False
+2012-04-29,1.85,1.97,Atlanta Hawks,Boston Celtics,83.0,74.0,9.0,True
+2012-04-29,1.47,2.74,Los Angeles Lakers,Denver Nuggets,103.0,88.0,15.0,True
+2012-04-29,1.08,8.32,San Antonio Spurs,Utah Jazz,106.0,91.0,15.0,True
+2012-04-28,1.24,4.18,Oklahoma City Thunder,Dallas Mavericks,99.0,98.0,1.0,True
+2012-04-28,1.14,5.79,Indiana Pacers,Orlando Magic,77.0,81.0,-4.0,False
+2012-04-28,1.16,5.37,Miami Heat,New York Knicks,100.0,67.0,33.0,True
+2012-04-28,1.18,5.09,Chicago Bulls,Philadelphia 76ers,103.0,91.0,12.0,True
+2012-04-26,3.09,1.39,Golden State Warriors,San Antonio Spurs,101.0,107.0,-6.0,False
+2012-04-26,1.36,3.25,Sacramento Kings,Los Angeles Lakers,113.0,96.0,17.0,True
+2012-04-26,1.47,2.76,Atlanta Hawks,Dallas Mavericks,106.0,89.0,17.0,True
+2012-04-26,1.19,5.01,Boston Celtics,Milwaukee Bucks,87.0,74.0,13.0,True
+2012-04-26,2.87,1.44,Charlotte Hornets,New York Knicks,84.0,104.0,-20.0,False
+2012-04-26,1.03,13.0,Chicago Bulls,Cleveland Cavaliers,107.0,75.0,32.0,True
+2012-04-26,1.23,4.37,Detroit Pistons,Philadelphia 76ers,108.0,86.0,22.0,True
+2012-04-26,1.43,2.91,Houston Rockets,New Orleans Pelicans,84.0,77.0,7.0,True
+2012-04-26,1.03,14.7,Memphis Grizzlies,Orlando Magic,88.0,76.0,12.0,True
+2012-04-26,3.98,1.26,Minnesota Timberwolves,Denver Nuggets,102.0,131.0,-29.0,False
+2012-04-26,1.31,3.59,Utah Jazz,Portland Trail Blazers,96.0,94.0,2.0,True
+2012-04-26,1.33,3.43,Washington Wizards,Miami Heat,104.0,70.0,34.0,True
+2012-04-26,1.31,3.62,Toronto Raptors,Brooklyn Nets,98.0,67.0,31.0,True
+2012-04-25,1.69,2.23,Phoenix Suns,San Antonio Spurs,106.0,110.0,-4.0,False
+2012-04-25,1.29,3.75,Milwaukee Bucks,Philadelphia 76ers,85.0,90.0,-5.0,False
+2012-04-25,2.06,1.79,Oklahoma City Thunder,Denver Nuggets,101.0,106.0,-5.0,False
+2012-04-25,1.48,2.72,New York Knicks,Los Angeles Clippers,99.0,93.0,6.0,True
+2012-04-25,2.21,1.7,Cleveland Cavaliers,Washington Wizards,85.0,96.0,-11.0,False
+2012-04-25,2.2,1.7,Indiana Pacers,Chicago Bulls,87.0,92.0,-5.0,False
+2012-04-25,1.04,12.75,Orlando Magic,Charlotte Hornets,102.0,95.0,7.0,True
+2012-04-24,2.25,1.67,Golden State Warriors,New Orleans Pelicans,81.0,83.0,-2.0,False
+2012-04-24,1.47,2.76,Utah Jazz,Phoenix Suns,100.0,88.0,12.0,True
+2012-04-24,1.34,3.4,Boston Celtics,Miami Heat,78.0,66.0,12.0,True
+2012-04-24,1.17,5.22,Oklahoma City Thunder,Sacramento Kings,118.0,110.0,8.0,True
+2012-04-24,1.84,1.98,Atlanta Hawks,Los Angeles Clippers,109.0,102.0,7.0,True
+2012-04-23,1.05,12.25,San Antonio Spurs,Portland Trail Blazers,124.0,89.0,35.0,True
+2012-04-23,1.07,9.67,Memphis Grizzlies,Cleveland Cavaliers,109.0,101.0,8.0,True
+2012-04-23,1.15,5.68,Milwaukee Bucks,Toronto Raptors,92.0,86.0,6.0,True
+2012-04-23,5.01,1.18,Brooklyn Nets,Philadelphia 76ers,87.0,105.0,-18.0,False
+2012-04-23,1.3,3.67,Indiana Pacers,Detroit Pistons,103.0,97.0,6.0,True
+2012-04-23,1.15,5.66,Washington Wizards,Charlotte Hornets,101.0,73.0,28.0,True
+2012-04-22,1.16,5.54,Los Angeles Clippers,New Orleans Pelicans,107.0,98.0,9.0,True
+2012-04-22,1.12,6.45,Denver Nuggets,Orlando Magic,101.0,74.0,27.0,True
+2012-04-22,1.19,4.88,Minnesota Timberwolves,Golden State Warriors,88.0,93.0,-5.0,False
+2012-04-22,1.03,15.83,San Antonio Spurs,Cleveland Cavaliers,114.0,98.0,16.0,True
+2012-04-22,2.52,1.55,Charlotte Hornets,Sacramento Kings,88.0,114.0,-26.0,False
+2012-04-22,1.55,2.53,Detroit Pistons,Toronto Raptors,76.0,73.0,3.0,True
+2012-04-22,1.46,2.82,Miami Heat,Houston Rockets,97.0,88.0,9.0,True
+2012-04-22,1.98,1.84,Los Angeles Lakers,Oklahoma City Thunder,114.0,106.0,8.0,True
+2012-04-22,1.69,2.21,Atlanta Hawks,New York Knicks,112.0,113.0,-1.0,False
+2012-04-21,1.19,5.02,Utah Jazz,Orlando Magic,117.0,107.0,10.0,True
+2012-04-21,1.17,5.31,Milwaukee Bucks,Brooklyn Nets,106.0,95.0,11.0,True
+2012-04-21,1.26,3.99,Chicago Bulls,Dallas Mavericks,93.0,83.0,10.0,True
+2012-04-21,1.04,12.96,Houston Rockets,Golden State Warriors,99.0,96.0,3.0,True
+2012-04-21,1.09,8.07,Memphis Grizzlies,Portland Trail Blazers,93.0,89.0,4.0,True
+2012-04-21,1.17,5.18,Miami Heat,Washington Wizards,84.0,86.0,-2.0,False
+2012-04-21,1.53,2.55,Indiana Pacers,Philadelphia 76ers,106.0,109.0,-3.0,False
+2012-04-21,1.54,2.52,Phoenix Suns,Denver Nuggets,107.0,118.0,-11.0,False
+2012-04-20,5.65,1.15,Sacramento Kings,Oklahoma City Thunder,92.0,103.0,-11.0,False
+2012-04-20,1.38,3.18,San Antonio Spurs,Los Angeles Lakers,121.0,97.0,24.0,True
+2012-04-20,1.07,8.85,Dallas Mavericks,Golden State Warriors,104.0,94.0,10.0,True
+2012-04-20,5.54,1.16,Cleveland Cavaliers,New York Knicks,98.0,90.0,8.0,True
+2012-04-20,1.15,5.66,Atlanta Hawks,Boston Celtics,97.0,92.0,5.0,True
+2012-04-20,12.5,1.04,Charlotte Hornets,Memphis Grizzlies,80.0,85.0,-5.0,False
+2012-04-19,1.75,2.11,Phoenix Suns,Los Angeles Clippers,93.0,90.0,3.0,True
+2012-04-19,1.37,3.2,Miami Heat,Chicago Bulls,83.0,72.0,11.0,True
+2012-04-19,2.9,1.44,New Orleans Pelicans,Houston Rockets,105.0,99.0,6.0,True
+2012-04-19,1.46,2.77,Detroit Pistons,Minnesota Timberwolves,80.0,91.0,-11.0,False
+2012-04-19,1.41,2.99,Indiana Pacers,Milwaukee Bucks,118.0,109.0,9.0,True
+2012-04-18,3.43,1.34,Golden State Warriors,Los Angeles Lakers,87.0,99.0,-12.0,False
+2012-04-18,2.43,1.6,Phoenix Suns,Oklahoma City Thunder,97.0,109.0,-12.0,False
+2012-04-18,2.68,1.5,Portland Trail Blazers,Utah Jazz,91.0,112.0,-21.0,False
+2012-04-18,2.73,1.49,Sacramento Kings,San Antonio Spurs,102.0,127.0,-25.0,False
+2012-04-18,1.67,2.27,Denver Nuggets,Los Angeles Clippers,98.0,104.0,-6.0,False
+2012-04-18,1.52,2.61,Dallas Mavericks,Houston Rockets,117.0,110.0,7.0,True
+2012-04-18,1.18,5.08,Memphis Grizzlies,New Orleans Pelicans,103.0,91.0,12.0,True
+2012-04-18,1.49,2.72,Boston Celtics,Orlando Magic,102.0,98.0,4.0,True
+2012-04-18,1.2,4.76,Atlanta Hawks,Detroit Pistons,116.0,84.0,32.0,True
+2012-04-18,4.27,1.23,Brooklyn Nets,New York Knicks,95.0,104.0,-9.0,False
+2012-04-18,1.15,5.72,Miami Heat,Toronto Raptors,96.0,72.0,24.0,True
+2012-04-18,9.55,1.07,Charlotte Hornets,Chicago Bulls,68.0,100.0,-32.0,False
+2012-04-18,4.97,1.19,Cleveland Cavaliers,Philadelphia 76ers,87.0,103.0,-16.0,False
+2012-04-18,3.96,1.26,Washington Wizards,Milwaukee Bucks,121.0,112.0,9.0,True
+2012-04-17,2.24,1.68,Los Angeles Lakers,San Antonio Spurs,91.0,112.0,-21.0,False
+2012-04-17,4.56,1.21,Minnesota Timberwolves,Memphis Grizzlies,84.0,91.0,-7.0,False
+2012-04-17,1.63,2.35,New York Knicks,Boston Celtics,118.0,110.0,8.0,True
+2012-04-17,1.3,3.59,Detroit Pistons,Cleveland Cavaliers,116.0,77.0,39.0,True
+2012-04-17,1.65,2.31,Philadelphia 76ers,Indiana Pacers,97.0,102.0,-5.0,False
+2012-04-16,5.4,1.17,Golden State Warriors,San Antonio Spurs,99.0,120.0,-21.0,False
+2012-04-16,2.28,1.66,Los Angeles Clippers,Oklahoma City Thunder,92.0,77.0,15.0,True
+2012-04-16,1.12,6.63,Phoenix Suns,Portland Trail Blazers,125.0,107.0,18.0,True
+2012-04-16,1.58,2.46,Utah Jazz,Dallas Mavericks,123.0,121.0,2.0,True
+2012-04-16,1.08,8.47,Chicago Bulls,Washington Wizards,84.0,87.0,-3.0,False
+2012-04-16,1.53,2.6,Houston Rockets,Denver Nuggets,102.0,105.0,-3.0,False
+2012-04-16,4.58,1.21,Brooklyn Nets,Miami Heat,98.0,101.0,-3.0,False
+2012-04-16,3.18,1.38,Charlotte Hornets,New Orleans Pelicans,67.0,75.0,-8.0,False
+2012-04-16,1.12,6.32,Indiana Pacers,Minnesota Timberwolves,111.0,88.0,23.0,True
+2012-04-16,3.0,1.41,Orlando Magic,Philadelphia 76ers,113.0,100.0,13.0,True
+2012-04-16,2.99,1.41,Toronto Raptors,Atlanta Hawks,87.0,109.0,-22.0,False
+2012-04-15,1.6,2.42,Denver Nuggets,Houston Rockets,101.0,86.0,15.0,True
+2012-04-15,2.68,1.5,New Orleans Pelicans,Memphis Grizzlies,88.0,75.0,13.0,True
+2012-04-15,1.17,5.23,Atlanta Hawks,Toronto Raptors,86.0,102.0,-16.0,False
+2012-04-15,3.29,1.36,Charlotte Hornets,Boston Celtics,82.0,94.0,-12.0,False
+2012-04-15,3.23,1.36,Cleveland Cavaliers,Orlando Magic,84.0,100.0,-16.0,False
+2012-04-15,5.0,1.18,Detroit Pistons,Chicago Bulls,94.0,100.0,-6.0,False
+2012-04-15,1.68,2.24,Sacramento Kings,Portland Trail Blazers,104.0,103.0,1.0,True
+2012-04-15,1.77,2.1,Los Angeles Lakers,Dallas Mavericks,112.0,108.0,4.0,True
+2012-04-15,2.27,1.66,New York Knicks,Miami Heat,85.0,93.0,-8.0,False
+2012-04-14,1.2,4.79,San Antonio Spurs,Phoenix Suns,105.0,91.0,14.0,True
+2012-04-14,1.65,2.3,Milwaukee Bucks,Indiana Pacers,99.0,105.0,-6.0,False
+2012-04-14,1.2,4.72,Memphis Grizzlies,Utah Jazz,103.0,98.0,5.0,True
+2012-04-14,7.13,1.11,Minnesota Timberwolves,Oklahoma City Thunder,110.0,115.0,-5.0,False
+2012-04-14,3.49,1.32,Brooklyn Nets,Boston Celtics,82.0,94.0,-12.0,False
+2012-04-14,1.45,2.81,Washington Wizards,Cleveland Cavaliers,89.0,98.0,-9.0,False
+2012-04-14,1.08,9.08,Los Angeles Clippers,Golden State Warriors,112.0,104.0,8.0,True
+2012-04-13,1.59,2.4,Los Angeles Lakers,Denver Nuggets,103.0,97.0,6.0,True
+2012-04-13,2.42,1.59,Portland Trail Blazers,Dallas Mavericks,94.0,97.0,-3.0,False
+2012-04-13,2.72,1.48,Detroit Pistons,Milwaukee Bucks,97.0,113.0,-16.0,False
+2012-04-13,1.57,2.48,Houston Rockets,Phoenix Suns,105.0,112.0,-7.0,False
+2012-04-13,2.51,1.55,New Orleans Pelicans,Utah Jazz,96.0,85.0,11.0,True
+2012-04-13,1.05,11.91,Oklahoma City Thunder,Sacramento Kings,115.0,89.0,26.0,True
+2012-04-13,1.02,17.0,Miami Heat,Charlotte Hornets,105.0,82.0,23.0,True
+2012-04-13,1.13,6.27,New York Knicks,Washington Wizards,103.0,65.0,38.0,True
+2012-04-13,2.05,1.78,Orlando Magic,Atlanta Hawks,81.0,109.0,-28.0,False
+2012-04-13,1.11,7.02,Philadelphia 76ers,Brooklyn Nets,89.0,95.0,-6.0,False
+2012-04-13,3.79,1.28,Toronto Raptors,Boston Celtics,84.0,79.0,5.0,True
+2012-04-13,1.09,7.98,Indiana Pacers,Cleveland Cavaliers,102.0,83.0,19.0,True
+2012-04-12,3.21,1.37,Golden State Warriors,Dallas Mavericks,103.0,112.0,-9.0,False
+2012-04-12,1.4,3.03,San Antonio Spurs,Memphis Grizzlies,107.0,97.0,10.0,True
+2012-04-12,1.82,2.0,Chicago Bulls,Miami Heat,96.0,86.0,10.0,True
+2012-04-12,3.72,1.29,Minnesota Timberwolves,Los Angeles Clippers,82.0,95.0,-13.0,False
+2012-04-12,2.77,1.47,Charlotte Hornets,Detroit Pistons,85.0,109.0,-24.0,False
+2012-04-11,1.55,2.53,Portland Trail Blazers,Golden State Warriors,118.0,110.0,8.0,True
+2012-04-11,1.22,4.41,Denver Nuggets,Minnesota Timberwolves,113.0,107.0,6.0,True
+2012-04-11,1.16,5.19,San Antonio Spurs,Los Angeles Lakers,84.0,98.0,-14.0,False
+2012-04-11,1.69,2.23,Boston Celtics,Atlanta Hawks,88.0,86.0,2.0,True
+2012-04-11,1.4,3.04,Houston Rockets,Utah Jazz,91.0,103.0,-12.0,False
+2012-04-11,1.44,2.85,Memphis Grizzlies,Phoenix Suns,104.0,93.0,11.0,True
+2012-04-11,1.54,2.55,Milwaukee Bucks,New York Knicks,107.0,111.0,-4.0,False
+2012-04-11,1.67,2.27,New Orleans Pelicans,Sacramento Kings,105.0,96.0,9.0,True
+2012-04-11,1.26,4.03,Oklahoma City Thunder,Los Angeles Clippers,98.0,100.0,-2.0,False
+2012-04-11,4.46,1.22,Cleveland Cavaliers,Indiana Pacers,98.0,104.0,-6.0,False
+2012-04-11,2.62,1.52,Toronto Raptors,Philadelphia 76ers,75.0,93.0,-18.0,False
+2012-04-10,1.32,3.53,Chicago Bulls,New York Knicks,98.0,86.0,12.0,True
+2012-04-10,1.19,4.9,Dallas Mavericks,Sacramento Kings,110.0,100.0,10.0,True
+2012-04-10,3.05,1.4,Brooklyn Nets,Philadelphia 76ers,88.0,107.0,-19.0,False
+2012-04-10,1.34,3.33,Cleveland Cavaliers,Charlotte Hornets,103.0,90.0,13.0,True
+2012-04-10,1.28,3.77,Miami Heat,Boston Celtics,107.0,115.0,-8.0,False
+2012-04-10,2.73,1.48,Washington Wizards,Orlando Magic,93.0,85.0,8.0,True
+2012-04-09,1.68,2.23,Portland Trail Blazers,Houston Rockets,89.0,94.0,-5.0,False
+2012-04-09,1.21,4.55,Denver Nuggets,Golden State Warriors,123.0,84.0,39.0,True
+2012-04-09,2.24,1.68,Minnesota Timberwolves,Phoenix Suns,90.0,114.0,-24.0,False
+2012-04-09,1.6,2.44,Utah Jazz,San Antonio Spurs,91.0,84.0,7.0,True
+2012-04-09,1.55,2.54,Memphis Grizzlies,Los Angeles Clippers,94.0,85.0,9.0,True
+2012-04-09,2.27,1.66,Milwaukee Bucks,Oklahoma City Thunder,89.0,109.0,-20.0,False
+2012-04-09,2.44,1.59,New Orleans Pelicans,Los Angeles Lakers,91.0,93.0,-2.0,False
+2012-04-09,1.83,2.0,Charlotte Hornets,Washington Wizards,85.0,113.0,-28.0,False
+2012-04-09,1.13,5.96,Indiana Pacers,Toronto Raptors,103.0,98.0,5.0,True
+2012-04-09,1.3,3.65,Orlando Magic,Detroit Pistons,119.0,89.0,30.0,True
+2012-04-08,2.46,1.58,Sacramento Kings,Houston Rockets,87.0,104.0,-17.0,False
+2012-04-08,1.07,9.46,Oklahoma City Thunder,Toronto Raptors,91.0,75.0,16.0,True
+2012-04-08,1.15,5.52,San Antonio Spurs,Utah Jazz,114.0,104.0,10.0,True
+2012-04-08,1.58,2.46,Boston Celtics,Philadelphia 76ers,103.0,79.0,24.0,True
+2012-04-08,1.28,3.83,Brooklyn Nets,Cleveland Cavaliers,122.0,117.0,5.0,True
+2012-04-08,1.11,7.06,Miami Heat,Detroit Pistons,98.0,75.0,23.0,True
+2012-04-08,2.27,1.67,New York Knicks,Chicago Bulls,100.0,99.0,1.0,True
+2012-04-07,2.36,1.63,Golden State Warriors,Denver Nuggets,112.0,97.0,15.0,True
+2012-04-07,1.25,4.05,Los Angeles Clippers,Sacramento Kings,109.0,94.0,15.0,True
+2012-04-07,1.82,2.02,Phoenix Suns,Los Angeles Lakers,125.0,105.0,20.0,True
+2012-04-07,1.5,2.66,Milwaukee Bucks,Portland Trail Blazers,116.0,94.0,22.0,True
+2012-04-07,4.29,1.23,Charlotte Hornets,Atlanta Hawks,96.0,116.0,-20.0,False
+2012-04-07,1.56,2.51,Memphis Grizzlies,Dallas Mavericks,94.0,89.0,5.0,True
+2012-04-07,2.25,1.68,New Orleans Pelicans,Minnesota Timberwolves,99.0,90.0,9.0,True
+2012-04-07,1.43,2.94,Philadelphia 76ers,Orlando Magic,82.0,88.0,-6.0,False
+2012-04-07,1.79,2.04,Indiana Pacers,Boston Celtics,72.0,86.0,-14.0,False
+2012-04-06,1.38,3.15,Los Angeles Lakers,Houston Rockets,107.0,112.0,-5.0,False
+2012-04-06,1.66,2.29,Denver Nuggets,Phoenix Suns,105.0,99.0,6.0,True
+2012-04-06,1.26,4.02,Utah Jazz,Golden State Warriors,104.0,98.0,6.0,True
+2012-04-06,1.38,3.13,Dallas Mavericks,Portland Trail Blazers,97.0,99.0,-2.0,False
+2012-04-06,1.06,10.17,Milwaukee Bucks,Charlotte Hornets,95.0,90.0,5.0,True
+2012-04-06,1.1,7.38,San Antonio Spurs,New Orleans Pelicans,128.0,103.0,25.0,True
+2012-04-06,1.2,4.71,Atlanta Hawks,Detroit Pistons,101.0,96.0,5.0,True
+2012-04-06,1.29,3.8,Brooklyn Nets,Washington Wizards,110.0,98.0,12.0,True
+2012-04-06,1.27,3.92,Miami Heat,Memphis Grizzlies,82.0,97.0,-15.0,False
+2012-04-06,1.28,3.79,Toronto Raptors,Cleveland Cavaliers,80.0,84.0,-4.0,False
+2012-04-06,2.39,1.61,Indiana Pacers,Oklahoma City Thunder,103.0,98.0,5.0,True
+2012-04-05,2.27,1.67,Sacramento Kings,Los Angeles Clippers,85.0,93.0,-8.0,False
+2012-04-05,1.33,3.39,Chicago Bulls,Boston Celtics,93.0,86.0,7.0,True
+2012-04-05,1.25,4.07,Detroit Pistons,Washington Wizards,99.0,94.0,5.0,True
+2012-04-05,1.66,2.28,Orlando Magic,New York Knicks,80.0,96.0,-16.0,False
+2012-04-04,1.66,2.27,Los Angeles Clippers,Los Angeles Lakers,108.0,113.0,-5.0,False
+2012-04-04,1.22,4.5,Portland Trail Blazers,Brooklyn Nets,101.0,88.0,13.0,True
+2012-04-04,1.39,3.11,Utah Jazz,Phoenix Suns,105.0,107.0,-2.0,False
+2012-04-04,1.39,3.09,Dallas Mavericks,Memphis Grizzlies,95.0,85.0,10.0,True
+2012-04-04,1.65,2.3,Miami Heat,Oklahoma City Thunder,98.0,93.0,5.0,True
+2012-04-04,1.08,8.72,Milwaukee Bucks,Cleveland Cavaliers,107.0,98.0,9.0,True
+2012-04-04,1.38,3.12,Minnesota Timberwolves,Golden State Warriors,94.0,97.0,-3.0,False
+2012-04-04,2.66,1.5,New Orleans Pelicans,Denver Nuggets,94.0,92.0,2.0,True
+2012-04-04,1.06,10.0,Atlanta Hawks,Charlotte Hornets,120.0,93.0,27.0,True
+2012-04-04,1.92,1.89,Boston Celtics,San Antonio Spurs,86.0,87.0,-1.0,False
+2012-04-04,1.23,4.28,Philadelphia 76ers,Toronto Raptors,78.0,99.0,-21.0,False
+2012-04-04,3.06,1.39,Washington Wizards,Indiana Pacers,96.0,109.0,-13.0,False
+2012-04-03,1.21,4.53,Los Angeles Lakers,Brooklyn Nets,91.0,87.0,4.0,True
+2012-04-03,2.23,1.68,Sacramento Kings,Phoenix Suns,100.0,109.0,-9.0,False
+2012-04-03,1.3,3.65,Memphis Grizzlies,Golden State Warriors,98.0,94.0,4.0,True
+2012-04-03,1.97,1.85,Detroit Pistons,Orlando Magic,102.0,95.0,7.0,True
+2012-04-03,1.31,3.57,Miami Heat,Philadelphia 76ers,99.0,93.0,6.0,True
+2012-04-03,5.26,1.17,Cleveland Cavaliers,San Antonio Spurs,90.0,125.0,-35.0,False
+2012-04-03,1.39,3.06,Indiana Pacers,New York Knicks,112.0,104.0,8.0,True
+2012-04-03,1.17,5.31,Toronto Raptors,Charlotte Hornets,92.0,87.0,5.0,True
+2012-04-02,1.74,2.13,Portland Trail Blazers,Utah Jazz,97.0,102.0,-5.0,False
+2012-04-02,1.61,2.38,Sacramento Kings,Minnesota Timberwolves,116.0,108.0,8.0,True
+2012-04-02,1.54,2.57,Dallas Mavericks,Los Angeles Clippers,75.0,94.0,-19.0,False
+2012-04-02,1.25,4.08,Chicago Bulls,Houston Rockets,93.0,99.0,-6.0,False
+2012-04-02,1.28,3.86,Oklahoma City Thunder,Memphis Grizzlies,88.0,94.0,-6.0,False
+2012-04-02,3.57,1.31,Washington Wizards,Milwaukee Bucks,98.0,112.0,-14.0,False
+2012-04-01,1.13,6.13,Los Angeles Lakers,Golden State Warriors,120.0,112.0,8.0,True
+2012-04-01,1.13,5.97,Phoenix Suns,New Orleans Pelicans,92.0,75.0,17.0,True
+2012-04-01,1.64,2.32,Portland Trail Blazers,Minnesota Timberwolves,119.0,106.0,13.0,True
+2012-04-01,1.58,2.44,Houston Rockets,Indiana Pacers,102.0,104.0,-2.0,False
+2012-04-01,1.6,2.39,Orlando Magic,Denver Nuggets,101.0,104.0,-3.0,False
+2012-04-01,1.36,3.23,Toronto Raptors,Washington Wizards,99.0,92.0,7.0,True
+2012-04-01,2.54,1.55,Boston Celtics,Miami Heat,91.0,72.0,19.0,True
+2012-04-01,1.37,3.18,Oklahoma City Thunder,Chicago Bulls,92.0,78.0,14.0,True
+2012-03-31,1.46,2.81,Los Angeles Clippers,Utah Jazz,105.0,96.0,9.0,True
+2012-03-31,1.38,3.16,Sacramento Kings,Brooklyn Nets,99.0,111.0,-12.0,False
+2012-03-31,1.67,2.25,Milwaukee Bucks,Memphis Grizzlies,95.0,99.0,-4.0,False
+2012-03-31,1.25,4.03,San Antonio Spurs,Indiana Pacers,112.0,103.0,9.0,True
+2012-03-31,1.29,3.71,Detroit Pistons,Charlotte Hornets,110.0,107.0,3.0,True
+2012-03-31,1.11,6.88,New York Knicks,Cleveland Cavaliers,91.0,75.0,16.0,True
+2012-03-31,1.35,3.32,Philadelphia 76ers,Atlanta Hawks,95.0,90.0,5.0,True
+2012-03-31,1.06,10.59,Los Angeles Lakers,New Orleans Pelicans,88.0,85.0,3.0,True
+2012-03-30,1.6,2.42,Golden State Warriors,Brooklyn Nets,100.0,102.0,-2.0,False
+2012-03-30,1.16,5.33,Los Angeles Clippers,Portland Trail Blazers,98.0,97.0,1.0,True
+2012-03-30,1.32,3.54,Utah Jazz,Sacramento Kings,103.0,104.0,-1.0,False
+2012-03-30,1.1,7.67,Chicago Bulls,Detroit Pistons,83.0,71.0,12.0,True
+2012-03-30,1.78,2.06,Houston Rockets,Memphis Grizzlies,98.0,91.0,7.0,True
+2012-03-30,1.94,1.86,Minnesota Timberwolves,Boston Celtics,79.0,100.0,-21.0,False
+2012-03-30,1.45,2.8,Orlando Magic,Dallas Mavericks,98.0,100.0,-2.0,False
+2012-03-30,1.67,2.27,Atlanta Hawks,New York Knicks,100.0,90.0,10.0,True
+2012-03-30,2.68,1.5,Cleveland Cavaliers,Milwaukee Bucks,84.0,121.0,-37.0,False
+2012-03-30,4.33,1.23,Charlotte Hornets,Denver Nuggets,88.0,99.0,-11.0,False
+2012-03-30,3.79,1.28,Toronto Raptors,Miami Heat,101.0,113.0,-12.0,False
+2012-03-30,4.41,1.22,Washington Wizards,Philadelphia 76ers,97.0,76.0,21.0,True
+2012-03-29,1.83,1.99,Los Angeles Lakers,Oklahoma City Thunder,93.0,102.0,-9.0,False
+2012-03-29,1.21,4.54,Portland Trail Blazers,New Orleans Pelicans,99.0,93.0,6.0,True
+2012-03-29,1.24,4.24,Miami Heat,Dallas Mavericks,106.0,85.0,21.0,True
+2012-03-29,1.15,5.66,Indiana Pacers,Washington Wizards,93.0,89.0,4.0,True
+2012-03-28,1.73,2.16,Golden State Warriors,New Orleans Pelicans,87.0,102.0,-15.0,False
+2012-03-28,1.31,3.59,Los Angeles Clippers,Phoenix Suns,103.0,86.0,17.0,True
+2012-03-28,2.44,1.59,Sacramento Kings,San Antonio Spurs,112.0,117.0,-5.0,False
+2012-03-28,2.53,1.55,Atlanta Hawks,Chicago Bulls,77.0,98.0,-21.0,False
+2012-03-28,1.6,2.41,Boston Celtics,Utah Jazz,94.0,82.0,12.0,True
+2012-03-28,3.13,1.39,Brooklyn Nets,Indiana Pacers,100.0,84.0,16.0,True
+2012-03-28,2.85,1.44,Charlotte Hornets,Minnesota Timberwolves,83.0,88.0,-5.0,False
+2012-03-28,1.98,1.84,Cleveland Cavaliers,Detroit Pistons,75.0,87.0,-12.0,False
+2012-03-28,2.02,1.81,New York Knicks,Orlando Magic,108.0,86.0,22.0,True
+2012-03-28,2.51,1.56,Toronto Raptors,Denver Nuggets,105.0,96.0,9.0,True
+2012-03-27,3.75,1.29,Golden State Warriors,Los Angeles Lakers,101.0,104.0,-3.0,False
+2012-03-27,2.04,1.79,Phoenix Suns,San Antonio Spurs,100.0,107.0,-7.0,False
+2012-03-27,2.74,1.48,Portland Trail Blazers,Oklahoma City Thunder,95.0,109.0,-14.0,False
+2012-03-27,1.32,3.48,Dallas Mavericks,Houston Rockets,90.0,81.0,9.0,True
+2012-03-27,1.52,2.63,Memphis Grizzlies,Minnesota Timberwolves,93.0,86.0,7.0,True
+2012-03-27,1.77,2.08,Milwaukee Bucks,Atlanta Hawks,108.0,101.0,7.0,True
+2012-03-27,1.2,4.87,Philadelphia 76ers,Cleveland Cavaliers,103.0,85.0,18.0,True
+2012-03-26,1.13,5.99,Los Angeles Clippers,New Orleans Pelicans,97.0,85.0,12.0,True
+2012-03-26,1.26,3.98,Chicago Bulls,Denver Nuggets,91.0,108.0,-17.0,False
+2012-03-26,1.38,3.16,Houston Rockets,Sacramento Kings,113.0,106.0,7.0,True
+2012-03-26,1.82,2.0,Brooklyn Nets,Utah Jazz,84.0,105.0,-21.0,False
+2012-03-26,1.53,2.59,New York Knicks,Milwaukee Bucks,89.0,80.0,9.0,True
+2012-03-26,3.26,1.36,Charlotte Hornets,Boston Celtics,95.0,102.0,-7.0,False
+2012-03-26,2.42,1.6,Indiana Pacers,Miami Heat,105.0,90.0,15.0,True
+2012-03-26,3.08,1.39,Toronto Raptors,Orlando Magic,101.0,117.0,-16.0,False
+2012-03-26,2.01,1.82,Washington Wizards,Detroit Pistons,77.0,79.0,-2.0,False
+2012-03-25,1.35,3.31,Los Angeles Lakers,Memphis Grizzlies,96.0,102.0,-6.0,False
+2012-03-25,1.16,5.49,Portland Trail Blazers,Golden State Warriors,90.0,87.0,3.0,True
+2012-03-25,1.8,2.02,Oklahoma City Thunder,Miami Heat,103.0,87.0,16.0,True
+2012-03-25,1.66,2.28,San Antonio Spurs,Philadelphia 76ers,93.0,76.0,17.0,True
+2012-03-25,1.87,1.94,Atlanta Hawks,Utah Jazz,139.0,133.0,6.0,True
+2012-03-25,1.19,5.04,Boston Celtics,Washington Wizards,88.0,76.0,12.0,True
+2012-03-25,1.8,2.03,Minnesota Timberwolves,Denver Nuggets,117.0,100.0,17.0,True
+2012-03-25,2.48,1.57,Cleveland Cavaliers,Phoenix Suns,83.0,108.0,-25.0,False
+2012-03-24,1.8,2.04,Golden State Warriors,Sacramento Kings,111.0,108.0,3.0,True
+2012-03-24,1.55,2.53,Milwaukee Bucks,Indiana Pacers,104.0,125.0,-21.0,False
+2012-03-24,1.08,9.02,Chicago Bulls,Toronto Raptors,102.0,101.0,1.0,True
+2012-03-24,1.67,2.26,Houston Rockets,Dallas Mavericks,99.0,101.0,-2.0,False
+2012-03-24,2.71,1.49,New Orleans Pelicans,San Antonio Spurs,86.0,89.0,-3.0,False
+2012-03-24,1.39,3.12,Brooklyn Nets,Charlotte Hornets,102.0,89.0,13.0,True
+2012-03-24,1.13,6.31,New York Knicks,Detroit Pistons,101.0,79.0,22.0,True
+2012-03-24,2.25,1.67,Washington Wizards,Atlanta Hawks,92.0,95.0,-3.0,False
+2012-03-24,1.75,2.11,Los Angeles Clippers,Memphis Grizzlies,101.0,85.0,16.0,True
+2012-03-23,1.16,5.32,Los Angeles Lakers,Portland Trail Blazers,103.0,96.0,7.0,True
+2012-03-23,1.78,2.05,Utah Jazz,Denver Nuggets,121.0,102.0,19.0,True
+2012-03-23,1.57,2.5,San Antonio Spurs,Dallas Mavericks,104.0,87.0,17.0,True
+2012-03-23,1.14,5.84,Oklahoma City Thunder,Minnesota Timberwolves,149.0,140.0,9.0,True
+2012-03-23,1.32,3.49,Philadelphia 76ers,Boston Celtics,99.0,86.0,13.0,True
+2012-03-23,1.31,3.58,Atlanta Hawks,Brooklyn Nets,93.0,84.0,9.0,True
+2012-03-23,4.71,1.2,Detroit Pistons,Miami Heat,73.0,88.0,-15.0,False
+2012-03-23,3.54,1.31,Charlotte Hornets,Milwaukee Bucks,92.0,112.0,-20.0,False
+2012-03-23,1.6,2.4,Indiana Pacers,Phoenix Suns,111.0,113.0,-2.0,False
+2012-03-23,1.18,5.02,Orlando Magic,Cleveland Cavaliers,93.0,80.0,13.0,True
+2012-03-23,2.91,1.42,Toronto Raptors,New York Knicks,96.0,79.0,17.0,True
+2012-03-22,1.96,1.85,Portland Trail Blazers,Memphis Grizzlies,97.0,93.0,4.0,True
+2012-03-22,1.77,2.08,Sacramento Kings,Utah Jazz,102.0,103.0,-1.0,False
+2012-03-22,1.27,3.9,Houston Rockets,Golden State Warriors,109.0,83.0,26.0,True
+2012-03-22,1.57,2.48,Milwaukee Bucks,Boston Celtics,91.0,100.0,-9.0,False
+2012-03-22,2.59,1.53,New Orleans Pelicans,Los Angeles Clippers,97.0,90.0,7.0,True
+2012-03-22,3.45,1.33,Washington Wizards,Indiana Pacers,83.0,85.0,-2.0,False
+2012-03-21,1.53,2.6,Dallas Mavericks,Los Angeles Lakers,93.0,109.0,-16.0,False
+2012-03-21,1.22,4.34,Denver Nuggets,Detroit Pistons,116.0,115.0,1.0,True
+2012-03-21,1.17,5.27,San Antonio Spurs,Minnesota Timberwolves,116.0,100.0,16.0,True
+2012-03-21,1.76,2.08,New Orleans Pelicans,Golden State Warriors,92.0,101.0,-9.0,False
+2012-03-21,1.21,4.55,Oklahoma City Thunder,Los Angeles Clippers,114.0,91.0,23.0,True
+2012-03-21,1.3,3.69,Atlanta Hawks,Cleveland Cavaliers,103.0,102.0,1.0,True
+2012-03-21,1.49,2.68,Brooklyn Nets,Washington Wizards,89.0,108.0,-19.0,False
+2012-03-21,1.24,4.22,Orlando Magic,Phoenix Suns,103.0,93.0,10.0,True
+2012-03-21,1.56,2.51,Philadelphia 76ers,New York Knicks,79.0,82.0,-3.0,False
+2012-03-21,3.72,1.29,Toronto Raptors,Chicago Bulls,82.0,94.0,-12.0,False
+2012-03-20,1.63,2.36,Portland Trail Blazers,Milwaukee Bucks,87.0,116.0,-29.0,False
+2012-03-20,2.27,1.66,Sacramento Kings,Memphis Grizzlies,119.0,110.0,9.0,True
+2012-03-20,2.27,1.66,Utah Jazz,Oklahoma City Thunder,97.0,90.0,7.0,True
+2012-03-20,2.27,1.66,Houston Rockets,Los Angeles Lakers,107.0,104.0,3.0,True
+2012-03-20,1.13,6.29,Miami Heat,Phoenix Suns,99.0,95.0,4.0,True
+2012-03-20,1.2,4.72,New York Knicks,Toronto Raptors,106.0,87.0,19.0,True
+2012-03-20,1.62,2.36,Indiana Pacers,Los Angeles Clippers,102.0,89.0,13.0,True
+2012-03-19,1.53,2.58,Denver Nuggets,Dallas Mavericks,95.0,112.0,-17.0,False
+2012-03-19,1.79,2.04,Golden State Warriors,Minnesota Timberwolves,93.0,97.0,-4.0,False
+2012-03-19,1.75,2.11,Orlando Magic,Chicago Bulls,59.0,85.0,-26.0,False
+2012-03-19,1.77,2.07,Atlanta Hawks,Boston Celtics,76.0,79.0,-3.0,False
+2012-03-19,1.56,2.52,Brooklyn Nets,Cleveland Cavaliers,100.0,105.0,-5.0,False
+2012-03-19,5.66,1.14,Charlotte Hornets,Philadelphia 76ers,80.0,105.0,-25.0,False
+2012-03-18,1.11,6.99,Los Angeles Lakers,Utah Jazz,99.0,103.0,-4.0,False
+2012-03-18,1.2,4.82,Oklahoma City Thunder,Portland Trail Blazers,111.0,95.0,16.0,True
+2012-03-18,1.41,2.98,Phoenix Suns,Houston Rockets,99.0,86.0,13.0,True
+2012-03-18,1.21,4.6,Miami Heat,Orlando Magic,91.0,81.0,10.0,True
+2012-03-18,1.07,8.86,Memphis Grizzlies,Washington Wizards,97.0,92.0,5.0,True
+2012-03-18,2.08,1.77,Sacramento Kings,Minnesota Timberwolves,115.0,99.0,16.0,True
+2012-03-18,1.3,3.65,Los Angeles Clippers,Detroit Pistons,87.0,83.0,4.0,True
+2012-03-18,2.14,1.73,Cleveland Cavaliers,Atlanta Hawks,87.0,103.0,-16.0,False
+2012-03-17,1.65,2.31,Dallas Mavericks,San Antonio Spurs,106.0,99.0,7.0,True
+2012-03-17,1.37,3.19,Denver Nuggets,Boston Celtics,98.0,91.0,7.0,True
+2012-03-17,1.28,3.83,Utah Jazz,Golden State Warriors,99.0,92.0,7.0,True
+2012-03-17,1.68,2.23,Brooklyn Nets,New Orleans Pelicans,94.0,102.0,-8.0,False
+2012-03-17,1.55,2.54,Chicago Bulls,Philadelphia 76ers,89.0,80.0,9.0,True
+2012-03-17,1.99,1.84,Charlotte Hornets,Toronto Raptors,107.0,103.0,4.0,True
+2012-03-17,1.54,2.57,Indiana Pacers,New York Knicks,88.0,102.0,-14.0,False
+2012-03-17,1.29,3.69,Los Angeles Clippers,Houston Rockets,95.0,91.0,4.0,True
+2012-03-16,2.05,1.79,Golden State Warriors,Milwaukee Bucks,98.0,120.0,-22.0,False
+2012-03-16,1.28,3.83,Los Angeles Lakers,Minnesota Timberwolves,97.0,92.0,5.0,True
+2012-03-16,1.49,2.7,Phoenix Suns,Detroit Pistons,109.0,101.0,8.0,True
+2012-03-16,2.44,1.59,Sacramento Kings,Boston Celtics,120.0,95.0,25.0,True
+2012-03-16,1.49,2.71,Oklahoma City Thunder,San Antonio Spurs,105.0,114.0,-9.0,False
+2012-03-16,1.2,4.73,Chicago Bulls,Portland Trail Blazers,89.0,100.0,-11.0,False
+2012-03-16,1.15,5.53,Memphis Grizzlies,Toronto Raptors,110.0,114.0,-4.0,False
+2012-03-16,1.11,6.9,Atlanta Hawks,Washington Wizards,102.0,88.0,14.0,True
+2012-03-16,1.54,2.55,New York Knicks,Indiana Pacers,115.0,100.0,15.0,True
+2012-03-16,1.1,7.57,Orlando Magic,Brooklyn Nets,86.0,70.0,16.0,True
+2012-03-16,2.47,1.57,Philadelphia 76ers,Miami Heat,78.0,84.0,-6.0,False
+2012-03-15,1.22,4.63,Los Angeles Clippers,Phoenix Suns,87.0,91.0,-4.0,False
+2012-03-15,2.12,1.75,Denver Nuggets,Oklahoma City Thunder,90.0,103.0,-13.0,False
+2012-03-15,1.68,2.24,Utah Jazz,Minnesota Timberwolves,111.0,105.0,6.0,True
+2012-03-15,1.04,12.75,Dallas Mavericks,Charlotte Hornets,101.0,96.0,5.0,True
+2012-03-15,1.58,2.46,New Orleans Pelicans,Washington Wizards,89.0,99.0,-10.0,False
+2012-03-14,2.68,1.49,Golden State Warriors,Boston Celtics,103.0,105.0,-2.0,False
+2012-03-14,1.32,3.54,Los Angeles Clippers,Atlanta Hawks,96.0,82.0,14.0,True
+2012-03-14,1.51,2.63,Phoenix Suns,Utah Jazz,120.0,111.0,9.0,True
+2012-03-14,1.6,2.4,Sacramento Kings,Detroit Pistons,112.0,124.0,-12.0,False
+2012-03-14,2.31,1.65,Chicago Bulls,Miami Heat,106.0,102.0,4.0,True
+2012-03-14,1.3,3.64,San Antonio Spurs,Orlando Magic,122.0,111.0,11.0,True
+2012-03-14,1.25,4.12,Houston Rockets,Charlotte Hornets,107.0,87.0,20.0,True
+2012-03-14,1.35,3.34,Milwaukee Bucks,Cleveland Cavaliers,115.0,105.0,10.0,True
+2012-03-14,2.62,1.52,New Orleans Pelicans,Los Angeles Lakers,101.0,107.0,-6.0,False
+2012-03-14,1.75,2.11,Brooklyn Nets,Toronto Raptors,98.0,84.0,14.0,True
+2012-03-14,1.41,2.98,New York Knicks,Portland Trail Blazers,121.0,79.0,42.0,True
+2012-03-14,1.97,1.84,Indiana Pacers,Philadelphia 76ers,111.0,94.0,17.0,True
+2012-03-13,1.65,2.31,Sacramento Kings,Golden State Warriors,89.0,115.0,-26.0,False
+2012-03-13,1.49,2.71,Denver Nuggets,Atlanta Hawks,118.0,117.0,1.0,True
+2012-03-13,1.07,9.13,Dallas Mavericks,Washington Wizards,107.0,98.0,9.0,True
+2012-03-13,1.85,1.97,Memphis Grizzlies,Los Angeles Lakers,111.0,116.0,-5.0,False
+2012-03-13,1.11,7.08,Oklahoma City Thunder,Houston Rockets,103.0,104.0,-1.0,False
+2012-03-13,1.56,2.51,Cleveland Cavaliers,Toronto Raptors,88.0,96.0,-8.0,False
+2012-03-13,1.59,2.43,Indiana Pacers,Portland Trail Blazers,92.0,75.0,17.0,True
+2012-03-13,2.54,1.55,Orlando Magic,Miami Heat,104.0,98.0,6.0,True
+2012-03-12,1.44,2.87,Los Angeles Clippers,Boston Celtics,85.0,94.0,-9.0,False
+2012-03-12,1.57,2.47,Phoenix Suns,Minnesota Timberwolves,124.0,127.0,-3.0,False
+2012-03-12,1.34,3.4,Utah Jazz,Detroit Pistons,105.0,90.0,15.0,True
+2012-03-12,1.05,11.66,San Antonio Spurs,Washington Wizards,112.0,97.0,15.0,True
+2012-03-12,1.21,4.54,Chicago Bulls,New York Knicks,104.0,99.0,5.0,True
+2012-03-12,1.35,3.29,New Orleans Pelicans,Charlotte Hornets,71.0,73.0,-2.0,False
+2012-03-12,2.31,1.64,Brooklyn Nets,Milwaukee Bucks,99.0,105.0,-6.0,False
+2012-03-11,1.28,3.76,Los Angeles Clippers,Golden State Warriors,93.0,97.0,-4.0,False
+2012-03-11,1.8,2.02,Sacramento Kings,Atlanta Hawks,99.0,106.0,-7.0,False
+2012-03-11,1.38,3.14,Denver Nuggets,Memphis Grizzlies,91.0,94.0,-3.0,False
+2012-03-11,1.7,2.21,Cleveland Cavaliers,Houston Rockets,118.0,107.0,11.0,True
+2012-03-11,1.44,2.84,Orlando Magic,Indiana Pacers,107.0,94.0,13.0,True
+2012-03-11,2.08,1.78,Toronto Raptors,Milwaukee Bucks,99.0,105.0,-6.0,False
+2012-03-11,1.46,2.77,Los Angeles Lakers,Boston Celtics,97.0,94.0,3.0,True
+2012-03-11,1.7,2.21,New York Knicks,Philadelphia 76ers,94.0,106.0,-12.0,False
+2012-03-11,1.59,2.47,Golden State Warriors,Dallas Mavericks,111.0,87.0,24.0,True
+2012-03-11,2.03,1.81,Phoenix Suns,Memphis Grizzlies,98.0,91.0,7.0,True
+2012-03-11,3.14,1.39,Brooklyn Nets,Houston Rockets,106.0,112.0,-6.0,False
+2012-03-11,1.12,6.58,Chicago Bulls,Utah Jazz,111.0,97.0,14.0,True
+2012-03-11,1.24,4.17,Minnesota Timberwolves,New Orleans Pelicans,89.0,95.0,-6.0,False
+2012-03-11,1.02,17.0,Oklahoma City Thunder,Charlotte Hornets,122.0,95.0,27.0,True
+2012-03-11,1.71,2.19,Detroit Pistons,Toronto Raptors,105.0,86.0,19.0,True
+2012-03-11,1.18,5.06,Miami Heat,Indiana Pacers,93.0,91.0,2.0,True
+2012-03-11,2.95,1.42,Washington Wizards,Portland Trail Blazers,99.0,110.0,-11.0,False
+2012-03-10,2.01,1.81,Sacramento Kings,Dallas Mavericks,110.0,97.0,13.0,True
+2012-03-10,1.12,6.41,Denver Nuggets,New Orleans Pelicans,110.0,97.0,13.0,True
+2012-03-10,1.99,1.83,Milwaukee Bucks,New York Knicks,119.0,114.0,5.0,True
+2012-03-10,1.56,2.52,San Antonio Spurs,Los Angeles Clippers,108.0,120.0,-12.0,False
+2012-03-10,2.02,1.84,Minnesota Timberwolves,Los Angeles Lakers,102.0,105.0,-3.0,False
+2012-03-10,1.06,10.13,Oklahoma City Thunder,Cleveland Cavaliers,90.0,96.0,-6.0,False
+2012-03-10,1.67,2.26,Boston Celtics,Portland Trail Blazers,104.0,86.0,18.0,True
+2012-03-10,2.04,1.79,Detroit Pistons,Atlanta Hawks,86.0,85.0,1.0,True
+2012-03-10,2.02,1.81,Charlotte Hornets,Brooklyn Nets,74.0,83.0,-9.0,False
+2012-03-10,1.32,3.48,Philadelphia 76ers,Utah Jazz,104.0,91.0,13.0,True
+2012-03-09,2.4,1.6,Phoenix Suns,Dallas Mavericks,96.0,94.0,2.0,True
+2012-03-09,1.38,3.17,Chicago Bulls,Orlando Magic,94.0,99.0,-5.0,False
+2012-03-08,1.89,1.92,Golden State Warriors,Memphis Grizzlies,92.0,110.0,-18.0,False
+2012-03-08,1.48,2.73,Sacramento Kings,New Orleans Pelicans,99.0,98.0,1.0,True
+2012-03-08,1.14,5.91,Denver Nuggets,Cleveland Cavaliers,99.0,100.0,-1.0,False
+2012-03-08,1.3,3.67,San Antonio Spurs,New York Knicks,118.0,105.0,13.0,True
+2012-03-08,3.62,1.3,Brooklyn Nets,Los Angeles Clippers,101.0,100.0,1.0,True
+2012-03-08,1.91,1.9,Minnesota Timberwolves,Portland Trail Blazers,106.0,94.0,12.0,True
+2012-03-08,1.16,5.34,Oklahoma City Thunder,Phoenix Suns,115.0,104.0,11.0,True
+2012-03-07,3.63,1.3,Milwaukee Bucks,Chicago Bulls,104.0,106.0,-2.0,False
+2012-03-07,1.09,7.99,Miami Heat,Atlanta Hawks,89.0,86.0,3.0,True
+2012-03-07,3.45,1.33,Charlotte Hornets,Utah Jazz,93.0,99.0,-6.0,False
+2012-03-07,1.38,3.16,Philadelphia 76ers,Boston Celtics,103.0,71.0,32.0,True
+2012-03-07,2.02,1.82,Toronto Raptors,Houston Rockets,116.0,98.0,18.0,True
+2012-03-07,3.68,1.3,Washington Wizards,Los Angeles Lakers,106.0,101.0,5.0,True
+2012-03-06,1.75,2.11,Dallas Mavericks,New York Knicks,95.0,85.0,10.0,True
+2012-03-06,1.51,2.65,Boston Celtics,Houston Rockets,97.0,92.0,5.0,True
+2012-03-06,3.02,1.4,Detroit Pistons,Los Angeles Lakers,88.0,85.0,3.0,True
+2012-03-06,1.05,11.79,Miami Heat,Brooklyn Nets,108.0,78.0,30.0,True
+2012-03-06,5.07,1.18,Charlotte Hornets,Orlando Magic,100.0,84.0,16.0,True
+2012-03-06,1.3,3.68,Indiana Pacers,Atlanta Hawks,96.0,101.0,-5.0,False
+2012-03-06,1.13,6.21,Portland Trail Blazers,New Orleans Pelicans,86.0,74.0,12.0,True
+2012-03-06,1.19,4.96,Denver Nuggets,Sacramento Kings,119.0,116.0,3.0,True
+2012-03-06,1.32,3.51,Chicago Bulls,Indiana Pacers,92.0,72.0,20.0,True
+2012-03-06,2.08,1.76,Milwaukee Bucks,Philadelphia 76ers,97.0,93.0,4.0,True
+2012-03-06,1.71,2.19,Minnesota Timberwolves,Los Angeles Clippers,95.0,94.0,1.0,True
+2012-03-06,1.32,3.48,Oklahoma City Thunder,Dallas Mavericks,95.0,91.0,4.0,True
+2012-03-06,2.06,1.79,Cleveland Cavaliers,Utah Jazz,100.0,109.0,-9.0,False
+2012-03-06,3.19,1.37,Toronto Raptors,Orlando Magic,88.0,92.0,-4.0,False
+2012-03-06,1.88,1.93,Washington Wizards,Golden State Warriors,100.0,120.0,-20.0,False
+2012-03-04,1.34,3.36,San Antonio Spurs,Denver Nuggets,94.0,99.0,-5.0,False
+2012-03-04,1.43,2.92,Phoenix Suns,Sacramento Kings,96.0,88.0,8.0,True
+2012-03-04,1.74,2.13,Houston Rockets,Los Angeles Clippers,103.0,105.0,-2.0,False
+2012-03-04,2.45,1.58,Philadelphia 76ers,Chicago Bulls,91.0,96.0,-5.0,False
+2012-03-04,2.61,1.52,Charlotte Hornets,Brooklyn Nets,101.0,104.0,-3.0,False
+2012-03-04,1.86,1.95,Toronto Raptors,Golden State Warriors,83.0,75.0,8.0,True
+2012-03-04,2.24,1.68,Los Angeles Lakers,Miami Heat,93.0,83.0,10.0,True
+2012-03-04,1.85,1.97,Boston Celtics,New York Knicks,115.0,111.0,4.0,True
+2012-03-04,1.39,3.11,Portland Trail Blazers,Minnesota Timberwolves,110.0,122.0,-12.0,False
+2012-03-04,1.27,3.89,Dallas Mavericks,Utah Jazz,102.0,96.0,6.0,True
+2012-03-04,1.27,3.92,Memphis Grizzlies,Detroit Pistons,100.0,83.0,17.0,True
+2012-03-04,2.98,1.41,New Orleans Pelicans,Indiana Pacers,84.0,102.0,-18.0,False
+2012-03-04,3.08,1.39,Atlanta Hawks,Oklahoma City Thunder,97.0,90.0,7.0,True
+2012-03-04,1.17,5.26,Orlando Magic,Milwaukee Bucks,114.0,98.0,16.0,True
+2012-03-04,1.58,2.47,Washington Wizards,Cleveland Cavaliers,101.0,98.0,3.0,True
+2012-03-03,1.13,6.25,Los Angeles Lakers,Sacramento Kings,115.0,107.0,8.0,True
+2012-03-03,2.25,1.67,Phoenix Suns,Los Angeles Clippers,81.0,78.0,3.0,True
+2012-03-03,2.81,1.46,Utah Jazz,Miami Heat,99.0,98.0,1.0,True
+2012-03-03,1.03,14.53,San Antonio Spurs,Charlotte Hornets,102.0,72.0,30.0,True
+2012-03-03,1.63,2.35,Houston Rockets,Denver Nuggets,105.0,117.0,-12.0,False
+2012-03-03,3.45,1.33,New Orleans Pelicans,Dallas Mavericks,97.0,92.0,5.0,True
+2012-03-03,1.31,3.58,Philadelphia 76ers,Golden State Warriors,105.0,83.0,22.0,True
+2012-03-03,1.53,2.58,Atlanta Hawks,Milwaukee Bucks,99.0,94.0,5.0,True
+2012-03-03,1.38,3.13,Boston Celtics,Brooklyn Nets,107.0,94.0,13.0,True
+2012-03-03,5.13,1.18,Cleveland Cavaliers,Chicago Bulls,91.0,112.0,-21.0,False
+2012-03-03,2.46,1.58,Toronto Raptors,Memphis Grizzlies,99.0,102.0,-3.0,False
+2012-03-02,2.52,1.56,Portland Trail Blazers,Miami Heat,93.0,107.0,-14.0,False
+2012-03-02,2.44,1.59,Sacramento Kings,Los Angeles Clippers,100.0,108.0,-8.0,False
+2012-03-02,1.53,2.59,Phoenix Suns,Minnesota Timberwolves,104.0,95.0,9.0,True
+2012-03-01,1.95,1.86,Orlando Magic,Oklahoma City Thunder,102.0,105.0,-3.0,False
+2012-03-01,1.32,3.52,Los Angeles Lakers,Minnesota Timberwolves,104.0,85.0,19.0,True
+2012-03-01,1.67,2.26,Denver Nuggets,Portland Trail Blazers,104.0,95.0,9.0,True
+2012-03-01,1.77,2.08,San Antonio Spurs,Chicago Bulls,89.0,96.0,-7.0,False
+2012-03-01,1.74,2.13,Utah Jazz,Houston Rockets,104.0,83.0,21.0,True
+2012-03-01,1.75,2.11,Memphis Grizzlies,Dallas Mavericks,96.0,85.0,11.0,True
+2012-03-01,1.68,2.24,New Orleans Pelicans,Toronto Raptors,84.0,95.0,-11.0,False
+2012-03-01,1.34,3.35,Atlanta Hawks,Golden State Warriors,82.0,85.0,-3.0,False
+2012-03-01,1.38,3.15,Boston Celtics,Milwaukee Bucks,102.0,96.0,6.0,True
+2012-03-01,1.41,2.99,Detroit Pistons,Charlotte Hornets,109.0,94.0,15.0,True
+2012-03-01,1.15,5.57,New York Knicks,Cleveland Cavaliers,120.0,103.0,17.0,True
+2012-03-01,2.29,1.65,Philadelphia 76ers,Oklahoma City Thunder,88.0,92.0,-4.0,False
+2012-03-01,4.27,1.23,Washington Wizards,Orlando Magic,95.0,102.0,-7.0,False
+2012-02-29,1.36,3.24,Los Angeles Clippers,Minnesota Timberwolves,97.0,109.0,-12.0,False
+2012-02-29,1.61,2.4,Sacramento Kings,Utah Jazz,103.0,96.0,7.0,True
+2012-02-29,1.15,5.59,Dallas Mavericks,Brooklyn Nets,92.0,93.0,-1.0,False
+2012-02-29,1.05,10.58,Chicago Bulls,New Orleans Pelicans,99.0,95.0,4.0,True
+2012-02-29,1.17,5.24,Houston Rockets,Toronto Raptors,88.0,85.0,3.0,True
+2012-02-29,1.31,3.56,Milwaukee Bucks,Washington Wizards,119.0,118.0,1.0,True
+2012-02-29,2.41,1.6,Detroit Pistons,Philadelphia 76ers,68.0,97.0,-29.0,False
+2012-02-29,2.4,1.6,Cleveland Cavaliers,Boston Celtics,83.0,86.0,-3.0,False
+2012-02-29,1.39,3.1,Indiana Pacers,Golden State Warriors,102.0,78.0,24.0,True
+2012-02-26,1.56,2.5,East,West,149.0,152.0,-3.0,False
+2012-02-23,1.31,3.54,Oklahoma City Thunder,Los Angeles Lakers,100.0,85.0,15.0,True
+2012-02-23,2.52,1.56,Denver Nuggets,San Antonio Spurs,99.0,114.0,-15.0,False
+2012-02-23,2.62,1.51,Atlanta Hawks,Orlando Magic,83.0,78.0,5.0,True
+2012-02-23,1.17,5.32,Miami Heat,New York Knicks,102.0,88.0,14.0,True
+2012-02-23,1.21,4.57,Los Angeles Clippers,Denver Nuggets,103.0,95.0,8.0,True
+2012-02-23,1.52,2.6,Dallas Mavericks,Los Angeles Lakers,91.0,96.0,-5.0,False
+2012-02-23,1.57,2.49,Phoenix Suns,Golden State Warriors,104.0,106.0,-2.0,False
+2012-02-23,1.11,6.74,Chicago Bulls,Milwaukee Bucks,110.0,91.0,19.0,True
+2012-02-23,1.54,2.56,Houston Rockets,Philadelphia 76ers,93.0,87.0,6.0,True
+2012-02-23,1.45,2.83,Minnesota Timberwolves,Utah Jazz,100.0,98.0,2.0,True
+2012-02-23,3.26,1.36,Brooklyn Nets,Orlando Magic,91.0,108.0,-17.0,False
+2012-02-23,1.32,3.48,New York Knicks,Atlanta Hawks,99.0,82.0,17.0,True
+2012-02-23,2.92,1.42,Charlotte Hornets,Indiana Pacers,88.0,102.0,-14.0,False
+2012-02-23,1.47,2.77,Cleveland Cavaliers,New Orleans Pelicans,84.0,89.0,-5.0,False
+2012-02-23,1.22,4.46,Oklahoma City Thunder,Boston Celtics,119.0,104.0,15.0,True
+2012-02-23,1.54,2.56,Toronto Raptors,Detroit Pistons,103.0,93.0,10.0,True
+2012-02-23,1.68,2.25,Washington Wizards,Sacramento Kings,107.0,115.0,-8.0,False
+2012-02-22,1.28,3.78,Portland Trail Blazers,San Antonio Spurs,137.0,97.0,40.0,True
+2012-02-22,2.0,1.82,Memphis Grizzlies,Philadelphia 76ers,89.0,76.0,13.0,True
+2012-02-22,1.05,10.94,Miami Heat,Sacramento Kings,120.0,108.0,12.0,True
+2012-02-22,1.79,2.05,Cleveland Cavaliers,Detroit Pistons,101.0,100.0,1.0,True
+2012-02-22,1.13,6.2,Indiana Pacers,New Orleans Pelicans,117.0,108.0,9.0,True
+2012-02-21,2.19,1.71,Golden State Warriors,Los Angeles Clippers,104.0,97.0,7.0,True
+2012-02-21,1.54,2.56,Los Angeles Lakers,Portland Trail Blazers,103.0,92.0,11.0,True
+2012-02-21,1.61,2.39,Denver Nuggets,Minnesota Timberwolves,103.0,101.0,2.0,True
+2012-02-21,1.4,3.06,Phoenix Suns,Washington Wizards,104.0,88.0,16.0,True
+2012-02-21,2.19,1.71,Utah Jazz,San Antonio Spurs,102.0,106.0,-4.0,False
+2012-02-20,1.17,5.2,Dallas Mavericks,Boston Celtics,89.0,73.0,16.0,True
+2012-02-20,1.65,2.29,Houston Rockets,Memphis Grizzlies,97.0,93.0,4.0,True
+2012-02-20,2.03,1.8,Milwaukee Bucks,Orlando Magic,90.0,93.0,-3.0,False
+2012-02-20,1.12,6.48,Oklahoma City Thunder,New Orleans Pelicans,101.0,93.0,8.0,True
+2012-02-20,1.19,4.81,New York Knicks,Brooklyn Nets,92.0,100.0,-8.0,False
+2012-02-20,1.13,6.14,Chicago Bulls,Atlanta Hawks,90.0,79.0,11.0,True
+2012-02-19,1.24,4.17,Oklahoma City Thunder,Denver Nuggets,124.0,118.0,6.0,True
+2012-02-19,2.24,1.68,Phoenix Suns,Los Angeles Lakers,102.0,90.0,12.0,True
+2012-02-19,2.08,1.77,Brooklyn Nets,Milwaukee Bucks,85.0,92.0,-7.0,False
+2012-02-19,1.41,3.0,Houston Rockets,Utah Jazz,101.0,85.0,16.0,True
+2012-02-19,1.92,1.89,Minnesota Timberwolves,Philadelphia 76ers,92.0,91.0,1.0,True
+2012-02-19,1.78,2.05,Cleveland Cavaliers,Sacramento Kings,93.0,92.0,1.0,True
+2012-02-19,2.68,1.5,Detroit Pistons,Boston Celtics,96.0,81.0,15.0,True
+2012-02-19,1.12,6.39,Indiana Pacers,Charlotte Hornets,108.0,73.0,35.0,True
+2012-02-19,1.17,5.25,Miami Heat,Orlando Magic,90.0,78.0,12.0,True
+2012-02-19,2.11,1.75,New York Knicks,Dallas Mavericks,104.0,97.0,7.0,True
+2012-02-19,1.47,2.75,Portland Trail Blazers,Atlanta Hawks,97.0,77.0,20.0,True
+2012-02-19,1.4,3.0,Memphis Grizzlies,Golden State Warriors,104.0,103.0,1.0,True
+2012-02-19,1.08,8.83,Chicago Bulls,Brooklyn Nets,85.0,97.0,-12.0,False
+2012-02-19,1.67,2.25,Los Angeles Clippers,San Antonio Spurs,100.0,103.0,-3.0,False
+2012-02-18,1.24,4.22,Los Angeles Lakers,Phoenix Suns,111.0,99.0,12.0,True
+2012-02-18,1.18,5.07,Utah Jazz,Washington Wizards,114.0,100.0,14.0,True
+2012-02-18,1.48,2.71,Houston Rockets,Minnesota Timberwolves,98.0,111.0,-13.0,False
+2012-02-18,1.53,2.57,Memphis Grizzlies,Denver Nuggets,103.0,102.0,1.0,True
+2012-02-18,1.17,5.15,New York Knicks,New Orleans Pelicans,85.0,89.0,-4.0,False
+2012-02-18,1.17,5.16,Oklahoma City Thunder,Golden State Warriors,110.0,87.0,23.0,True
+2012-02-18,1.61,2.38,Philadelphia 76ers,Dallas Mavericks,75.0,82.0,-7.0,False
+2012-02-18,5.47,1.15,Cleveland Cavaliers,Miami Heat,87.0,111.0,-24.0,False
+2012-02-18,1.69,2.23,Detroit Pistons,Sacramento Kings,114.0,108.0,6.0,True
+2012-02-18,1.29,3.79,Orlando Magic,Milwaukee Bucks,94.0,85.0,9.0,True
+2012-02-18,1.32,3.5,Toronto Raptors,Charlotte Hornets,91.0,98.0,-7.0,False
+2012-02-17,2.08,1.77,Portland Trail Blazers,Los Angeles Clippers,71.0,74.0,-3.0,False
+2012-02-17,1.27,3.94,Chicago Bulls,Boston Celtics,89.0,80.0,9.0,True
+2012-02-17,1.22,4.5,Indiana Pacers,Brooklyn Nets,93.0,88.0,5.0,True
+2012-02-16,1.07,9.36,Los Angeles Clippers,Washington Wizards,102.0,84.0,18.0,True
+2012-02-16,1.45,2.8,Golden State Warriors,Portland Trail Blazers,91.0,93.0,-2.0,False
+2012-02-16,1.99,1.83,Phoenix Suns,Atlanta Hawks,99.0,101.0,-2.0,False
+2012-02-16,1.33,3.39,Dallas Mavericks,Denver Nuggets,102.0,84.0,18.0,True
+2012-02-16,2.26,1.67,Houston Rockets,Oklahoma City Thunder,96.0,95.0,1.0,True
+2012-02-16,1.18,5.11,Milwaukee Bucks,New Orleans Pelicans,89.0,92.0,-3.0,False
+2012-02-16,1.14,5.9,Minnesota Timberwolves,Charlotte Hornets,102.0,90.0,12.0,True
+2012-02-16,1.18,5.04,Boston Celtics,Detroit Pistons,88.0,98.0,-10.0,False
+2012-02-16,2.32,1.64,Brooklyn Nets,Memphis Grizzlies,100.0,105.0,-5.0,False
+2012-02-16,2.03,1.8,Cleveland Cavaliers,Indiana Pacers,98.0,87.0,11.0,True
+2012-02-16,1.37,3.21,New York Knicks,Sacramento Kings,100.0,88.0,12.0,True
+2012-02-16,1.64,2.31,Orlando Magic,Philadelphia 76ers,103.0,87.0,16.0,True
+2012-02-16,3.61,1.31,Toronto Raptors,San Antonio Spurs,106.0,113.0,-7.0,False
+2012-02-15,1.43,2.91,Los Angeles Lakers,Atlanta Hawks,86.0,78.0,8.0,True
+2012-02-15,1.03,14.0,Portland Trail Blazers,Washington Wizards,109.0,124.0,-15.0,False
+2012-02-15,1.18,5.06,Denver Nuggets,Phoenix Suns,109.0,92.0,17.0,True
+2012-02-14,1.08,8.22,Chicago Bulls,Sacramento Kings,121.0,115.0,6.0,True
+2012-02-14,1.66,2.27,Memphis Grizzlies,Houston Rockets,93.0,83.0,10.0,True
+2012-02-14,1.08,8.47,Oklahoma City Thunder,Utah Jazz,111.0,85.0,26.0,True
+2012-02-14,4.44,1.22,Detroit Pistons,San Antonio Spurs,95.0,99.0,-4.0,False
+2012-02-14,2.19,1.71,Indiana Pacers,Miami Heat,90.0,105.0,-15.0,False
+2012-02-14,2.7,1.48,Toronto Raptors,New York Knicks,87.0,90.0,-3.0,False
+2012-02-14,1.64,2.32,Golden State Warriors,Phoenix Suns,102.0,96.0,6.0,True
+2012-02-14,1.57,2.48,Dallas Mavericks,Los Angeles Clippers,96.0,92.0,4.0,True
+2012-02-14,3.35,1.34,Milwaukee Bucks,Miami Heat,96.0,114.0,-18.0,False
+2012-02-14,2.81,1.45,New Orleans Pelicans,Utah Jazz,86.0,80.0,6.0,True
+2012-02-14,7.73,1.1,Charlotte Hornets,Philadelphia 76ers,89.0,98.0,-9.0,False
+2012-02-14,1.47,2.74,Orlando Magic,Minnesota Timberwolves,102.0,89.0,13.0,True
+2012-02-12,1.38,3.18,Memphis Grizzlies,Utah Jazz,88.0,98.0,-10.0,False
+2012-02-12,1.83,1.99,Golden State Warriors,Houston Rockets,106.0,97.0,9.0,True
+2012-02-12,2.57,1.53,Atlanta Hawks,Miami Heat,87.0,107.0,-20.0,False
+2012-02-12,1.39,3.07,Detroit Pistons,Washington Wizards,77.0,98.0,-21.0,False
+2012-02-12,1.84,0.0,Boston Celtics,Chicago Bulls,95.0,91.0,4.0,True
+2012-02-12,3.27,1.36,Toronto Raptors,Los Angeles Lakers,92.0,94.0,-2.0,False
+2012-02-12,1.73,2.16,Sacramento Kings,Phoenix Suns,84.0,98.0,-14.0,False
+2012-02-12,2.05,1.79,Milwaukee Bucks,Orlando Magic,94.0,99.0,-5.0,False
+2012-02-12,1.52,2.62,Dallas Mavericks,Portland Trail Blazers,97.0,94.0,3.0,True
+2012-02-12,5.74,1.14,Brooklyn Nets,San Antonio Spurs,89.0,103.0,-14.0,False
+2012-02-12,1.4,3.03,Minnesota Timberwolves,New York Knicks,98.0,100.0,-2.0,False
+2012-02-12,3.62,1.3,Cleveland Cavaliers,Philadelphia 76ers,84.0,99.0,-15.0,False
+2012-02-12,5.34,1.16,Charlotte Hornets,Los Angeles Clippers,86.0,111.0,-25.0,False
+2012-02-12,1.66,2.3,Indiana Pacers,Denver Nuggets,109.0,113.0,-4.0,False
+2012-02-11,1.97,1.84,Utah Jazz,Oklahoma City Thunder,87.0,101.0,-14.0,False
+2012-02-11,1.8,2.04,Memphis Grizzlies,Indiana Pacers,98.0,92.0,6.0,True
+2012-02-11,2.1,1.75,Minnesota Timberwolves,Dallas Mavericks,97.0,104.0,-7.0,False
+2012-02-11,3.51,1.32,New Orleans Pelicans,Portland Trail Blazers,86.0,94.0,-8.0,False
+2012-02-11,2.63,1.51,New York Knicks,Los Angeles Lakers,92.0,85.0,7.0,True
+2012-02-11,2.0,1.83,Cleveland Cavaliers,Milwaukee Bucks,112.0,113.0,-1.0,False
+2012-02-11,1.7,2.21,Detroit Pistons,Brooklyn Nets,109.0,92.0,17.0,True
+2012-02-11,11.38,1.05,Charlotte Hornets,Chicago Bulls,64.0,95.0,-31.0,False
+2012-02-11,1.45,2.8,Orlando Magic,Atlanta Hawks,87.0,89.0,-2.0,False
+2012-02-11,1.61,2.39,Philadelphia 76ers,Los Angeles Clippers,77.0,78.0,-1.0,False
+2012-02-11,2.6,1.53,Toronto Raptors,Boston Celtics,86.0,74.0,12.0,True
+2012-02-11,10.04,1.06,Washington Wizards,Miami Heat,89.0,106.0,-17.0,False
+2012-02-10,3.34,1.34,Sacramento Kings,Oklahoma City Thunder,106.0,101.0,5.0,True
+2012-02-10,1.38,3.17,Denver Nuggets,Golden State Warriors,101.0,109.0,-8.0,False
+2012-02-10,1.55,2.53,Phoenix Suns,Houston Rockets,89.0,96.0,-7.0,False
+2012-02-10,1.64,2.33,Boston Celtics,Los Angeles Lakers,87.0,88.0,-1.0,False
+2012-02-09,1.28,3.84,Portland Trail Blazers,Houston Rockets,96.0,103.0,-7.0,False
+2012-02-09,1.92,1.89,Denver Nuggets,Dallas Mavericks,95.0,105.0,-10.0,False
+2012-02-09,1.29,3.76,Memphis Grizzlies,Minnesota Timberwolves,85.0,80.0,5.0,True
+2012-02-09,5.7,1.15,New Orleans Pelicans,Chicago Bulls,67.0,90.0,-23.0,False
+2012-02-09,1.59,2.42,Atlanta Hawks,Indiana Pacers,97.0,87.0,10.0,True
+2012-02-09,1.63,2.34,Brooklyn Nets,Detroit Pistons,92.0,99.0,-7.0,False
+2012-02-09,1.6,2.41,Philadelphia 76ers,San Antonio Spurs,90.0,100.0,-10.0,False
+2012-02-09,2.04,1.79,Toronto Raptors,Milwaukee Bucks,99.0,105.0,-6.0,False
+2012-02-08,3.39,1.34,Cleveland Cavaliers,Los Angeles Clippers,99.0,92.0,7.0,True
+2012-02-08,2.46,1.58,Orlando Magic,Miami Heat,102.0,89.0,13.0,True
+2012-02-08,1.8,2.04,Washington Wizards,New York Knicks,93.0,107.0,-14.0,False
+2012-02-08,2.1,1.76,Golden State Warriors,Oklahoma City Thunder,116.0,119.0,-3.0,False
+2012-02-08,1.28,3.8,Milwaukee Bucks,Phoenix Suns,105.0,107.0,-2.0,False
+2012-02-08,1.35,3.33,Minnesota Timberwolves,Sacramento Kings,86.0,84.0,2.0,True
+2012-02-08,1.04,12.03,Boston Celtics,Charlotte Hornets,94.0,84.0,10.0,True
+2012-02-08,1.05,10.96,Miami Heat,Cleveland Cavaliers,107.0,91.0,16.0,True
+2012-02-08,1.19,4.84,Indiana Pacers,Utah Jazz,104.0,99.0,5.0,True
+2012-02-07,1.87,1.95,Portland Trail Blazers,Oklahoma City Thunder,107.0,111.0,-4.0,False
+2012-02-07,1.34,3.36,Denver Nuggets,Houston Rockets,90.0,99.0,-9.0,False
+2012-02-07,1.9,1.91,Memphis Grizzlies,San Antonio Spurs,84.0,89.0,-5.0,False
+2012-02-07,1.76,2.09,New Orleans Pelicans,Sacramento Kings,92.0,100.0,-8.0,False
+2012-02-07,1.26,4.04,Atlanta Hawks,Phoenix Suns,90.0,99.0,-9.0,False
+2012-02-07,5.36,1.17,Brooklyn Nets,Chicago Bulls,87.0,108.0,-21.0,False
+2012-02-07,1.66,2.26,New York Knicks,Utah Jazz,99.0,88.0,11.0,True
+2012-02-07,1.99,1.83,Orlando Magic,Los Angeles Clippers,102.0,107.0,-5.0,False
+2012-02-07,1.54,2.56,Philadelphia 76ers,Los Angeles Lakers,95.0,90.0,5.0,True
+2012-02-07,1.54,2.55,Washington Wizards,Toronto Raptors,111.0,108.0,3.0,True
+2012-02-05,1.02,16.0,Miami Heat,Toronto Raptors,95.0,89.0,6.0,True
+2012-02-05,1.55,2.54,Boston Celtics,Memphis Grizzlies,98.0,80.0,18.0,True
+2012-02-05,1.38,3.13,Portland Trail Blazers,Denver Nuggets,117.0,97.0,20.0,True
+2012-02-05,1.84,1.98,Sacramento Kings,Golden State Warriors,114.0,106.0,8.0,True
+2012-02-05,1.15,5.6,Phoenix Suns,Charlotte Hornets,95.0,89.0,6.0,True
+2012-02-05,1.75,2.12,Utah Jazz,Los Angeles Lakers,96.0,87.0,9.0,True
+2012-02-05,2.71,1.48,Milwaukee Bucks,Chicago Bulls,90.0,113.0,-23.0,False
+2012-02-05,1.68,2.24,San Antonio Spurs,Oklahoma City Thunder,107.0,96.0,11.0,True
+2012-02-05,1.82,2.0,Minnesota Timberwolves,Houston Rockets,100.0,91.0,9.0,True
+2012-02-05,2.93,1.43,Cleveland Cavaliers,Dallas Mavericks,91.0,88.0,3.0,True
+2012-02-05,1.94,1.87,Detroit Pistons,New Orleans Pelicans,89.0,87.0,2.0,True
+2012-02-05,1.37,3.22,New York Knicks,Brooklyn Nets,99.0,92.0,7.0,True
+2012-02-05,1.62,2.36,Atlanta Hawks,Philadelphia 76ers,87.0,98.0,-11.0,False
+2012-02-05,1.47,2.77,Indiana Pacers,Orlando Magic,81.0,85.0,-4.0,False
+2012-02-05,4.37,1.22,Washington Wizards,Los Angeles Clippers,79.0,107.0,-28.0,False
+2012-02-04,1.59,2.44,Denver Nuggets,Los Angeles Lakers,89.0,93.0,-4.0,False
+2012-02-04,1.51,2.63,Dallas Mavericks,Indiana Pacers,87.0,98.0,-11.0,False
+2012-02-04,1.34,3.4,Boston Celtics,New York Knicks,91.0,89.0,2.0,True
+2012-02-04,1.33,3.45,Houston Rockets,Phoenix Suns,99.0,81.0,18.0,True
+2012-02-04,1.21,4.55,Oklahoma City Thunder,Memphis Grizzlies,101.0,94.0,7.0,True
+2012-02-04,2.64,1.51,Brooklyn Nets,Minnesota Timberwolves,105.0,108.0,-3.0,False
+2012-02-04,2.66,1.5,Detroit Pistons,Milwaukee Bucks,88.0,80.0,8.0,True
+2012-02-04,1.29,3.73,Orlando Magic,Cleveland Cavaliers,102.0,94.0,8.0,True
+2012-02-04,2.11,1.75,Philadelphia 76ers,Miami Heat,79.0,99.0,-20.0,False
+2012-02-04,1.52,2.63,Toronto Raptors,Washington Wizards,106.0,89.0,17.0,True
+2012-02-03,1.47,2.76,Golden State Warriors,Utah Jazz,119.0,101.0,18.0,True
+2012-02-03,1.88,1.94,Los Angeles Clippers,Denver Nuggets,91.0,112.0,-21.0,False
+2012-02-03,2.48,1.58,Sacramento Kings,Portland Trail Blazers,95.0,92.0,3.0,True
+2012-02-03,1.14,5.77,San Antonio Spurs,New Orleans Pelicans,93.0,81.0,12.0,True
+2012-02-03,2.43,1.59,New York Knicks,Chicago Bulls,102.0,105.0,-3.0,False
+2012-02-03,1.54,2.56,Atlanta Hawks,Memphis Grizzlies,77.0,96.0,-19.0,False
+2012-02-02,2.16,1.73,Utah Jazz,Los Angeles Clippers,105.0,107.0,-2.0,False
+2012-02-02,1.03,14.85,Portland Trail Blazers,Charlotte Hornets,112.0,68.0,44.0,True
+2012-02-02,1.43,2.87,San Antonio Spurs,Houston Rockets,99.0,91.0,8.0,True
+2012-02-02,1.89,1.92,Dallas Mavericks,Oklahoma City Thunder,86.0,95.0,-9.0,False
+2012-02-02,3.53,1.31,Milwaukee Bucks,Miami Heat,105.0,97.0,8.0,True
+2012-02-02,1.67,2.26,Minnesota Timberwolves,Indiana Pacers,99.0,109.0,-10.0,False
+2012-02-02,1.82,2.0,New Orleans Pelicans,Phoenix Suns,103.0,120.0,-17.0,False
+2012-02-02,1.19,4.85,Boston Celtics,Toronto Raptors,100.0,64.0,36.0,True
+2012-02-02,1.4,3.04,Brooklyn Nets,Detroit Pistons,99.0,96.0,3.0,True
+2012-02-02,1.15,5.71,Orlando Magic,Washington Wizards,109.0,103.0,6.0,True
+2012-02-02,2.08,1.77,Philadelphia 76ers,Chicago Bulls,98.0,82.0,16.0,True
+2012-02-01,1.3,3.61,Golden State Warriors,Sacramento Kings,93.0,90.0,3.0,True
+2012-02-01,1.06,10.75,Los Angeles Lakers,Charlotte Hornets,106.0,73.0,33.0,True
+2012-02-01,2.01,1.82,Memphis Grizzlies,Denver Nuggets,100.0,97.0,3.0,True
+2012-02-01,1.18,5.12,New York Knicks,Detroit Pistons,113.0,86.0,27.0,True
+2012-02-01,2.59,1.52,Cleveland Cavaliers,Boston Celtics,90.0,93.0,-3.0,False
+2012-02-01,1.17,5.23,Indiana Pacers,Brooklyn Nets,106.0,99.0,7.0,True
+2012-02-01,2.96,1.42,Toronto Raptors,Atlanta Hawks,77.0,100.0,-23.0,False
+2012-01-31,2.06,1.78,Los Angeles Clippers,Oklahoma City Thunder,112.0,100.0,12.0,True
+2012-01-31,2.71,1.49,Phoenix Suns,Dallas Mavericks,99.0,122.0,-23.0,False
+2012-01-31,2.08,1.76,Utah Jazz,Portland Trail Blazers,93.0,89.0,4.0,True
+2012-01-31,1.36,3.28,Houston Rockets,Minnesota Timberwolves,108.0,120.0,-12.0,False
+2012-01-31,1.41,3.0,Memphis Grizzlies,San Antonio Spurs,73.0,83.0,-10.0,False
+2012-01-31,1.3,3.68,Milwaukee Bucks,Detroit Pistons,103.0,82.0,21.0,True
+2012-01-31,1.08,8.83,Miami Heat,New Orleans Pelicans,109.0,95.0,14.0,True
+2012-01-31,1.31,3.54,Philadelphia 76ers,Orlando Magic,74.0,69.0,5.0,True
+2012-01-31,4.79,1.2,Washington Wizards,Chicago Bulls,88.0,98.0,-10.0,False
+2012-01-29,1.4,3.03,Denver Nuggets,Los Angeles Clippers,105.0,109.0,-4.0,False
+2012-01-29,1.76,2.08,Minnesota Timberwolves,Los Angeles Lakers,101.0,106.0,-5.0,False
+2012-01-29,2.18,1.71,New Orleans Pelicans,Atlanta Hawks,72.0,94.0,-22.0,False
+2012-01-29,1.43,2.92,Dallas Mavericks,San Antonio Spurs,101.0,100.0,1.0,True
+2012-01-29,1.32,3.49,Boston Celtics,Cleveland Cavaliers,87.0,88.0,-1.0,False
+2012-01-29,1.47,2.74,Brooklyn Nets,Toronto Raptors,73.0,94.0,-21.0,False
+2012-01-29,1.64,2.32,Orlando Magic,Indiana Pacers,85.0,106.0,-21.0,False
+2012-01-29,1.49,2.7,Miami Heat,Chicago Bulls,97.0,93.0,4.0,True
+2012-01-28,2.49,1.57,Phoenix Suns,Memphis Grizzlies,86.0,84.0,2.0,True
+2012-01-28,1.2,4.73,Utah Jazz,Sacramento Kings,96.0,93.0,3.0,True
+2012-01-28,2.73,1.48,Milwaukee Bucks,Los Angeles Lakers,100.0,89.0,11.0,True
+2012-01-28,1.34,3.32,Houston Rockets,New York Knicks,97.0,84.0,13.0,True
+2012-01-28,2.02,1.81,Charlotte Hornets,Washington Wizards,99.0,102.0,-3.0,False
+2012-01-28,1.07,9.85,Philadelphia 76ers,Detroit Pistons,95.0,74.0,21.0,True
+2012-01-28,2.65,1.51,Golden State Warriors,Oklahoma City Thunder,109.0,120.0,-11.0,False
+2012-01-28,1.18,4.97,Portland Trail Blazers,Phoenix Suns,109.0,71.0,38.0,True
+2012-01-28,1.09,8.17,Denver Nuggets,Toronto Raptors,96.0,81.0,15.0,True
+2012-01-28,1.51,2.65,Dallas Mavericks,Utah Jazz,116.0,101.0,15.0,True
+2012-01-28,1.12,6.7,Chicago Bulls,Milwaukee Bucks,107.0,100.0,7.0,True
+2012-01-28,1.19,4.86,Houston Rockets,Washington Wizards,103.0,76.0,27.0,True
+2012-01-28,1.11,6.9,Miami Heat,New York Knicks,99.0,89.0,10.0,True
+2012-01-28,1.96,1.85,Minnesota Timberwolves,San Antonio Spurs,87.0,79.0,8.0,True
+2012-01-28,2.44,1.59,New Orleans Pelicans,Orlando Magic,93.0,67.0,26.0,True
+2012-01-27,2.4,1.6,Boston Celtics,Indiana Pacers,94.0,87.0,7.0,True
+2012-01-27,1.55,2.53,Cleveland Cavaliers,Brooklyn Nets,96.0,99.0,-3.0,False
+2012-01-27,3.17,1.38,Detroit Pistons,Atlanta Hawks,101.0,107.0,-6.0,False
+2012-01-27,1.02,16.0,Philadelphia 76ers,Charlotte Hornets,89.0,72.0,17.0,True
+2012-01-27,1.58,2.46,Los Angeles Clippers,Memphis Grizzlies,98.0,91.0,7.0,True
+2012-01-27,1.17,5.14,Orlando Magic,Boston Celtics,83.0,91.0,-8.0,False
+2012-01-26,1.6,2.43,Golden State Warriors,Portland Trail Blazers,101.0,93.0,8.0,True
+2012-01-26,1.56,2.51,Los Angeles Lakers,Los Angeles Clippers,96.0,91.0,5.0,True
+2012-01-26,3.22,1.37,Sacramento Kings,Denver Nuggets,93.0,122.0,-29.0,False
+2012-01-26,1.14,5.78,Utah Jazz,Toronto Raptors,106.0,111.0,-5.0,False
+2012-01-26,1.4,3.01,Dallas Mavericks,Minnesota Timberwolves,90.0,105.0,-15.0,False
+2012-01-26,1.52,2.61,San Antonio Spurs,Atlanta Hawks,105.0,83.0,22.0,True
+2012-01-26,1.23,4.27,Chicago Bulls,Indiana Pacers,90.0,95.0,-5.0,False
+2012-01-26,1.49,2.69,Houston Rockets,Milwaukee Bucks,99.0,105.0,-6.0,False
+2012-01-26,1.07,9.22,Oklahoma City Thunder,New Orleans Pelicans,101.0,91.0,10.0,True
+2012-01-26,4.41,1.22,Detroit Pistons,Miami Heat,98.0,101.0,-3.0,False
+2012-01-26,2.46,1.58,Cleveland Cavaliers,New York Knicks,91.0,81.0,10.0,True
+2012-01-26,1.11,7.15,Philadelphia 76ers,Brooklyn Nets,90.0,97.0,-7.0,False
+2012-01-26,1.3,3.68,Washington Wizards,Charlotte Hornets,92.0,75.0,17.0,True
+2012-01-25,1.39,3.1,Portland Trail Blazers,Memphis Grizzlies,97.0,84.0,13.0,True
+2012-01-25,1.4,3.04,Phoenix Suns,Toronto Raptors,96.0,99.0,-3.0,False
+2012-01-25,1.06,10.54,Miami Heat,Cleveland Cavaliers,92.0,85.0,7.0,True
+2012-01-25,2.96,1.42,Charlotte Hornets,New York Knicks,78.0,111.0,-33.0,False
+2012-01-25,1.62,2.36,Indiana Pacers,Orlando Magic,83.0,102.0,-19.0,False
+2012-01-24,1.72,2.16,Golden State Warriors,Memphis Grizzlies,90.0,91.0,-1.0,False
+2012-01-24,1.13,6.31,Portland Trail Blazers,Sacramento Kings,101.0,89.0,12.0,True
+2012-01-24,1.45,2.82,Dallas Mavericks,Phoenix Suns,93.0,87.0,6.0,True
+2012-01-24,1.06,10.38,Chicago Bulls,Brooklyn Nets,110.0,95.0,15.0,True
+2012-01-24,2.0,1.83,Milwaukee Bucks,Atlanta Hawks,92.0,97.0,-5.0,False
+2012-01-24,1.73,2.14,Minnesota Timberwolves,Houston Rockets,92.0,107.0,-15.0,False
+2012-01-24,2.58,1.53,New Orleans Pelicans,San Antonio Spurs,102.0,104.0,-2.0,False
+2012-01-24,1.05,11.0,Oklahoma City Thunder,Detroit Pistons,99.0,79.0,20.0,True
+2012-01-24,3.24,1.37,Boston Celtics,Orlando Magic,87.0,56.0,31.0,True
+2012-01-24,1.08,8.29,Philadelphia 76ers,Washington Wizards,103.0,83.0,20.0,True
+2012-01-22,1.41,2.96,Los Angeles Lakers,Indiana Pacers,96.0,98.0,-2.0,False
+2012-01-22,1.44,2.82,Brooklyn Nets,Charlotte Hornets,97.0,87.0,10.0,True
+2012-01-22,1.19,4.98,Miami Heat,Milwaukee Bucks,82.0,91.0,-9.0,False
+2012-01-22,1.21,4.49,Los Angeles Clippers,Toronto Raptors,103.0,91.0,12.0,True
+2012-01-22,2.54,1.54,Washington Wizards,Boston Celtics,94.0,100.0,-6.0,False
+2012-01-21,1.32,3.5,Utah Jazz,Minnesota Timberwolves,108.0,98.0,10.0,True
+2012-01-21,4.04,1.26,Brooklyn Nets,Oklahoma City Thunder,74.0,84.0,-10.0,False
+2012-01-21,1.07,9.19,Chicago Bulls,Charlotte Hornets,95.0,89.0,6.0,True
+2012-01-21,1.53,2.6,Houston Rockets,San Antonio Spurs,105.0,102.0,3.0,True
+2012-01-21,1.19,4.92,Memphis Grizzlies,Sacramento Kings,128.0,95.0,33.0,True
+2012-01-21,2.6,1.53,New Orleans Pelicans,Dallas Mavericks,81.0,83.0,-2.0,False
+2012-01-21,3.46,1.32,Detroit Pistons,Portland Trail Blazers,94.0,91.0,3.0,True
+2012-01-21,1.3,3.61,Miami Heat,Philadelphia 76ers,113.0,92.0,21.0,True
+2012-01-21,2.15,1.73,New York Knicks,Denver Nuggets,114.0,119.0,-5.0,False
+2012-01-21,1.28,3.82,Atlanta Hawks,Cleveland Cavaliers,121.0,94.0,27.0,True
+2012-01-21,1.93,1.88,Golden State Warriors,Indiana Pacers,91.0,94.0,-3.0,False
+2012-01-21,1.49,2.69,Los Angeles Clippers,Minnesota Timberwolves,98.0,101.0,-3.0,False
+2012-01-21,1.12,6.61,San Antonio Spurs,Sacramento Kings,86.0,88.0,-2.0,False
+2012-01-21,1.59,2.43,Orlando Magic,Los Angeles Lakers,92.0,80.0,12.0,True
+2012-01-21,1.33,3.41,Boston Celtics,Phoenix Suns,71.0,79.0,-8.0,False
+2012-01-21,2.76,1.47,Cleveland Cavaliers,Chicago Bulls,75.0,114.0,-39.0,False
+2012-01-21,2.67,1.49,Detroit Pistons,Memphis Grizzlies,81.0,98.0,-17.0,False
+2012-01-21,1.5,2.67,New York Knicks,Milwaukee Bucks,86.0,100.0,-14.0,False
+2012-01-21,1.35,3.29,Philadelphia 76ers,Atlanta Hawks,90.0,76.0,14.0,True
+2012-01-21,3.81,1.28,Toronto Raptors,Portland Trail Blazers,84.0,94.0,-10.0,False
+2012-01-21,3.67,1.3,Washington Wizards,Denver Nuggets,104.0,108.0,-4.0,False
+2012-01-20,1.69,2.23,Utah Jazz,Dallas Mavericks,91.0,94.0,-3.0,False
+2012-01-20,1.16,5.45,Houston Rockets,New Orleans Pelicans,90.0,88.0,2.0,True
+2012-01-20,1.41,2.97,Miami Heat,Los Angeles Lakers,98.0,87.0,11.0,True
+2012-01-19,2.35,1.63,Los Angeles Clippers,Dallas Mavericks,91.0,89.0,2.0,True
+2012-01-19,2.99,1.41,Sacramento Kings,Indiana Pacers,92.0,88.0,4.0,True
+2012-01-19,1.75,2.12,Atlanta Hawks,Portland Trail Blazers,92.0,89.0,3.0,True
+2012-01-19,1.22,4.5,Minnesota Timberwolves,Detroit Pistons,93.0,85.0,8.0,True
+2012-01-19,2.5,1.57,New Orleans Pelicans,Memphis Grizzlies,87.0,93.0,-6.0,False
+2012-01-19,1.17,5.3,Boston Celtics,Toronto Raptors,96.0,73.0,23.0,True
+2012-01-19,1.66,2.29,Brooklyn Nets,Golden State Warriors,107.0,100.0,7.0,True
+2012-01-19,1.26,3.92,New York Knicks,Phoenix Suns,88.0,91.0,-3.0,False
+2012-01-19,1.5,2.68,Orlando Magic,San Antonio Spurs,83.0,85.0,-2.0,False
+2012-01-19,1.42,2.95,Philadelphia 76ers,Denver Nuggets,104.0,108.0,-4.0,False
+2012-01-19,7.08,1.11,Washington Wizards,Oklahoma City Thunder,105.0,102.0,3.0,True
+2012-01-17,1.51,2.62,Utah Jazz,Los Angeles Clippers,108.0,79.0,29.0,True
+2012-01-17,1.19,4.81,Chicago Bulls,Phoenix Suns,118.0,97.0,21.0,True
+2012-01-17,1.29,3.77,Houston Rockets,Detroit Pistons,97.0,80.0,17.0,True
+2012-01-17,2.24,1.68,Milwaukee Bucks,Denver Nuggets,95.0,105.0,-10.0,False
+2012-01-17,1.32,3.52,Miami Heat,San Antonio Spurs,120.0,98.0,22.0,True
+2012-01-17,1.74,2.14,Cleveland Cavaliers,Golden State Warriors,95.0,105.0,-10.0,False
+2012-01-17,1.09,8.29,Orlando Magic,Charlotte Hornets,96.0,89.0,7.0,True
+2012-01-17,1.57,2.48,Los Angeles Lakers,Dallas Mavericks,73.0,70.0,3.0,True
+2012-01-17,2.23,1.68,Boston Celtics,Oklahoma City Thunder,88.0,97.0,-9.0,False
+2012-01-17,1.3,3.59,Minnesota Timberwolves,Sacramento Kings,99.0,86.0,13.0,True
+2012-01-17,1.14,6.09,Atlanta Hawks,Toronto Raptors,93.0,84.0,9.0,True
+2012-01-17,1.27,3.88,Los Angeles Clippers,Brooklyn Nets,101.0,91.0,10.0,True
+2012-01-17,3.03,1.41,New Orleans Pelicans,Portland Trail Blazers,77.0,84.0,-7.0,False
+2012-01-17,1.84,1.98,Charlotte Hornets,Cleveland Cavaliers,94.0,102.0,-8.0,False
+2012-01-17,1.2,4.67,Philadelphia 76ers,Milwaukee Bucks,94.0,82.0,12.0,True
+2012-01-17,2.9,1.43,Washington Wizards,Houston Rockets,106.0,114.0,-8.0,False
+2012-01-17,2.22,1.7,Memphis Grizzlies,Chicago Bulls,102.0,86.0,16.0,True
+2012-01-17,2.07,1.78,New York Knicks,Orlando Magic,93.0,102.0,-9.0,False
+2012-01-15,1.23,4.34,San Antonio Spurs,Phoenix Suns,102.0,91.0,11.0,True
+2012-01-15,1.13,5.96,Denver Nuggets,Utah Jazz,96.0,106.0,-10.0,False
+2012-01-15,1.52,2.61,Detroit Pistons,Golden State Warriors,91.0,99.0,-8.0,False
+2012-01-15,1.71,2.19,Los Angeles Clippers,Los Angeles Lakers,102.0,94.0,8.0,True
+2012-01-15,1.08,8.69,Dallas Mavericks,Sacramento Kings,99.0,60.0,39.0,True
+2012-01-15,1.25,4.13,Utah Jazz,Brooklyn Nets,107.0,94.0,13.0,True
+2012-01-15,1.99,1.84,Houston Rockets,Portland Trail Blazers,107.0,105.0,2.0,True
+2012-01-15,1.12,6.58,Memphis Grizzlies,New Orleans Pelicans,108.0,99.0,9.0,True
+2012-01-14,1.04,11.96,Chicago Bulls,Toronto Raptors,77.0,64.0,13.0,True
+2012-01-14,1.12,6.72,Oklahoma City Thunder,New York Knicks,104.0,92.0,12.0,True
+2012-01-14,1.28,3.83,Atlanta Hawks,Minnesota Timberwolves,93.0,91.0,2.0,True
+2012-01-14,2.4,1.6,Charlotte Hornets,Golden State Warriors,112.0,100.0,12.0,True
+2012-01-14,1.59,2.43,Indiana Pacers,Boston Celtics,97.0,83.0,14.0,True
+2012-01-14,4.07,1.25,Washington Wizards,Philadelphia 76ers,90.0,103.0,-13.0,False
+2012-01-14,2.41,1.6,Denver Nuggets,Miami Heat,117.0,104.0,13.0,True
+2012-01-14,1.13,6.3,Los Angeles Lakers,Cleveland Cavaliers,97.0,92.0,5.0,True
+2012-01-14,1.4,3.03,Phoenix Suns,Brooklyn Nets,103.0,110.0,-7.0,False
+2012-01-14,1.19,4.91,Dallas Mavericks,Milwaukee Bucks,102.0,76.0,26.0,True
+2012-01-14,1.83,2.0,San Antonio Spurs,Portland Trail Blazers,99.0,83.0,16.0,True
+2012-01-14,2.0,1.83,Boston Celtics,Chicago Bulls,79.0,88.0,-9.0,False
+2012-01-14,1.22,4.38,Houston Rockets,Sacramento Kings,103.0,89.0,14.0,True
+2012-01-14,2.01,1.82,New Orleans Pelicans,Minnesota Timberwolves,80.0,87.0,-7.0,False
+2012-01-14,1.64,2.33,Charlotte Hornets,Detroit Pistons,81.0,98.0,-17.0,False
+2012-01-14,1.06,10.5,Philadelphia 76ers,Washington Wizards,120.0,89.0,31.0,True
+2012-01-14,2.99,1.41,Toronto Raptors,Indiana Pacers,90.0,95.0,-5.0,False
+2012-01-13,2.41,1.6,Golden State Warriors,Orlando Magic,109.0,117.0,-8.0,False
+2012-01-13,1.31,3.54,Phoenix Suns,Cleveland Cavaliers,90.0,101.0,-11.0,False
+2012-01-13,1.55,2.53,Memphis Grizzlies,New York Knicks,94.0,83.0,11.0,True
+2012-01-13,1.23,4.33,Milwaukee Bucks,Detroit Pistons,102.0,93.0,9.0,True
+2012-01-13,1.27,3.93,Atlanta Hawks,Charlotte Hornets,111.0,81.0,30.0,True
+2012-01-12,2.32,1.64,Los Angeles Clippers,Miami Heat,95.0,89.0,6.0,True
+2012-01-12,1.64,2.32,Portland Trail Blazers,Orlando Magic,104.0,107.0,-3.0,False
+2012-01-12,1.09,7.96,Denver Nuggets,Brooklyn Nets,123.0,115.0,8.0,True
+2012-01-12,2.07,1.77,Utah Jazz,Los Angeles Lakers,87.0,90.0,-3.0,False
+2012-01-12,1.34,3.42,San Antonio Spurs,Houston Rockets,101.0,95.0,6.0,True
+2012-01-12,1.48,2.73,Boston Celtics,Dallas Mavericks,85.0,90.0,-5.0,False
+2012-01-12,1.11,6.93,Chicago Bulls,Washington Wizards,78.0,64.0,14.0,True
+2012-01-12,3.36,1.34,New Orleans Pelicans,Oklahoma City Thunder,85.0,95.0,-10.0,False
+2012-01-12,1.6,2.42,New York Knicks,Philadelphia 76ers,85.0,79.0,6.0,True
+2012-01-12,1.73,2.16,Indiana Pacers,Atlanta Hawks,96.0,84.0,12.0,True
+2012-01-12,1.43,2.89,Toronto Raptors,Sacramento Kings,91.0,98.0,-7.0,False
+2012-01-11,4.97,1.19,Golden State Warriors,Miami Heat,111.0,106.0,5.0,True
+2012-01-11,1.27,3.9,Los Angeles Lakers,Phoenix Suns,99.0,83.0,16.0,True
+2012-01-11,1.42,2.93,Portland Trail Blazers,Los Angeles Clippers,105.0,97.0,8.0,True
+2012-01-11,1.38,3.15,Utah Jazz,Cleveland Cavaliers,113.0,105.0,8.0,True
+2012-01-11,2.23,1.69,Memphis Grizzlies,Oklahoma City Thunder,95.0,100.0,-5.0,False
+2012-01-11,2.1,1.76,Milwaukee Bucks,San Antonio Spurs,106.0,103.0,3.0,True
+2012-01-11,3.35,1.34,Minnesota Timberwolves,Chicago Bulls,100.0,111.0,-11.0,False
+2012-01-11,3.39,1.34,Detroit Pistons,Dallas Mavericks,86.0,100.0,-14.0,False
+2012-01-11,2.36,1.62,Charlotte Hornets,Houston Rockets,70.0,82.0,-12.0,False
+2012-01-11,1.19,4.82,Philadelphia 76ers,Sacramento Kings,112.0,85.0,27.0,True
+2012-01-11,1.72,2.17,Washington Wizards,Toronto Raptors,93.0,78.0,15.0,True
+2012-01-09,1.07,9.53,Denver Nuggets,New Orleans Pelicans,81.0,94.0,-13.0,False
+2012-01-09,1.04,12.38,Chicago Bulls,Detroit Pistons,92.0,68.0,24.0,True
+2012-01-09,2.96,1.42,Brooklyn Nets,Atlanta Hawks,101.0,106.0,-5.0,False
+2012-01-09,1.13,6.25,New York Knicks,Charlotte Hornets,91.0,87.0,4.0,True
+2012-01-09,1.32,3.5,Philadelphia 76ers,Indiana Pacers,96.0,86.0,10.0,True
+2012-01-09,1.67,2.25,Toronto Raptors,Minnesota Timberwolves,97.0,87.0,10.0,True
+2012-01-08,1.28,3.78,Los Angeles Lakers,Memphis Grizzlies,90.0,82.0,8.0,True
+2012-01-08,1.12,6.39,Portland Trail Blazers,Cleveland Cavaliers,98.0,78.0,20.0,True
+2012-01-08,1.27,3.88,Phoenix Suns,Milwaukee Bucks,109.0,93.0,16.0,True
+2012-01-08,1.38,3.12,Oklahoma City Thunder,San Antonio Spurs,108.0,96.0,12.0,True
+2012-01-08,3.49,1.32,Sacramento Kings,Orlando Magic,97.0,104.0,-7.0,False
+2012-01-08,2.15,1.73,Washington Wizards,Minnesota Timberwolves,72.0,93.0,-21.0,False
+2012-01-08,1.63,2.34,Golden State Warriors,Utah Jazz,87.0,88.0,-1.0,False
+2012-01-08,1.14,5.83,Los Angeles Clippers,Milwaukee Bucks,92.0,86.0,6.0,True
+2012-01-08,1.1,7.63,Dallas Mavericks,New Orleans Pelicans,96.0,81.0,15.0,True
+2012-01-08,1.53,2.58,San Antonio Spurs,Denver Nuggets,121.0,117.0,4.0,True
+2012-01-08,2.85,1.44,Houston Rockets,Oklahoma City Thunder,95.0,98.0,-3.0,False
+2012-01-08,1.14,5.68,Philadelphia 76ers,Toronto Raptors,97.0,62.0,35.0,True
+2012-01-08,4.78,1.2,Brooklyn Nets,Miami Heat,90.0,101.0,-11.0,False
+2012-01-08,2.62,1.51,Detroit Pistons,New York Knicks,80.0,103.0,-23.0,False
+2012-01-08,3.04,1.4,Atlanta Hawks,Chicago Bulls,109.0,94.0,15.0,True
+2012-01-08,1.14,5.69,Indiana Pacers,Charlotte Hornets,99.0,77.0,22.0,True
+2012-01-07,1.13,6.21,Los Angeles Lakers,Golden State Warriors,97.0,90.0,7.0,True
+2012-01-07,2.24,1.68,Phoenix Suns,Portland Trail Blazers,102.0,77.0,25.0,True
+2012-01-07,1.98,1.86,Utah Jazz,Memphis Grizzlies,94.0,85.0,9.0,True
+2012-01-07,1.33,3.46,Minnesota Timberwolves,Cleveland Cavaliers,87.0,98.0,-11.0,False
+2012-01-07,3.23,1.36,New Orleans Pelicans,Denver Nuggets,88.0,96.0,-8.0,False
+2012-01-07,1.14,5.75,Oklahoma City Thunder,Houston Rockets,109.0,94.0,15.0,True
+2012-01-07,2.03,1.8,Orlando Magic,Chicago Bulls,83.0,97.0,-14.0,False
+2012-01-07,1.39,3.11,Boston Celtics,Indiana Pacers,74.0,87.0,-13.0,False
+2012-01-07,2.05,1.79,Charlotte Hornets,Atlanta Hawks,96.0,102.0,-6.0,False
+2012-01-07,1.15,5.66,Philadelphia 76ers,Detroit Pistons,96.0,73.0,23.0,True
+2012-01-07,1.36,3.26,Toronto Raptors,Brooklyn Nets,85.0,97.0,-12.0,False
+2012-01-07,3.19,1.37,Washington Wizards,New York Knicks,96.0,99.0,-3.0,False
+2012-01-06,1.6,2.42,Portland Trail Blazers,Los Angeles Lakers,107.0,96.0,11.0,True
+2012-01-06,2.34,1.63,Sacramento Kings,Milwaukee Bucks,103.0,100.0,3.0,True
+2012-01-06,1.72,2.17,San Antonio Spurs,Dallas Mavericks,93.0,71.0,22.0,True
+2012-01-06,1.51,2.66,Atlanta Hawks,Miami Heat,109.0,116.0,-7.0,False
+2012-01-05,1.29,3.75,Los Angeles Clippers,Houston Rockets,117.0,89.0,28.0,True
+2012-01-05,1.09,7.8,Denver Nuggets,Sacramento Kings,110.0,83.0,27.0,True
+2012-01-05,1.27,3.9,Dallas Mavericks,Phoenix Suns,98.0,89.0,9.0,True
+2012-01-05,1.27,3.91,San Antonio Spurs,Golden State Warriors,101.0,95.0,6.0,True
+2012-01-05,1.5,2.66,Minnesota Timberwolves,Memphis Grizzlies,86.0,90.0,-4.0,False
+2012-01-05,2.85,1.45,New Orleans Pelicans,Philadelphia 76ers,93.0,101.0,-8.0,False
+2012-01-05,1.06,10.35,Boston Celtics,Brooklyn Nets,89.0,70.0,19.0,True
+2012-01-05,3.35,1.35,Detroit Pistons,Chicago Bulls,83.0,99.0,-16.0,False
+2012-01-05,1.26,3.94,Miami Heat,Indiana Pacers,118.0,83.0,35.0,True
+2012-01-05,1.11,7.14,New York Knicks,Charlotte Hornets,110.0,118.0,-8.0,False
+2012-01-05,1.06,9.75,Orlando Magic,Washington Wizards,103.0,85.0,18.0,True
+2012-01-05,1.48,2.73,Toronto Raptors,Cleveland Cavaliers,92.0,77.0,15.0,True
+2012-01-04,1.3,3.62,Los Angeles Lakers,Houston Rockets,108.0,99.0,9.0,True
+2012-01-04,1.8,2.02,Utah Jazz,Milwaukee Bucks,85.0,73.0,12.0,True
+2012-01-04,1.17,5.27,Chicago Bulls,Atlanta Hawks,76.0,74.0,2.0,True
+2012-01-04,1.35,3.33,Memphis Grizzlies,Sacramento Kings,113.0,96.0,17.0,True
+2012-01-04,1.49,2.71,Oklahoma City Thunder,Portland Trail Blazers,93.0,103.0,-10.0,False
+2012-01-04,1.56,2.52,Cleveland Cavaliers,Charlotte Hornets,115.0,101.0,14.0,True
+2012-01-02,1.52,2.62,Denver Nuggets,Milwaukee Bucks,91.0,86.0,5.0,True
+2012-01-02,1.33,3.42,Utah Jazz,New Orleans Pelicans,94.0,90.0,4.0,True
+2012-01-02,2.21,1.7,Dallas Mavericks,Oklahoma City Thunder,100.0,87.0,13.0,True
+2012-01-02,2.75,1.47,Minnesota Timberwolves,San Antonio Spurs,106.0,96.0,10.0,True
+2012-01-02,1.11,7.12,Boston Celtics,Washington Wizards,100.0,92.0,8.0,True
+2012-01-02,3.12,1.38,Brooklyn Nets,Indiana Pacers,94.0,108.0,-14.0,False
+2012-01-02,2.67,1.5,Detroit Pistons,Orlando Magic,89.0,78.0,11.0,True
+2012-01-02,1.14,5.89,Miami Heat,Atlanta Hawks,92.0,100.0,-8.0,False
+2012-01-02,1.24,4.27,New York Knicks,Toronto Raptors,85.0,90.0,-5.0,False
+2012-01-02,1.56,2.53,Phoenix Suns,Golden State Warriors,102.0,91.0,11.0,True
+2012-01-01,1.64,2.32,Los Angeles Clippers,Portland Trail Blazers,93.0,88.0,5.0,True
+2012-01-01,1.59,2.47,Sacramento Kings,New Orleans Pelicans,96.0,80.0,16.0,True
+2012-01-01,1.3,3.62,Chicago Bulls,Memphis Grizzlies,104.0,64.0,40.0,True
+2012-01-01,1.48,2.73,Denver Nuggets,Los Angeles Lakers,99.0,90.0,9.0,True
+2012-01-01,2.31,1.64,Minnesota Timberwolves,Dallas Mavericks,99.0,82.0,17.0,True
+2012-01-01,1.73,2.15,Cleveland Cavaliers,Brooklyn Nets,98.0,82.0,16.0,True
+2012-01-01,1.04,12.21,Miami Heat,Charlotte Hornets,129.0,90.0,39.0,True
+2012-01-01,1.11,7.26,Orlando Magic,Toronto Raptors,102.0,96.0,6.0,True
+2012-01-01,3.48,1.32,Washington Wizards,Boston Celtics,86.0,94.0,-8.0,False
+2011-12-31,2.11,1.77,Golden State Warriors,Philadelphia 76ers,79.0,107.0,-28.0,False
+2011-12-31,1.06,10.64,San Antonio Spurs,Utah Jazz,104.0,89.0,15.0,True
+2011-12-31,1.11,7.28,Oklahoma City Thunder,Phoenix Suns,107.0,97.0,10.0,True
+2011-12-31,1.95,1.88,Sacramento Kings,New York Knicks,92.0,114.0,-22.0,False
+2011-12-31,1.85,1.97,Houston Rockets,Atlanta Hawks,95.0,84.0,11.0,True
+2011-12-31,2.2,1.71,Detroit Pistons,Indiana Pacers,96.0,88.0,8.0,True
+2011-12-31,1.44,2.84,Los Angeles Lakers,Denver Nuggets,92.0,89.0,3.0,True
+2011-12-31,2.03,1.8,Los Angeles Clippers,Chicago Bulls,101.0,114.0,-13.0,False
+2011-12-31,2.63,1.52,Utah Jazz,Philadelphia 76ers,102.0,99.0,3.0,True
+2011-12-31,1.21,4.57,Dallas Mavericks,Toronto Raptors,99.0,86.0,13.0,True
+2011-12-31,1.21,4.63,Milwaukee Bucks,Washington Wizards,102.0,81.0,21.0,True
+2011-12-31,1.37,3.23,Memphis Grizzlies,Houston Rockets,113.0,93.0,20.0,True
+2011-12-31,4.23,1.24,Minnesota Timberwolves,Miami Heat,101.0,103.0,-2.0,False
+2011-12-31,1.74,2.13,New Orleans Pelicans,Phoenix Suns,78.0,93.0,-15.0,False
+2011-12-31,1.1,7.63,Atlanta Hawks,Brooklyn Nets,105.0,98.0,7.0,True
+2011-12-31,1.14,5.84,Boston Celtics,Detroit Pistons,96.0,85.0,11.0,True
+2011-12-31,2.53,1.55,Charlotte Hornets,Orlando Magic,79.0,100.0,-21.0,False
+2011-12-31,1.17,5.22,Indiana Pacers,Cleveland Cavaliers,98.0,91.0,7.0,True
+2011-12-30,1.55,2.54,Los Angeles Lakers,New York Knicks,99.0,82.0,17.0,True
+2011-12-30,1.43,2.89,Portland Trail Blazers,Denver Nuggets,111.0,102.0,9.0,True
+2011-12-30,3.9,1.27,Sacramento Kings,Chicago Bulls,98.0,108.0,-10.0,False
+2011-12-30,2.27,1.66,Houston Rockets,San Antonio Spurs,105.0,85.0,20.0,True
+2011-12-30,1.44,2.87,Oklahoma City Thunder,Dallas Mavericks,104.0,102.0,2.0,True
+2011-12-30,1.1,7.42,Orlando Magic,Brooklyn Nets,94.0,78.0,16.0,True
+2011-12-29,3.08,1.4,Golden State Warriors,New York Knicks,92.0,78.0,14.0,True
+2011-12-29,1.08,8.65,Denver Nuggets,Utah Jazz,117.0,100.0,17.0,True
+2011-12-29,2.04,1.8,Phoenix Suns,Philadelphia 76ers,83.0,103.0,-20.0,False
+2011-12-29,1.5,2.68,San Antonio Spurs,Los Angeles Clippers,115.0,90.0,25.0,True
+2011-12-29,1.96,1.85,Memphis Grizzlies,Oklahoma City Thunder,95.0,98.0,-3.0,False
+2011-12-29,2.57,1.54,New Orleans Pelicans,Boston Celtics,97.0,78.0,19.0,True
+2011-12-29,1.43,2.91,Detroit Pistons,Cleveland Cavaliers,89.0,105.0,-16.0,False
+2011-12-28,1.22,4.5,Atlanta Hawks,Washington Wizards,101.0,83.0,18.0,True
+2011-12-28,6.91,1.12,Charlotte Hornets,Miami Heat,95.0,96.0,-1.0,False
+2011-12-28,2.51,1.56,Toronto Raptors,Indiana Pacers,85.0,90.0,-5.0,False
+2011-12-28,1.41,2.95,Los Angeles Lakers,Utah Jazz,96.0,71.0,25.0,True
+2011-12-28,1.23,4.34,Portland Trail Blazers,Sacramento Kings,101.0,79.0,22.0,True
+2011-12-28,1.43,2.9,Milwaukee Bucks,Minnesota Timberwolves,98.0,95.0,3.0,True
+2011-12-28,1.17,5.23,Miami Heat,Boston Celtics,115.0,107.0,8.0,True
+2011-12-28,2.55,1.54,Brooklyn Nets,Atlanta Hawks,70.0,106.0,-36.0,False
+2011-12-27,3.42,1.34,Golden State Warriors,Chicago Bulls,99.0,91.0,8.0,True
+2011-12-27,1.5,2.67,Portland Trail Blazers,Philadelphia 76ers,107.0,103.0,4.0,True
+2011-12-27,2.31,1.65,Sacramento Kings,Los Angeles Lakers,100.0,91.0,9.0,True
+2011-12-27,1.38,3.18,Phoenix Suns,New Orleans Pelicans,84.0,85.0,-1.0,False
+2011-12-27,1.51,2.64,Dallas Mavericks,Denver Nuggets,93.0,115.0,-22.0,False
+2011-12-27,1.46,2.79,San Antonio Spurs,Memphis Grizzlies,95.0,82.0,13.0,True
+2011-12-27,2.89,1.43,Minnesota Timberwolves,Oklahoma City Thunder,100.0,104.0,-4.0,False
+2011-12-27,2.54,1.55,Charlotte Hornets,Milwaukee Bucks,96.0,95.0,1.0,True
+2011-12-27,1.74,2.13,Cleveland Cavaliers,Toronto Raptors,96.0,104.0,-8.0,False
+2011-12-27,1.25,4.06,Indiana Pacers,Detroit Pistons,91.0,79.0,12.0,True
+2011-12-27,1.38,3.14,Orlando Magic,Houston Rockets,104.0,95.0,9.0,True
+2011-12-27,1.6,2.4,Washington Wizards,Brooklyn Nets,84.0,90.0,-6.0,False
+2011-12-26,2.76,1.47,Golden State Warriors,Los Angeles Clippers,86.0,105.0,-19.0,False
+2011-12-26,1.28,3.84,Oklahoma City Thunder,Orlando Magic,97.0,89.0,8.0,True
+2011-12-26,2.66,1.5,Los Angeles Lakers,Chicago Bulls,87.0,88.0,-1.0,False
+2011-12-26,2.68,1.49,Dallas Mavericks,Miami Heat,94.0,105.0,-11.0,False
+2011-12-26,1.51,2.63,New York Knicks,Boston Celtics,106.0,104.0,2.0,True
+2011-12-22,1.79,2.01,Phoenix Suns,Denver Nuggets,85.0,110.0,-25.0,False
+2011-12-22,1.3,3.59,Atlanta Hawks,Charlotte Hornets,92.0,75.0,17.0,True
+2011-12-22,1.35,3.21,Los Angeles Clippers,Los Angeles Lakers,108.0,103.0,5.0,True
+2011-12-22,1.53,2.55,Utah Jazz,Portland Trail Blazers,92.0,89.0,3.0,True
+2011-12-22,1.54,2.51,San Antonio Spurs,Houston Rockets,97.0,95.0,2.0,True
+2011-12-22,1.33,3.35,Milwaukee Bucks,Minnesota Timberwolves,84.0,85.0,-1.0,False
+2011-12-22,3.19,1.36,New Orleans Pelicans,Memphis Grizzlies,95.0,80.0,15.0,True
+2011-12-22,1.42,2.88,Boston Celtics,Toronto Raptors,81.0,73.0,8.0,True
+2011-12-22,1.33,3.38,New York Knicks,Brooklyn Nets,88.0,82.0,6.0,True
+2011-12-22,3.32,1.34,Orlando Magic,Miami Heat,104.0,100.0,4.0,True
+2011-12-21,2.24,1.66,Sacramento Kings,Golden State Warriors,95.0,91.0,4.0,True
+2011-12-21,1.54,2.51,Denver Nuggets,Phoenix Suns,127.0,110.0,17.0,True
+2011-12-21,1.26,3.87,Chicago Bulls,Indiana Pacers,93.0,85.0,8.0,True
+2011-12-21,1.41,2.93,Oklahoma City Thunder,Dallas Mavericks,87.0,83.0,4.0,True
+2011-12-21,1.6,2.35,Cleveland Cavaliers,Detroit Pistons,89.0,90.0,-1.0,False
+2011-12-21,1.27,3.71,Philadelphia 76ers,Washington Wizards,101.0,94.0,7.0,True
+2011-12-20,1.63,2.3,Los Angeles Lakers,Los Angeles Clippers,95.0,114.0,-19.0,False
+2011-12-20,1.27,3.84,Portland Trail Blazers,Utah Jazz,110.0,90.0,20.0,True
+2011-12-20,2.46,1.56,Charlotte Hornets,Atlanta Hawks,79.0,77.0,2.0,True
+2011-12-18,1.72,2.13,Dallas Mavericks,Oklahoma City Thunder,92.0,106.0,-14.0,False
+2011-12-18,1.41,2.96,Miami Heat,Orlando Magic,118.0,85.0,33.0,True
+2011-12-18,2.75,1.45,Toronto Raptors,Boston Celtics,75.0,76.0,-1.0,False
+2011-12-18,1.46,2.72,Golden State Warriors,Sacramento Kings,107.0,96.0,11.0,True
+2011-12-18,1.72,2.11,Houston Rockets,San Antonio Spurs,101.0,87.0,14.0,True
+2011-12-18,1.45,2.76,Minnesota Timberwolves,Milwaukee Bucks,117.0,96.0,21.0,True
+2011-12-17,2.69,1.47,Brooklyn Nets,New York Knicks,83.0,92.0,-9.0,False
+2011-12-16,1.21,4.47,Memphis Grizzlies,New Orleans Pelicans,90.0,97.0,-7.0,False
+2011-12-16,1.41,2.89,Detroit Pistons,Cleveland Cavaliers,87.0,91.0,-4.0,False
+2011-12-16,2.55,1.53,Indiana Pacers,Chicago Bulls,86.0,95.0,-9.0,False
+2011-12-16,2.06,1.75,Washington Wizards,Philadelphia 76ers,78.0,103.0,-25.0,False
